@@ -1,0 +1,343 @@
+city,country,continent,continent_group
+Chengdu,China,Asia,Asia
+Kiev,Ukraine,Europe,Europe
+Valencia,Spain,Europe,Europe
+Santo Domingo,Dominican Republic,North America,Americas
+Xian,China,Asia,Asia
+Kathmandu,Nepal,Asia,Asia
+Sydney,Australia,Oceania,Oceania
+Lagos,Nigeria,Africa,Africa
+Wuxi,China,Asia,Asia
+Kansas City,United States,North America,Americas
+Karachi,Pakistan,Asia,Asia
+Fort Worth,United States,North America,Americas
+Victoria,Canada,North America,Americas
+San Antonio,United States,North America,Americas
+Istanbul,Turkey,Asia,Asia
+Amritsar,India,Asia,Asia
+Los Angeles,United States,North America,Americas
+Ankara,Turkey,Asia,Asia
+Minneapolis,United States,North America,Americas
+Brisbane,Australia,Oceania,Oceania
+Berlin,Germany,Europe,Europe
+Manaus,Brazil,South America,Americas
+Ludhiana,India,Asia,Asia
+Adana,Turkey,Asia,Asia
+Canberra,Australia,Oceania,Oceania
+Los Angeles,Chile,South America,Americas
+Libreville,Gabon,Africa,Africa
+Phoenix,United States,North America,Americas
+Surat,India,Asia,Asia
+Lilongwe,Malawi,Africa,Africa
+Budapest,Hungary,Europe,Europe
+Ahmadabad,India,Asia,Asia
+Colorado Springs,United States,North America,Americas
+Ouagadougou,Burkina Faso,Africa,Africa
+Luoyang,China,Asia,Asia
+Santa Cruz,Philippines,Asia,Asia
+Guatemala City,Guatemala,North America,Americas
+Damascus,Syria,Asia,Asia
+Taiyuan,China,Asia,Asia
+Belgrade,Serbia,Europe,Europe
+Nouakchott,Mauritania,Africa,Africa
+Hyderabad,Pakistan,Asia,Asia
+Jacksonville,United States,North America,Americas
+Bursa,Turkey,Asia,Asia
+Charlotte,United States,North America,Americas
+Niamey,Niger,Africa,Africa
+Barcelona,Spain,Europe,Europe
+Dhaka,Bangladesh,Asia,Asia
+Zapopan,Mexico,North America,Americas
+Astana,Kazakhstan,Asia,Asia
+Asmara,Eritrea,Africa,Africa
+Faisalabad,Pakistan,Asia,Asia
+Bissau,Guinea Bissau,Africa,Africa
+Rio de Janeiro,Brazil,South America,Americas
+Algiers,Algeria,Africa,Africa
+Moscow,Russia,Europe,Europe
+San Diego,United States,North America,Americas
+Managua,Nicaragua,North America,Americas
+Tangshan,China,Asia,Asia
+Fresno,United States,North America,Americas
+Lanzhou,China,Asia,Asia
+Datong,China,Asia,Asia
+Mecca,Saudi Arabia,Asia,Asia
+Columbus,United States,North America,Americas
+Chisinau,Moldova,Europe,Europe
+Long Beach,United States,North America,Americas
+Gujranwala,Pakistan,Asia,Asia
+Bujumbura,Burundi,Africa,Africa
+Arlington,United States,North America,Americas
+Kitakyushu,Japan,Asia,Asia
+Atlanta,United States,North America,Americas
+Maiduguri,Nigeria,Africa,Africa
+Rajkot,India,Asia,Asia
+Tripoli,Libya,Africa,Africa
+Harbin,China,Asia,Asia
+Las Vegas,United States,North America,Americas
+Milan,Italy,Europe,Europe
+Amsterdam,Netherlands,Europe,Europe
+Palembang,Indonesia,Asia,Asia
+Accra,Ghana,Africa,Africa
+Peshawar,Pakistan,Asia,Asia
+Lima,Peru,South America,Americas
+Mesa,United States,North America,Americas
+Sacramento,United States,North America,Americas
+Hanoi,Vietnam,Asia,Asia
+Colombo,Sri Lanka,Asia,Asia
+Copenhagen,Denmark,Europe,Europe
+Seattle,United States,North America,Americas
+Dushanbe,Tajikistan,Asia,Asia
+Wuhan,China,Asia,Asia
+Monterrey,Mexico,North America,Americas
+Ho Chi Minh City,Vietnam,Asia,Asia
+Pune,India,Asia,Asia
+Juba,Sudan,Africa,Africa
+Abu Dhabi,United Arab Emirates,Asia,Asia
+Wellington,New Zealand,Oceania,Oceania
+Abuja,Nigeria,Africa,Africa
+Zagreb,Croatia,Europe,Europe
+Georgetown,Guyana,South America,Americas
+Lahore,Pakistan,Asia,Asia
+Cardiff,United Kingdom,Europe,Europe
+Fuzhou,China,Asia,Asia
+Cali,Colombia,South America,Americas
+Dakar,Senegal,Africa,Africa
+Birmingham,United States,North America,Americas
+Omaha,United States,North America,Americas
+Campinas,Brazil,South America,Americas
+Kinshasa,Congo (Democratic Republic Of The),Africa,Africa
+Manila,Philippines,Asia,Asia
+Ecatepec,Mexico,North America,Americas
+Boston,United States,North America,Americas
+Singapore,Singapore,Asia,Asia
+Medan,Indonesia,Asia,Asia
+Ljubljana,Slovenia,Europe,Europe
+Guarulhos,Brazil,South America,Americas
+Porto Alegre,Brazil,South America,Americas
+Handan,China,Asia,Asia
+Bangui,Central African Republic,Africa,Africa
+Port Harcourt,Nigeria,Africa,Africa
+Volgograd,Russia,Europe,Europe
+Barranquilla,Colombia,South America,Americas
+Freetown,Sierra Leone,Africa,Africa
+Valencia,Venezuela,South America,Americas
+Edinburgh,United Kingdom,Europe,Europe
+Puebla,Mexico,North America,Americas
+Indianapolis,United States,North America,Americas
+Tulsa,United States,North America,Americas
+Santiago,Dominican Republic,North America,Americas
+New Delhi,India,Asia,Asia
+Mexicali,Mexico,North America,Americas
+Detroit,United States,North America,Americas
+Cairo,Egypt,Africa,Africa
+Vadodara,India,Asia,Asia
+Riyadh,Saudi Arabia,Asia,Asia
+Kabul,Afghanistan,Asia,Asia
+Sofia,Bulgaria,Europe,Europe
+Foshan,China,Asia,Asia
+Chelyabinsk,Russia,Europe,Europe
+Shanghai,China,Asia,Asia
+Anshan,China,Asia,Asia
+Abidjan,Côte D'Ivoire,Africa,Africa
+San Salvador,El Salvador,North America,Americas
+Semarang,Indonesia,Asia,Asia
+Oslo,Norway,Europe,Europe
+Port Au Prince,Haiti,North America,Americas
+Kanpur,India,Asia,Asia
+Podgorica,Montenegro,Europe,Europe
+Kingston,Canada,North America,Americas
+Doha,Qatar,Asia,Asia
+Lisbon,Portugal,Europe,Europe
+Multan,Pakistan,Asia,Asia
+Austin,United States,North America,Americas
+Santiago,Philippines,Asia,Asia
+Kampala,Uganda,Africa,Africa
+Melbourne,Australia,Oceania,Oceania
+Hamburg,Germany,Europe,Europe
+Ulaanbaatar,Mongolia,Asia,Asia
+Tashkent,Uzbekistan,Asia,Asia
+Louisville,United States,North America,Americas
+Tegucigalpa,Honduras,North America,Americas
+Durban,South Africa,Africa,Africa
+Patna,India,Asia,Asia
+Vilnius,Lithuania,Europe,Europe
+Skopje,Macedonia,Europe,Europe
+Agra,India,Asia,Asia
+Jaipur,India,Asia,Asia
+Barcelona,Venezuela,South America,Americas
+Kuala Lumpur,Malaysia,Asia,Asia
+Washington,United States,North America,Americas
+Conakry,Guinea,Africa,Africa
+Shiraz,Iran,Asia,Asia
+Maracaibo,Venezuela,South America,Americas
+New Orleans,United States,North America,Americas
+Guayaquil,Ecuador,South America,Americas
+Toronto,Canada,North America,Americas
+Raleigh,United States,North America,Americas
+Santiago,Chile,South America,Americas
+Changchun,China,Asia,Asia
+Manama,Bahrain,Asia,Asia
+Antananarivo,Madagascar,Africa,Africa
+Kingston,Jamaica,North America,Americas
+Tabriz,Iran,Asia,Asia
+Philadelphia,United States,North America,Americas
+Fortaleza,Brazil,South America,Americas
+Bandung,Indonesia,Asia,Asia
+Tallinn,Estonia,Europe,Europe
+Islamabad,Pakistan,Asia,Asia
+Guiyang,China,Asia,Asia
+Perm,Russia,Europe,Europe
+Paris,France,Europe,Europe
+Virginia Beach,United States,North America,Americas
+Qiqihar,China,Asia,Asia
+Montevideo,Uruguay,South America,Americas
+Bern,Switzerland,Europe,Europe
+Stockholm,Sweden,Europe,Europe
+Haora,India,Asia,Asia
+Ranchi,India,Asia,Asia
+Tianjin,China,Asia,Asia
+Bratislava,Slovakia,Europe,Europe
+Kaduna,Nigeria,Africa,Africa
+Warsaw,Poland,Europe,Europe
+Quito,Ecuador,South America,Americas
+Benghazi,Libya,Africa,Africa
+Mogadishu,Somalia,Africa,Africa
+Nagpur,India,Asia,Asia
+Tokyo,Japan,Asia,Asia
+Bucharest,Romania,Europe,Europe
+Nairobi,Kenya,Africa,Africa
+Maseru,Lesotho,Africa,Africa
+Sarajevo,Bosnia And Herzegovina,Europe,Europe
+Tijuana,Mexico,North America,Americas
+Jilin,China,Asia,Asia
+Tirana,Albania,Europe,Europe
+Kobe,Japan,Asia,Asia
+Kigali,Rwanda,Africa,Africa
+Minsk,Belarus,Europe,Europe
+Ibadan,Nigeria,Africa,Africa
+Beirut,Lebanon,Asia,Asia
+Irbil,Iraq,Asia,Asia
+Guangzhou,China,Asia,Asia
+Dallas,United States,North America,Americas
+Dar Es Salaam,Tanzania,Africa,Africa
+Jinan,China,Asia,Asia
+Yerevan,Armenia,Asia,Asia
+Indore,India,Asia,Asia
+La Paz,Bolivia,South America,Americas
+Barquisimeto,Venezuela,South America,Americas
+Albuquerque,United States,North America,Americas
+Omsk,Russia,Europe,Europe
+Lusaka,Zambia,Africa,Africa
+Vienna,Austria,Europe,Europe
+Riga,Latvia,Europe,Europe
+Xuzhou,China,Asia,Asia
+Milwaukee,United States,North America,Americas
+Caracas,Venezuela,South America,Americas
+New York,United States,North America,Americas
+Hyderabad,India,Asia,Asia
+Montreal,Canada,North America,Americas
+Prague,Czech Republic,Europe,Europe
+Bamako,Mali,Africa,Africa
+Nassau,Bahamas,North America,Americas
+Pristina,Serbia,Europe,Europe
+Baghdad,Iraq,Asia,Asia
+Surabaya,Indonesia,Asia,Asia
+Luanda,Angola,Africa,Africa
+Dalian,China,Asia,Asia
+Vientiane,Laos,Asia,Asia
+Munich,Germany,Europe,Europe
+El Paso,United States,North America,Americas
+Nashville,United States,North America,Americas
+Khulna,Bangladesh,Asia,Asia
+Qingdao,China,Asia,Asia
+Casablanca,Morocco,Africa,Africa
+London,Canada,North America,Americas
+Soweto,South Africa,Africa,Africa
+Memphis,United States,North America,Americas
+Kazan,Russia,Europe,Europe
+Yamoussoukro,Côte D'Ivoire,Africa,Africa
+Paramaribo,Suriname,South America,Americas
+Izmir,Turkey,Asia,Asia
+Varanasi,India,Asia,Asia
+Khartoum,Sudan,Africa,Africa
+Cordoba,Argentina,South America,Americas
+Houston,United States,North America,Americas
+Bangalore,India,Asia,Asia
+Shenzhen,China,Asia,Asia
+Nanning,China,Asia,Asia
+Kano,Nigeria,Africa,Africa
+Recife,Brazil,South America,Americas
+Samara,Russia,Europe,Europe
+San Jose,United States,North America,Americas
+Ufa,Russia,Europe,Europe
+Santo Domingo,Ecuador,South America,Americas
+Windhoek,Namibia,Africa,Africa
+Adelaide,Australia,Oceania,Oceania
+Alexandria,Egypt,Africa,Africa
+Bhopal,India,Asia,Asia
+Hiroshima,Japan,Asia,Asia
+Malabo,Equatorial Guinea,Africa,Africa
+Harare,Zimbabwe,Africa,Africa
+London,United Kingdom,Europe,Europe
+La Paz,Mexico,North America,Americas
+Bangkok,Thailand,Asia,Asia
+Nanchang,China,Asia,Asia
+Wichita,United States,North America,Americas
+Belfast,United Kingdom,Europe,Europe
+Athens,Greece,Europe,Europe
+Novosibirsk,Russia,Europe,Europe
+Gaborone,Botswana,Africa,Africa
+Miami,United States,North America,Americas
+Shenyang,China,Asia,Asia
+Brussels,Belgium,Europe,Europe
+Birmingham,United Kingdom,Europe,Europe
+Brazzaville,Congo,Africa,Africa
+Kawasaki,Japan,Asia,Asia
+Tucson,United States,North America,Americas
+Chicago,United States,North America,Americas
+Port Moresby,Papua New Guinea,Oceania,Oceania
+Rabat,Morocco,Africa,Africa
+Colombo,Brazil,South America,Americas
+Port Louis,Mauritius,Africa,Africa
+Tbilisi,Georgia,Asia,Asia
+Curitiba,Brazil,South America,Americas
+Maputo,Mozambique,Africa,Africa
+Monrovia,Liberia,Africa,Africa
+Seoul,South Korea,Asia,Asia
+Alexandria,United States,North America,Americas
+Rawalpindi,Pakistan,Asia,Asia
+Douala,Cameroon,Africa,Africa
+Dublin,Ireland,Europe,Europe
+Jakarta,Indonesia,Asia,Asia
+Helsinki,Finland,Europe,Europe
+Salvador,Brazil,South America,Americas
+Nanjing,China,Asia,Asia
+Johannesburg,South Africa,Africa,Africa
+Suzhou,China,Asia,Asia
+Nagoya,Japan,Asia,Asia
+Mashhad,Iran,Asia,Asia
+Belo Horizonte,Brazil,South America,Americas
+Guadalajara,Mexico,North America,Americas
+Madrid,Spain,Europe,Europe
+Perth,Australia,Oceania,Oceania
+Lubumbashi,Congo (Democratic Republic Of The),Africa,Africa
+Pretoria,South Africa,Africa,Africa
+San Francisco,United States,North America,Americas
+Ottawa,Canada,North America,Americas
+Oklahoma City,United States,North America,Americas
+Rome,Italy,Europe,Europe
+Hefei,China,Asia,Asia
+Denver,United States,North America,Americas
+Allahabad,India,Asia,Asia
+Delhi,India,Asia,Asia
+Hangzhou,China,Asia,Asia
+Baku,Azerbaijan,Asia,Asia
+Oakland,United States,North America,Americas
+Almaty,Kazakhstan,Asia,Asia
+Changzhou,China,Asia,Asia
+Rosario,Argentina,South America,Americas
+Kunming,China,Asia,Asia
+Portland,United States,North America,Americas
+Tunis,Tunisia,Africa,Africa
+Baltimore,United States,North America,Americas

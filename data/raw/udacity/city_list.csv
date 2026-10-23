@@ -1,0 +1,343 @@
+city,country
+Chengdu,China
+Kiev,Ukraine
+Valencia,Spain
+Santo Domingo,Dominican Republic
+Xian,China
+Kathmandu,Nepal
+Sydney,Australia
+Lagos,Nigeria
+Wuxi,China
+Kansas City,United States
+Karachi,Pakistan
+Fort Worth,United States
+Victoria,Canada
+San Antonio,United States
+Istanbul,Turkey
+Amritsar,India
+Los Angeles,United States
+Ankara,Turkey
+Minneapolis,United States
+Brisbane,Australia
+Berlin,Germany
+Manaus,Brazil
+Ludhiana,India
+Adana,Turkey
+Canberra,Australia
+Los Angeles,Chile
+Libreville,Gabon
+Phoenix,United States
+Surat,India
+Lilongwe,Malawi
+Budapest,Hungary
+Ahmadabad,India
+Colorado Springs,United States
+Ouagadougou,Burkina Faso
+Luoyang,China
+Santa Cruz,Philippines
+Guatemala City,Guatemala
+Damascus,Syria
+Taiyuan,China
+Belgrade,Serbia
+Nouakchott,Mauritania
+Hyderabad,Pakistan
+Jacksonville,United States
+Bursa,Turkey
+Charlotte,United States
+Niamey,Niger
+Barcelona,Spain
+Dhaka,Bangladesh
+Zapopan,Mexico
+Astana,Kazakhstan
+Asmara,Eritrea
+Faisalabad,Pakistan
+Bissau,Guinea Bissau
+Rio De Janeiro,Brazil
+Algiers,Algeria
+Moscow,Russia
+San Diego,United States
+Managua,Nicaragua
+Tangshan,China
+Fresno,United States
+Lanzhou,China
+Datong,China
+Mecca,Saudi Arabia
+Columbus,United States
+Chisinau,Moldova
+Long Beach,United States
+Gujranwala,Pakistan
+Bujumbura,Burundi
+Arlington,United States
+Kitakyushu,Japan
+Atlanta,United States
+Maiduguri,Nigeria
+Rajkot,India
+Tripoli,Libya
+Harbin,China
+Las Vegas,United States
+Milan,Italy
+Amsterdam,Netherlands
+Palembang,Indonesia
+Accra,Ghana
+Peshawar,Pakistan
+Lima,Peru
+Mesa,United States
+Sacramento,United States
+Hanoi,Vietnam
+Colombo,Sri Lanka
+Copenhagen,Denmark
+Seattle,United States
+Dushanbe,Tajikistan
+Wuhan,China
+Monterrey,Mexico
+Ho Chi Minh City,Vietnam
+Pune,India
+Juba,Sudan
+Abu Dhabi,United Arab Emirates
+Wellington,New Zealand
+Abuja,Nigeria
+Zagreb,Croatia
+Georgetown,Guyana
+Lahore,Pakistan
+Cardiff,United Kingdom
+Fuzhou,China
+Cali,Colombia
+Dakar,Senegal
+Birmingham,United States
+Omaha,United States
+Campinas,Brazil
+Kinshasa,Congo (Democratic Republic Of The)
+Manila,Philippines
+Ecatepec,Mexico
+Boston,United States
+Singapore,Singapore
+Medan,Indonesia
+Ljubljana,Slovenia
+Guarulhos,Brazil
+Porto Alegre,Brazil
+Handan,China
+Bangui,Central African Republic
+Port Harcourt,Nigeria
+Volgograd,Russia
+Barranquilla,Colombia
+Freetown,Sierra Leone
+Valencia,Venezuela
+Edinburgh,United Kingdom
+Puebla,Mexico
+Indianapolis,United States
+Tulsa,United States
+Santiago,Dominican Republic
+New Delhi,India
+Mexicali,Mexico
+Detroit,United States
+Cairo,Egypt
+Vadodara,India
+Riyadh,Saudi Arabia
+Kabul,Afghanistan
+Sofia,Bulgaria
+Foshan,China
+Chelyabinsk,Russia
+Shanghai,China
+Anshan,China
+Abidjan,Côte D'Ivoire
+San Salvador,El Salvador
+Semarang,Indonesia
+Oslo,Norway
+Port Au Prince,Haiti
+Kanpur,India
+Podgorica,Montenegro
+Kingston,Canada
+Doha,Qatar
+Lisbon,Portugal
+Multan,Pakistan
+Austin,United States
+Santiago,Philippines
+Kampala,Uganda
+Melbourne,Australia
+Hamburg,Germany
+Ulaanbaatar,Mongolia
+Tashkent,Uzbekistan
+Louisville,United States
+Tegucigalpa,Honduras
+Durban,South Africa
+Patna,India
+Vilnius,Lithuania
+Skopje,Macedonia
+Agra,India
+Jaipur,India
+Barcelona,Venezuela
+Kuala Lumpur,Malaysia
+Washington,United States
+Conakry,Guinea
+Shiraz,Iran
+Maracaibo,Venezuela
+New Orleans,United States
+Guayaquil,Ecuador
+Toronto,Canada
+Raleigh,United States
+Santiago,Chile
+Changchun,China
+Manama,Bahrain
+Antananarivo,Madagascar
+Kingston,Jamaica
+Tabriz,Iran
+Philadelphia,United States
+Fortaleza,Brazil
+Bandung,Indonesia
+Tallinn,Estonia
+Islamabad,Pakistan
+Guiyang,China
+Perm,Russia
+Paris,France
+Virginia Beach,United States
+Qiqihar,China
+Montevideo,Uruguay
+Bern,Switzerland
+Stockholm,Sweden
+Haora,India
+Ranchi,India
+Tianjin,China
+Bratislava,Slovakia
+Kaduna,Nigeria
+Warsaw,Poland
+Quito,Ecuador
+Benghazi,Libya
+Mogadishu,Somalia
+Nagpur,India
+Tokyo,Japan
+Bucharest,Romania
+Nairobi,Kenya
+Maseru,Lesotho
+Sarajevo,Bosnia And Herzegovina
+Tijuana,Mexico
+Jilin,China
+Tirana,Albania
+Kobe,Japan
+Kigali,Rwanda
+Minsk,Belarus
+Ibadan,Nigeria
+Beirut,Lebanon
+Irbil,Iraq
+Guangzhou,China
+Dallas,United States
+Dar Es Salaam,Tanzania
+Jinan,China
+Yerevan,Armenia
+Indore,India
+La Paz,Bolivia
+Barquisimeto,Venezuela
+Albuquerque,United States
+Omsk,Russia
+Lusaka,Zambia
+Vienna,Austria
+Riga,Latvia
+Xuzhou,China
+Milwaukee,United States
+Caracas,Venezuela
+New York,United States
+Hyderabad,India
+Montreal,Canada
+Prague,Czech Republic
+Bamako,Mali
+Nassau,Bahamas
+Pristina,Serbia
+Baghdad,Iraq
+Surabaya,Indonesia
+Luanda,Angola
+Dalian,China
+Vientiane,Laos
+Munich,Germany
+El Paso,United States
+Nashville,United States
+Khulna,Bangladesh
+Qingdao,China
+Casablanca,Morocco
+London,Canada
+Soweto,South Africa
+Memphis,United States
+Kazan,Russia
+Yamoussoukro,Côte D'Ivoire
+Paramaribo,Suriname
+Izmir,Turkey
+Varanasi,India
+Khartoum,Sudan
+Cordoba,Argentina
+Houston,United States
+Bangalore,India
+Shenzhen,China
+Nanning,China
+Kano,Nigeria
+Recife,Brazil
+Samara,Russia
+San Jose,United States
+Ufa,Russia
+Santo Domingo,Ecuador
+Windhoek,Namibia
+Adelaide,Australia
+Alexandria,Egypt
+Bhopal,India
+Hiroshima,Japan
+Malabo,Equatorial Guinea
+Harare,Zimbabwe
+London,United Kingdom
+La Paz,Mexico
+Bangkok,Thailand
+Nanchang,China
+Wichita,United States
+Belfast,United Kingdom
+Athens,Greece
+Novosibirsk,Russia
+Gaborone,Botswana
+Miami,United States
+Shenyang,China
+Brussels,Belgium
+Birmingham,United Kingdom
+Brazzaville,Congo
+Kawasaki,Japan
+Tucson,United States
+Chicago,United States
+Port Moresby,Papua New Guinea
+Rabat,Morocco
+Colombo,Brazil
+Port Louis,Mauritius
+Tbilisi,Georgia
+Curitiba,Brazil
+Maputo,Mozambique
+Monrovia,Liberia
+Seoul,South Korea
+Alexandria,United States
+Rawalpindi,Pakistan
+Douala,Cameroon
+Dublin,Ireland
+Jakarta,Indonesia
+Helsinki,Finland
+Salvador,Brazil
+Nanjing,China
+Johannesburg,South Africa
+Suzhou,China
+Nagoya,Japan
+Mashhad,Iran
+Belo Horizonte,Brazil
+Guadalajara,Mexico
+Madrid,Spain
+Perth,Australia
+Lubumbashi,Congo (Democratic Republic Of The)
+Pretoria,South Africa
+San Francisco,United States
+Ottawa,Canada
+Oklahoma City,United States
+Rome,Italy
+Hefei,China
+Denver,United States
+Allahabad,India
+Delhi,India
+Hangzhou,China
+Baku,Azerbaijan
+Oakland,United States
+Almaty,Kazakhstan
+Changzhou,China
+Rosario,Argentina
+Kunming,China
+Portland,United States
+Tunis,Tunisia
+Baltimore,United States

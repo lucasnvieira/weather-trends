@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Weather Trends · Lucas Vieira</title>
+  <meta name="description" content="How much warmer is it where I live, compared with the world? Local and global temperatures from 1854 to 2024, step by step.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@500;600&display=swap">
+  <link rel="stylesheet" href="style.css">
+  <script>
+    // Apply the saved theme before the page paints.
+    try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <header class="topo">
+    <div class="container topo-linha">
+      <a class="marca" href="https://lucasvieira.tech">[LV] lucasvieira.tech</a>
+      <nav>
+        <a href="https://github.com/lucasnvieira/weather-trends">GitHub</a>
+        <a href="https://github.com/lucasnvieira/weather-trends/blob/main/notebooks/weather_trends.ipynb">Notebook</a>
+        <button class="tema" type="button" aria-label="Switch light and dark theme">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="container capa">
+      <p class="mono rotulo">Udacity · Data Analyst Nanodegree</p>
+      <h1>Weather Trends</h1>
+      <p class="linha-fina">How much warmer is it where I live, compared with the world? Local and global temperatures from 1854 to 2024, step by step.</p>
+      <p class="mono meta">June 2024 · updated September 2026 · SQL · Python · Excel</p>
+
+      <div class="tiles" id="tiles" aria-label="Change in temperature, 1991–2020 compared with 1854–1900"></div>
+      <p class="nota-tiles">Average temperature in 1991–2020 compared with 1854–1900 (the 30-year moving average at 2020, in step 05). Global is the average over land.</p>
+
+      <details class="novidades">
+        <summary>What changed in the September 2026 update</summary>
+        <ul>
+          <li>The steps I did by hand in Excel (continent lookup, moving averages) are now code, in a <a href="https://github.com/lucasnvieira/weather-trends">public repository</a>.</li>
+          <li>The data goes up to 2020 for the cities and 2024 for the global average, straight from Berkeley Earth, the source behind the Udacity database.</li>
+          <li>Two data quality issues are explained: cities with identical series, and years that were incomplete or stored as zero.</li>
+          <li>The main comparison is now the <em>change</em> in temperature, not only its level.</li>
+        </ul>
+      </details>
+    </section>
+
+    <section class="container passo" id="data">
+      <p class="mono numero">01</p>
+      <div class="passo-corpo">
+        <h2>The data</h2>
+        <p>In this project, I analyze local and global temperature data and compare the temperature trends where I live with global trends. I also include two more cities: Amsterdam, in the Netherlands, and Dublin, in Ireland, both well regarded among tech professionals in Brazil.</p>
+        <p>The Udacity workspace had a database with three tables:</p>
+        <div class="esquema">
+          <div class="tabela-card"><p class="mono">city_list</p><p>city · country</p><span>342 rows</span></div>
+          <div class="tabela-card"><p class="mono">city_data</p><p>year · city · country · avg_temp</p><span>yearly average per city, °C</span></div>
+          <div class="tabela-card"><p class="mono">global_data</p><p>year · avg_temp</p><span>yearly global average, °C</span></div>
+        </div>
+        <p>The workspace is not public, so I rebuilt the same tables in SQLite with the original source, <a href="https://berkeleyearth.org/data/">Berkeley Earth</a>. That way every query on this page can be run again by anyone.</p>
+      </div>
+    </section>
+
+    <section class="container passo" id="list">
+      <p class="mono numero">02</p>
+      <div class="passo-corpo">
+        <h2>What is in the city list</h2>
+        <p>After seeing the schema, I decided to understand the data available by gathering general information, like the different cities and countries.</p>
+<pre><code>SELECT COUNT(*)                AS rows,
+       COUNT(DISTINCT city)    AS city_names,
+       COUNT(DISTINCT country) AS countries
+FROM city_list;</code></pre>
+        <div class="numeros" id="list-numbers"></div>
+        <p>There are 342 rows but only 329 city names. A first interesting insight is about duplicate names: if we only queried by city, the data could have been mixed up. That is why every query here filters by city <em>and</em> country.</p>
+        <ul class="chips" id="duplicates" aria-label="City names that exist in more than one country"></ul>
+
+        <h3>Cities by continent</h3>
+        <p>The database has no continent column. In 2024 I added one in Excel with a list of countries by continent and a VLOOKUP, after fixing 18 country names that were spelled differently in the two lists. Now the same step is a merge in Python, and the counts match the original ones.</p>
+        <div class="barras" id="continents" role="img" aria-label="Cities in the database by continent"></div>
+        <p class="legenda">North and South America are counted together. Asia is the most represented continent; Oceania has only 8 cities.</p>
+      </div>
+    </section>
+
+    <section class="container passo" id="brazil">
+      <p class="mono numero">03</p>
+      <div class="passo-corpo">
+        <h2>Brazil on the map</h2>
+        <p>There are 11 Brazilian cities in the database: 7 in the southeast and south, 3 in the northeast and 1 in the north. The Midwest is not represented. Hover a city to see its numbers.</p>
+        <div class="mapa-bloco">
+          <div class="mapa" id="map"></div>
+          <div class="mapa-lado">
+            <label class="alternar"><input type="checkbox" id="show-grid"> Show the Berkeley Earth grid points</label>
+            <p>Berkeley Earth does not measure each city. It estimates the temperature on a grid that covers the planet, and each city gets the values of the grid point it is assigned to.</p>
+            <p>Campinas and Guarulhos share the same point, and so do Colombo and Curitiba. That is why their series are <strong>identical</strong>, not just similar. In 2024 I explained it by their location; the grid is the real reason.</p>
+<pre><code>SELECT a.city, b.city, COUNT(*) AS years
+FROM city_data a
+JOIN city_data b
+  ON a.year = b.year AND a.city &lt; b.city
+WHERE a.country = 'Brazil'
+  AND b.country = 'Brazil'
+GROUP BY a.city, b.city
+HAVING SUM(a.avg_temp = b.avg_temp) = COUNT(*);</code></pre>
+            <p class="legenda">Result: Campinas–Guarulhos and Colombo–Curitiba, equal in all 182 years. So the database has 11 Brazilian names but 9 independent series.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="container passo" id="checks">
+      <p class="mono numero">04</p>
+      <div class="passo-corpo">
+        <h2>Checking the data before comparing it</h2>
+        <p>Before plotting anything, I compared my original Udacity exports with the current Berkeley Earth files. Between 1854 and 2012 they move together (correlation above 0.94 for every series), but three things needed fixing.</p>
+        <div class="cards-3">
+          <article class="card">
+            <p class="mono">Identical series</p>
+            <p>Two pairs of Brazilian cities are the same series (step 03). "Campinas" really means the region around São Paulo. It is still the nearest data to where I live, so it stays as my local city.</p>
+          </article>
+          <article class="card">
+            <p class="mono">Missing years as zero</p>
+            <p>In my 2024 spreadsheet, the years without data for Campinas (before 1832 and 1844–1850) were stored as 0. A 0 °C average is impossible for Campinas, so I started the chart in 1854 to leave them out. Now those years are simply left empty, so no calculation can use them by mistake.</p>
+          </article>
+          <article class="card">
+            <p class="mono">Incomplete years</p>
+            <p>The Udacity data stops partway through 2013, so its 2013 average for Campinas misses the warm months and came out 0.5 °C too low. Now a year only counts if it has all 12 months.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="container passo" id="trends">
+      <p class="mono numero">05</p>
+      <div class="passo-corpo">
+        <h2>Local and global trends</h2>
+        <p>For the moving average, I chose a 4-year period because it minimizes the influence of single-year anomalies and is still responsive enough to capture meaningful changes. Try other windows with the slider: very long windows over-smooth the data. The 30-year window has a special use: at 2020 it gives the 1991–2020 average used in the key observations.</p>
+        <p>The first view shows the temperature itself. Campinas is about 11 °C hotter than the global average, so the lines are far apart and it is hard to see that all of them are rising. Switch to <strong>Change since 1854–1900</strong> to compare the trends directly.</p>
+
+        <div class="controles" id="trend-controls">
+          <div class="segmentado" role="group" aria-label="What to show">
+            <button type="button" data-mode="temp">Temperature</button>
+            <button type="button" data-mode="change" aria-pressed="true">Change since 1854–1900</button>
+          </div>
+          <label class="janela">Moving average <input type="range" id="window" min="1" max="30" value="4"> <output id="window-out" class="mono">4 years</output></label>
+          <div class="series-toggle" id="series-toggle" role="group" aria-label="Series"></div>
+        </div>
+        <figure class="grafico">
+          <div id="trend-chart" class="area-grafico"></div>
+          <figcaption class="legenda" id="trend-caption"></figcaption>
+        </figure>
+        <details class="tabela-dados">
+          <summary>See the numbers by decade (1970–2019)</summary>
+          <div id="trend-table"></div>
+        </details>
+
+<pre><code>-- 4-year moving average, the step I did in Excel in 2024
+SELECT year, city, avg_temp,
+       AVG(avg_temp) OVER (ORDER BY year
+         ROWS BETWEEN 3 PRECEDING AND CURRENT ROW) AS ma_4_years
+FROM city_data
+WHERE city = 'Campinas' AND year &gt;= 1854;</code></pre>
+      </div>
+    </section>
+
+    <section class="container passo" id="explorer">
+      <p class="mono numero">06</p>
+      <div class="passo-corpo">
+        <h2>Every Brazilian city</h2>
+        <p>The same change, for each of the Brazilian cities in the database, against the global average and the other cities.</p>
+        <div class="controles">
+          <label>City <select id="city-select"></select></label>
+        </div>
+        <figure class="grafico">
+          <div id="brazil-chart" class="area-grafico"></div>
+          <figcaption class="legenda" id="brazil-caption"></figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="container passo" id="observations">
+      <p class="mono numero">07</p>
+      <div class="passo-corpo">
+        <h2>Key observations</h2>
+        <p>The main comparison is the average of 1991–2020 against the average of 1854–1900. In the chart of step 05, that is the <strong>30-year moving average at 2020</strong>, in the "Change since 1854–1900" view: the 30 years that end in 2020 are exactly 1991–2020, the latest 30 years with data for every series.</p>
+        <p>Shorter windows end higher, because they only average the most recent and hottest years. With a 20-year window, for example, Campinas reaches +1.32 °C in 2020, and with 4 years, +1.59 °C. The hottest years come from the yearly values, with the moving average off. The buttons set the chart for you.</p>
+        <ul class="observacoes">
+          <li>
+            <strong>Campinas</strong> was 1.18 °C warmer in 1991–2020 than in 1854–1900, a bit less than the global land average (+1.34 °C), even though it is about 11 °C hotter in absolute terms. Its 10-year average passed +0.5 °C in 1978 and +1.0 °C in 2002. The hottest years were all recent: 2015 (21.71 °C), 2019 (21.59 °C) and 2014 (21.58 °C).
+            <span class="ver"><button type="button" data-show='{"mode":"change","window":30,"series":["Global","Campinas"],"year":2020}'>Show the 30-year average</button><button type="button" data-show='{"mode":"temp","window":1,"series":["Campinas"],"year":2015}'>Show the hottest year</button></span>
+          </li>
+          <li>
+            <strong>Amsterdam</strong> warmed the most of the four, 1.47 °C, and is the only city above the global land average. Its trend since 1970 is also the steepest, 0.35 °C per decade (a linear regression, in section 5 of the notebook). The hottest years: 2014 (11.48 °C), 2020 (11.44 °C) and 2018 (11.13 °C).
+            <span class="ver"><button type="button" data-show='{"mode":"change","window":30,"series":["Global","Amsterdam"],"year":2020}'>Show the 30-year average</button><button type="button" data-show='{"mode":"temp","window":1,"series":["Amsterdam"],"year":2014}'>Show the hottest year</button></span>
+          </li>
+          <li>
+            <strong>Dublin</strong> warmed 1.18 °C, the same as Campinas, but the two got there differently. Dublin's hottest years came earlier, 2007 (10.27 °C), 2014 (10.23 °C) and 2006 (10.12 °C), and since 1970 it warmed 0.22 °C per decade, the slowest pace of the four (Campinas: 0.23).
+            <span class="ver"><button type="button" data-show='{"mode":"change","window":30,"series":["Campinas","Dublin"],"year":2020}'>Compare with Campinas</button><button type="button" data-show='{"mode":"temp","window":1,"series":["Dublin"],"year":2007}'>Show the hottest year</button></span>
+          </li>
+          <li>
+            <strong>Global (land)</strong> warmed 1.34 °C between the two periods. Its series goes four years further than the cities: 2024 was the hottest year in the record, 2.27 °C above 1854–1900, and the five hottest years were 2024, 2023, 2020, 2016 and 2019. Since 1970 it warmed 0.29 °C per decade, three times its long-term pace (0.97 °C per century since 1854).
+            <span class="ver"><button type="button" data-show='{"mode":"change","window":30,"series":["Global"],"year":2020}'>Show the 30-year average</button><button type="button" data-show='{"mode":"change","window":1,"series":["Global"],"year":2024}'>Show 2024</button></span>
+          </li>
+        </ul>
+        <h3>Why did Amsterdam warm more than Campinas?</h3>
+        <p>A reader in Brazil may find this surprising: Brazil is much hotter than the Netherlands, so the numbers may look wrong at first. But being hotter and warming faster are different things. This analysis compares the change in temperature, not its level.</p>
+        <p>The result is consistent with a global climate pattern known as <strong>polar amplification</strong>: regions at higher latitudes, closer to the poles, tend to warm more and faster than tropical and subtropical regions, such as Southeast Brazil. The effect is strongest in the Arctic and fades towards the equator (<a href="https://doi.org/10.1016/j.gloplacha.2011.03.004">Serreze &amp; Barry, 2011</a>). Amsterdam is at 52°N; Campinas is at 23°S.</p>
+        <p>Latitude is not the only factor, though. Dublin, even further north (53°N) but on the Atlantic coast, warmed as much as Campinas, likely because the ocean around it warms more slowly than land.</p>
+        <p>Over the whole period, the four series rose slowly during most of the 20th century and much faster from around 1980. With a 10-year moving average, all of them passed +1.0 °C between 1995 and 2002.
+          <span class="ver"><button type="button" data-show='{"mode":"change","window":10,"series":["Global","Campinas","Amsterdam","Dublin"],"year":2002}'>Show the 10-year average</button></span>
+        </p>
+        <p>The data also reveals potential health risks from more frequent and severe heatwaves, especially for vulnerable groups such as the elderly and children. The world is getting hotter, locally and globally, and the effects need ongoing efforts to be mitigated.</p>
+      </div>
+    </section>
+
+    <section class="container passo" id="limitations">
+      <p class="mono numero">08</p>
+      <div class="passo-corpo">
+        <h2>Limitations and next steps</h2>
+        <ul>
+          <li>The city series end in 2020, because the city files Berkeley Earth makes available are from a January 2021 release. A source like ERA5 (Copernicus) could extend them to today.</li>
+          <li>The grid points are about 1.6° apart (around 170 km), so each series describes a region, not a city.</li>
+          <li>Yearly averages hide seasons and extremes. Monthly data would allow analysing heatwaves directly.</li>
+          <li>Linking climate change to the carbon credit market and ESG initiatives is still an open idea from 2024.</li>
+          <li>This is an educational project. Running the analysis again with other choices could change the numbers shown here: a different scope (other cities, a whole country instead of one grid point), another baseline period or moving average window, another data source or release, or another way of handling missing data. The choices made here are explained along the page so they can be questioned and changed.</li>
+        </ul>
+        <h3>References</h3>
+        <ul class="referencias">
+          <li>Berkeley Earth, land temperature data. <a href="https://berkeleyearth.org/data/">berkeleyearth.org/data</a></li>
+          <li>Udacity, Data Analyst Nanodegree, project "Explore Weather Trends".</li>
+          <li>Statistics Times, countries by continents. <a href="https://statisticstimes.com/geography/countries-by-continents.php">statisticstimes.com</a></li>
+          <li>Natural Earth, country boundaries (1:50m). <a href="https://www.naturalearthdata.com">naturalearthdata.com</a></li>
+          <li>Serreze, M. C., &amp; Barry, R. G. (2011). Processes and impacts of Arctic amplification: A research synthesis. <em>Global and Planetary Change</em>, 77(1–2), 85–96. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0921818111000397">sciencedirect.com</a></li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="container rodape">
+    <p>Lucas Vieira · <a href="https://lucasvieira.tech">lucasvieira.tech</a> · <a href="https://github.com/lucasnvieira/weather-trends">source code and data</a> · educational project</p>
+  </footer>
+
+  <div class="tooltip" id="tooltip" role="status" hidden></div>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

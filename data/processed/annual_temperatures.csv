@@ -1,0 +1,2763 @@
+series,country,cell,year,avg_temp
+Global,,,1750,7.78
+Global,,,1751,7.64
+Global,,,1753,8.21
+Global,,,1754,8.67
+Global,,,1755,8.34
+Global,,,1756,8.59
+Global,,,1757,8.79
+Global,,,1758,6.68
+Global,,,1759,7.69
+Global,,,1760,6.78
+Global,,,1761,8.39
+Global,,,1762,8.25
+Global,,,1763,7.13
+Global,,,1764,7.74
+Global,,,1765,7.73
+Global,,,1766,7.7
+Global,,,1767,7.57
+Global,,,1768,6.22
+Global,,,1769,7.13
+Global,,,1770,7.21
+Global,,,1771,7.12
+Global,,,1772,7.61
+Global,,,1773,7.87
+Global,,,1774,8.06
+Global,,,1775,8.16
+Global,,,1776,7.09
+Global,,,1777,7.11
+Global,,,1778,7.27
+Global,,,1779,7.74
+Global,,,1780,8.55
+Global,,,1781,7.98
+Global,,,1782,7.76
+Global,,,1783,7.61
+Global,,,1784,7.78
+Global,,,1785,7.51
+Global,,,1786,7.86
+Global,,,1787,8.0
+Global,,,1788,8.17
+Global,,,1789,8.28
+Global,,,1790,8.01
+Global,,,1791,8.33
+Global,,,1792,8.17
+Global,,,1793,8.33
+Global,,,1794,8.67
+Global,,,1795,8.77
+Global,,,1796,8.38
+Global,,,1797,8.59
+Global,,,1798,8.6
+Global,,,1799,8.08
+Global,,,1800,8.24
+Global,,,1801,8.9
+Global,,,1802,8.74
+Global,,,1803,8.57
+Global,,,1804,8.62
+Global,,,1805,8.52
+Global,,,1806,8.45
+Global,,,1807,8.14
+Global,,,1808,7.55
+Global,,,1809,7.09
+Global,,,1810,6.99
+Global,,,1811,6.98
+Global,,,1812,7.11
+Global,,,1813,7.7
+Global,,,1814,7.59
+Global,,,1815,7.18
+Global,,,1816,6.84
+Global,,,1817,7.11
+Global,,,1818,8.15
+Global,,,1819,7.35
+Global,,,1820,7.64
+Global,,,1821,7.91
+Global,,,1822,7.97
+Global,,,1823,7.69
+Global,,,1824,8.33
+Global,,,1825,8.13
+Global,,,1826,8.28
+Global,,,1827,8.66
+Global,,,1828,8.03
+Global,,,1829,7.81
+Global,,,1830,8.47
+Global,,,1831,7.62
+Global,,,1832,7.43
+Global,,,1833,8.0
+Global,,,1834,8.11
+Global,,,1835,7.37
+Global,,,1836,7.66
+Global,,,1837,7.33
+Global,,,1838,7.49
+Global,,,1839,7.7
+Global,,,1840,7.74
+Global,,,1841,7.57
+Global,,,1842,7.96
+Global,,,1843,8.07
+Global,,,1844,7.57
+Global,,,1845,7.72
+Global,,,1846,8.53
+Global,,,1847,8.04
+Global,,,1848,7.95
+Global,,,1849,7.95
+Global,,,1850,7.82
+Global,,,1851,8.1
+Global,,,1852,8.0
+Global,,,1853,8.01
+Global,,,1854,8.2
+Global,,,1855,8.12
+Global,,,1856,8.04
+Global,,,1857,7.78
+Global,,,1858,8.17
+Global,,,1859,8.34
+Global,,,1860,7.94
+Global,,,1861,7.89
+Global,,,1862,7.55
+Global,,,1863,8.22
+Global,,,1864,8.02
+Global,,,1865,8.21
+Global,,,1866,8.29
+Global,,,1867,8.44
+Global,,,1868,8.16
+Global,,,1869,8.39
+Global,,,1870,8.12
+Global,,,1871,8.03
+Global,,,1872,8.12
+Global,,,1873,8.28
+Global,,,1874,8.4
+Global,,,1875,7.88
+Global,,,1876,8.11
+Global,,,1877,8.51
+Global,,,1878,8.88
+Global,,,1879,8.17
+Global,,,1880,8.05
+Global,,,1881,8.29
+Global,,,1882,8.13
+Global,,,1883,8.02
+Global,,,1884,7.82
+Global,,,1885,7.97
+Global,,,1886,7.97
+Global,,,1887,7.93
+Global,,,1888,8.15
+Global,,,1889,8.34
+Global,,,1890,7.96
+Global,,,1891,8.02
+Global,,,1892,8.06
+Global,,,1893,8.06
+Global,,,1894,8.19
+Global,,,1895,8.17
+Global,,,1896,8.22
+Global,,,1897,8.3
+Global,,,1898,8.18
+Global,,,1899,8.42
+Global,,,1900,8.53
+Global,,,1901,8.53
+Global,,,1902,8.28
+Global,,,1903,8.2
+Global,,,1904,8.07
+Global,,,1905,8.23
+Global,,,1906,8.38
+Global,,,1907,7.97
+Global,,,1908,8.18
+Global,,,1909,8.18
+Global,,,1910,8.22
+Global,,,1911,8.17
+Global,,,1912,8.16
+Global,,,1913,8.29
+Global,,,1914,8.6
+Global,,,1915,8.57
+Global,,,1916,8.22
+Global,,,1917,8.0
+Global,,,1918,8.12
+Global,,,1919,8.36
+Global,,,1920,8.33
+Global,,,1921,8.54
+Global,,,1922,8.37
+Global,,,1923,8.38
+Global,,,1924,8.45
+Global,,,1925,8.48
+Global,,,1926,8.66
+Global,,,1927,8.44
+Global,,,1928,8.54
+Global,,,1929,8.13
+Global,,,1930,8.51
+Global,,,1931,8.61
+Global,,,1932,8.6
+Global,,,1933,8.24
+Global,,,1934,8.52
+Global,,,1935,8.4
+Global,,,1936,8.44
+Global,,,1937,8.58
+Global,,,1938,8.76
+Global,,,1939,8.67
+Global,,,1940,8.66
+Global,,,1941,8.65
+Global,,,1942,8.62
+Global,,,1943,8.66
+Global,,,1944,8.75
+Global,,,1945,8.48
+Global,,,1946,8.58
+Global,,,1947,8.7
+Global,,,1948,8.64
+Global,,,1949,8.48
+Global,,,1950,8.28
+Global,,,1951,8.54
+Global,,,1952,8.56
+Global,,,1953,8.79
+Global,,,1954,8.48
+Global,,,1955,8.54
+Global,,,1956,8.2
+Global,,,1957,8.58
+Global,,,1958,8.67
+Global,,,1959,8.67
+Global,,,1960,8.49
+Global,,,1961,8.71
+Global,,,1962,8.65
+Global,,,1963,8.78
+Global,,,1964,8.32
+Global,,,1965,8.45
+Global,,,1966,8.54
+Global,,,1967,8.64
+Global,,,1968,8.44
+Global,,,1969,8.52
+Global,,,1970,8.65
+Global,,,1971,8.55
+Global,,,1972,8.44
+Global,,,1973,8.91
+Global,,,1974,8.42
+Global,,,1975,8.71
+Global,,,1976,8.32
+Global,,,1977,8.84
+Global,,,1978,8.68
+Global,,,1979,8.69
+Global,,,1980,8.95
+Global,,,1981,9.13
+Global,,,1982,8.63
+Global,,,1983,9.01
+Global,,,1984,8.67
+Global,,,1985,8.64
+Global,,,1986,8.84
+Global,,,1987,9.0
+Global,,,1988,9.19
+Global,,,1989,8.92
+Global,,,1990,9.23
+Global,,,1991,9.19
+Global,,,1992,8.82
+Global,,,1993,8.87
+Global,,,1994,9.04
+Global,,,1995,9.35
+Global,,,1996,9.03
+Global,,,1997,9.18
+Global,,,1998,9.52
+Global,,,1999,9.27
+Global,,,2000,9.19
+Global,,,2001,9.4
+Global,,,2002,9.57
+Global,,,2003,9.51
+Global,,,2004,9.32
+Global,,,2005,9.7
+Global,,,2006,9.52
+Global,,,2007,9.73
+Global,,,2008,9.44
+Global,,,2009,9.53
+Global,,,2010,9.7
+Global,,,2011,9.53
+Global,,,2012,9.48
+Global,,,2013,9.6
+Global,,,2014,9.57
+Global,,,2015,9.83
+Global,,,2016,10.03
+Global,,,2017,9.9
+Global,,,2018,9.74
+Global,,,2019,9.93
+Global,,,2020,10.09
+Global,,,2021,9.83
+Global,,,2022,9.83
+Global,,,2023,10.23
+Global,,,2024,10.42
+Amsterdam,Netherlands,52.24N-5.26E,1744,8.18
+Amsterdam,Netherlands,52.24N-5.26E,1750,9.13
+Amsterdam,Netherlands,52.24N-5.26E,1751,8.33
+Amsterdam,Netherlands,52.24N-5.26E,1753,8.85
+Amsterdam,Netherlands,52.24N-5.26E,1754,8.52
+Amsterdam,Netherlands,52.24N-5.26E,1755,8.4
+Amsterdam,Netherlands,52.24N-5.26E,1756,8.97
+Amsterdam,Netherlands,52.24N-5.26E,1757,8.9
+Amsterdam,Netherlands,52.24N-5.26E,1758,8.59
+Amsterdam,Netherlands,52.24N-5.26E,1759,9.39
+Amsterdam,Netherlands,52.24N-5.26E,1760,8.86
+Amsterdam,Netherlands,52.24N-5.26E,1761,9.18
+Amsterdam,Netherlands,52.24N-5.26E,1762,8.32
+Amsterdam,Netherlands,52.24N-5.26E,1763,8.23
+Amsterdam,Netherlands,52.24N-5.26E,1764,8.83
+Amsterdam,Netherlands,52.24N-5.26E,1765,8.61
+Amsterdam,Netherlands,52.24N-5.26E,1766,8.61
+Amsterdam,Netherlands,52.24N-5.26E,1767,8.25
+Amsterdam,Netherlands,52.24N-5.26E,1768,8.36
+Amsterdam,Netherlands,52.24N-5.26E,1769,8.56
+Amsterdam,Netherlands,52.24N-5.26E,1770,8.58
+Amsterdam,Netherlands,52.24N-5.26E,1771,7.99
+Amsterdam,Netherlands,52.24N-5.26E,1772,9.03
+Amsterdam,Netherlands,52.24N-5.26E,1773,9.31
+Amsterdam,Netherlands,52.24N-5.26E,1774,8.68
+Amsterdam,Netherlands,52.24N-5.26E,1775,9.77
+Amsterdam,Netherlands,52.24N-5.26E,1776,8.71
+Amsterdam,Netherlands,52.24N-5.26E,1777,8.56
+Amsterdam,Netherlands,52.24N-5.26E,1778,9.29
+Amsterdam,Netherlands,52.24N-5.26E,1779,10.31
+Amsterdam,Netherlands,52.24N-5.26E,1780,8.95
+Amsterdam,Netherlands,52.24N-5.26E,1781,9.88
+Amsterdam,Netherlands,52.24N-5.26E,1782,8.07
+Amsterdam,Netherlands,52.24N-5.26E,1783,9.51
+Amsterdam,Netherlands,52.24N-5.26E,1784,7.52
+Amsterdam,Netherlands,52.24N-5.26E,1785,7.92
+Amsterdam,Netherlands,52.24N-5.26E,1786,8.0
+Amsterdam,Netherlands,52.24N-5.26E,1787,9.23
+Amsterdam,Netherlands,52.24N-5.26E,1788,8.94
+Amsterdam,Netherlands,52.24N-5.26E,1789,8.76
+Amsterdam,Netherlands,52.24N-5.26E,1790,9.29
+Amsterdam,Netherlands,52.24N-5.26E,1791,9.39
+Amsterdam,Netherlands,52.24N-5.26E,1792,9.2
+Amsterdam,Netherlands,52.24N-5.26E,1793,9.28
+Amsterdam,Netherlands,52.24N-5.26E,1794,9.83
+Amsterdam,Netherlands,52.24N-5.26E,1795,8.97
+Amsterdam,Netherlands,52.24N-5.26E,1796,9.32
+Amsterdam,Netherlands,52.24N-5.26E,1797,9.68
+Amsterdam,Netherlands,52.24N-5.26E,1798,9.54
+Amsterdam,Netherlands,52.24N-5.26E,1799,7.43
+Amsterdam,Netherlands,52.24N-5.26E,1800,9.04
+Amsterdam,Netherlands,52.24N-5.26E,1801,9.52
+Amsterdam,Netherlands,52.24N-5.26E,1802,8.96
+Amsterdam,Netherlands,52.24N-5.26E,1803,8.23
+Amsterdam,Netherlands,52.24N-5.26E,1804,8.68
+Amsterdam,Netherlands,52.24N-5.26E,1805,7.59
+Amsterdam,Netherlands,52.24N-5.26E,1806,9.66
+Amsterdam,Netherlands,52.24N-5.26E,1807,9.1
+Amsterdam,Netherlands,52.24N-5.26E,1808,8.4
+Amsterdam,Netherlands,52.24N-5.26E,1809,8.53
+Amsterdam,Netherlands,52.24N-5.26E,1810,8.38
+Amsterdam,Netherlands,52.24N-5.26E,1811,9.99
+Amsterdam,Netherlands,52.24N-5.26E,1812,7.87
+Amsterdam,Netherlands,52.24N-5.26E,1813,8.7
+Amsterdam,Netherlands,52.24N-5.26E,1814,7.63
+Amsterdam,Netherlands,52.24N-5.26E,1815,8.65
+Amsterdam,Netherlands,52.24N-5.26E,1816,7.64
+Amsterdam,Netherlands,52.24N-5.26E,1817,8.8
+Amsterdam,Netherlands,52.24N-5.26E,1818,9.39
+Amsterdam,Netherlands,52.24N-5.26E,1819,9.46
+Amsterdam,Netherlands,52.24N-5.26E,1820,7.95
+Amsterdam,Netherlands,52.24N-5.26E,1821,9.14
+Amsterdam,Netherlands,52.24N-5.26E,1822,10.03
+Amsterdam,Netherlands,52.24N-5.26E,1823,8.28
+Amsterdam,Netherlands,52.24N-5.26E,1824,9.39
+Amsterdam,Netherlands,52.24N-5.26E,1825,9.62
+Amsterdam,Netherlands,52.24N-5.26E,1826,9.72
+Amsterdam,Netherlands,52.24N-5.26E,1827,8.86
+Amsterdam,Netherlands,52.24N-5.26E,1828,9.53
+Amsterdam,Netherlands,52.24N-5.26E,1829,7.16
+Amsterdam,Netherlands,52.24N-5.26E,1830,8.28
+Amsterdam,Netherlands,52.24N-5.26E,1831,9.74
+Amsterdam,Netherlands,52.24N-5.26E,1832,8.65
+Amsterdam,Netherlands,52.24N-5.26E,1833,9.03
+Amsterdam,Netherlands,52.24N-5.26E,1834,10.37
+Amsterdam,Netherlands,52.24N-5.26E,1835,9.0
+Amsterdam,Netherlands,52.24N-5.26E,1836,8.93
+Amsterdam,Netherlands,52.24N-5.26E,1837,8.44
+Amsterdam,Netherlands,52.24N-5.26E,1838,7.56
+Amsterdam,Netherlands,52.24N-5.26E,1839,8.86
+Amsterdam,Netherlands,52.24N-5.26E,1840,8.27
+Amsterdam,Netherlands,52.24N-5.26E,1841,9.18
+Amsterdam,Netherlands,52.24N-5.26E,1842,9.04
+Amsterdam,Netherlands,52.24N-5.26E,1843,9.12
+Amsterdam,Netherlands,52.24N-5.26E,1844,8.13
+Amsterdam,Netherlands,52.24N-5.26E,1845,7.86
+Amsterdam,Netherlands,52.24N-5.26E,1846,10.16
+Amsterdam,Netherlands,52.24N-5.26E,1847,8.48
+Amsterdam,Netherlands,52.24N-5.26E,1848,9.0
+Amsterdam,Netherlands,52.24N-5.26E,1849,8.82
+Amsterdam,Netherlands,52.24N-5.26E,1850,8.47
+Amsterdam,Netherlands,52.24N-5.26E,1851,8.62
+Amsterdam,Netherlands,52.24N-5.26E,1852,9.63
+Amsterdam,Netherlands,52.24N-5.26E,1853,7.83
+Amsterdam,Netherlands,52.24N-5.26E,1854,8.86
+Amsterdam,Netherlands,52.24N-5.26E,1855,7.21
+Amsterdam,Netherlands,52.24N-5.26E,1856,8.75
+Amsterdam,Netherlands,52.24N-5.26E,1857,9.8
+Amsterdam,Netherlands,52.24N-5.26E,1858,8.53
+Amsterdam,Netherlands,52.24N-5.26E,1859,9.82
+Amsterdam,Netherlands,52.24N-5.26E,1860,7.84
+Amsterdam,Netherlands,52.24N-5.26E,1861,8.98
+Amsterdam,Netherlands,52.24N-5.26E,1862,9.49
+Amsterdam,Netherlands,52.24N-5.26E,1863,9.7
+Amsterdam,Netherlands,52.24N-5.26E,1864,7.73
+Amsterdam,Netherlands,52.24N-5.26E,1865,9.3
+Amsterdam,Netherlands,52.24N-5.26E,1866,9.44
+Amsterdam,Netherlands,52.24N-5.26E,1867,8.76
+Amsterdam,Netherlands,52.24N-5.26E,1868,10.33
+Amsterdam,Netherlands,52.24N-5.26E,1869,8.96
+Amsterdam,Netherlands,52.24N-5.26E,1870,8.18
+Amsterdam,Netherlands,52.24N-5.26E,1871,7.92
+Amsterdam,Netherlands,52.24N-5.26E,1872,10.05
+Amsterdam,Netherlands,52.24N-5.26E,1873,9.26
+Amsterdam,Netherlands,52.24N-5.26E,1874,9.03
+Amsterdam,Netherlands,52.24N-5.26E,1875,8.82
+Amsterdam,Netherlands,52.24N-5.26E,1876,9.09
+Amsterdam,Netherlands,52.24N-5.26E,1877,9.09
+Amsterdam,Netherlands,52.24N-5.26E,1878,9.26
+Amsterdam,Netherlands,52.24N-5.26E,1879,7.39
+Amsterdam,Netherlands,52.24N-5.26E,1880,9.34
+Amsterdam,Netherlands,52.24N-5.26E,1881,8.27
+Amsterdam,Netherlands,52.24N-5.26E,1882,9.25
+Amsterdam,Netherlands,52.24N-5.26E,1883,8.97
+Amsterdam,Netherlands,52.24N-5.26E,1884,9.71
+Amsterdam,Netherlands,52.24N-5.26E,1885,8.51
+Amsterdam,Netherlands,52.24N-5.26E,1886,8.79
+Amsterdam,Netherlands,52.24N-5.26E,1887,8.0
+Amsterdam,Netherlands,52.24N-5.26E,1888,7.79
+Amsterdam,Netherlands,52.24N-5.26E,1889,8.51
+Amsterdam,Netherlands,52.24N-5.26E,1890,8.29
+Amsterdam,Netherlands,52.24N-5.26E,1891,8.41
+Amsterdam,Netherlands,52.24N-5.26E,1892,8.34
+Amsterdam,Netherlands,52.24N-5.26E,1893,9.25
+Amsterdam,Netherlands,52.24N-5.26E,1894,9.19
+Amsterdam,Netherlands,52.24N-5.26E,1895,8.36
+Amsterdam,Netherlands,52.24N-5.26E,1896,8.83
+Amsterdam,Netherlands,52.24N-5.26E,1897,9.02
+Amsterdam,Netherlands,52.24N-5.26E,1898,9.53
+Amsterdam,Netherlands,52.24N-5.26E,1899,9.28
+Amsterdam,Netherlands,52.24N-5.26E,1900,9.34
+Amsterdam,Netherlands,52.24N-5.26E,1901,8.8
+Amsterdam,Netherlands,52.24N-5.26E,1902,8.29
+Amsterdam,Netherlands,52.24N-5.26E,1903,9.27
+Amsterdam,Netherlands,52.24N-5.26E,1904,9.08
+Amsterdam,Netherlands,52.24N-5.26E,1905,8.85
+Amsterdam,Netherlands,52.24N-5.26E,1906,9.25
+Amsterdam,Netherlands,52.24N-5.26E,1907,8.72
+Amsterdam,Netherlands,52.24N-5.26E,1908,8.59
+Amsterdam,Netherlands,52.24N-5.26E,1909,8.31
+Amsterdam,Netherlands,52.24N-5.26E,1910,9.48
+Amsterdam,Netherlands,52.24N-5.26E,1911,9.95
+Amsterdam,Netherlands,52.24N-5.26E,1912,9.24
+Amsterdam,Netherlands,52.24N-5.26E,1913,9.65
+Amsterdam,Netherlands,52.24N-5.26E,1914,9.72
+Amsterdam,Netherlands,52.24N-5.26E,1915,8.83
+Amsterdam,Netherlands,52.24N-5.26E,1916,9.21
+Amsterdam,Netherlands,52.24N-5.26E,1917,8.32
+Amsterdam,Netherlands,52.24N-5.26E,1918,9.39
+Amsterdam,Netherlands,52.24N-5.26E,1919,8.14
+Amsterdam,Netherlands,52.24N-5.26E,1920,9.51
+Amsterdam,Netherlands,52.24N-5.26E,1921,10.04
+Amsterdam,Netherlands,52.24N-5.26E,1922,8.26
+Amsterdam,Netherlands,52.24N-5.26E,1923,8.74
+Amsterdam,Netherlands,52.24N-5.26E,1924,8.62
+Amsterdam,Netherlands,52.24N-5.26E,1925,9.15
+Amsterdam,Netherlands,52.24N-5.26E,1926,9.62
+Amsterdam,Netherlands,52.24N-5.26E,1927,8.94
+Amsterdam,Netherlands,52.24N-5.26E,1928,9.31
+Amsterdam,Netherlands,52.24N-5.26E,1929,8.38
+Amsterdam,Netherlands,52.24N-5.26E,1930,9.68
+Amsterdam,Netherlands,52.24N-5.26E,1931,8.81
+Amsterdam,Netherlands,52.24N-5.26E,1932,9.39
+Amsterdam,Netherlands,52.24N-5.26E,1933,9.09
+Amsterdam,Netherlands,52.24N-5.26E,1934,10.18
+Amsterdam,Netherlands,52.24N-5.26E,1935,9.64
+Amsterdam,Netherlands,52.24N-5.26E,1936,9.42
+Amsterdam,Netherlands,52.24N-5.26E,1937,9.53
+Amsterdam,Netherlands,52.24N-5.26E,1938,9.74
+Amsterdam,Netherlands,52.24N-5.26E,1939,9.54
+Amsterdam,Netherlands,52.24N-5.26E,1940,8.0
+Amsterdam,Netherlands,52.24N-5.26E,1941,8.5
+Amsterdam,Netherlands,52.24N-5.26E,1942,8.29
+Amsterdam,Netherlands,52.24N-5.26E,1943,9.78
+Amsterdam,Netherlands,52.24N-5.26E,1944,9.35
+Amsterdam,Netherlands,52.24N-5.26E,1945,9.99
+Amsterdam,Netherlands,52.24N-5.26E,1946,9.12
+Amsterdam,Netherlands,52.24N-5.26E,1947,9.44
+Amsterdam,Netherlands,52.24N-5.26E,1948,9.93
+Amsterdam,Netherlands,52.24N-5.26E,1949,10.1
+Amsterdam,Netherlands,52.24N-5.26E,1950,9.42
+Amsterdam,Netherlands,52.24N-5.26E,1951,9.56
+Amsterdam,Netherlands,52.24N-5.26E,1952,8.9
+Amsterdam,Netherlands,52.24N-5.26E,1953,9.8
+Amsterdam,Netherlands,52.24N-5.26E,1954,8.95
+Amsterdam,Netherlands,52.24N-5.26E,1955,8.81
+Amsterdam,Netherlands,52.24N-5.26E,1956,8.1
+Amsterdam,Netherlands,52.24N-5.26E,1957,9.87
+Amsterdam,Netherlands,52.24N-5.26E,1958,9.39
+Amsterdam,Netherlands,52.24N-5.26E,1959,10.16
+Amsterdam,Netherlands,52.24N-5.26E,1960,9.7
+Amsterdam,Netherlands,52.24N-5.26E,1961,9.97
+Amsterdam,Netherlands,52.24N-5.26E,1962,8.16
+Amsterdam,Netherlands,52.24N-5.26E,1963,7.86
+Amsterdam,Netherlands,52.24N-5.26E,1964,9.15
+Amsterdam,Netherlands,52.24N-5.26E,1965,8.68
+Amsterdam,Netherlands,52.24N-5.26E,1966,9.44
+Amsterdam,Netherlands,52.24N-5.26E,1967,9.86
+Amsterdam,Netherlands,52.24N-5.26E,1968,9.14
+Amsterdam,Netherlands,52.24N-5.26E,1969,9.17
+Amsterdam,Netherlands,52.24N-5.26E,1970,9.06
+Amsterdam,Netherlands,52.24N-5.26E,1971,9.51
+Amsterdam,Netherlands,52.24N-5.26E,1972,8.94
+Amsterdam,Netherlands,52.24N-5.26E,1973,9.43
+Amsterdam,Netherlands,52.24N-5.26E,1974,9.72
+Amsterdam,Netherlands,52.24N-5.26E,1975,9.88
+Amsterdam,Netherlands,52.24N-5.26E,1976,9.81
+Amsterdam,Netherlands,52.24N-5.26E,1977,9.66
+Amsterdam,Netherlands,52.24N-5.26E,1978,8.95
+Amsterdam,Netherlands,52.24N-5.26E,1979,8.45
+Amsterdam,Netherlands,52.24N-5.26E,1980,9.13
+Amsterdam,Netherlands,52.24N-5.26E,1981,9.23
+Amsterdam,Netherlands,52.24N-5.26E,1982,9.95
+Amsterdam,Netherlands,52.24N-5.26E,1983,9.93
+Amsterdam,Netherlands,52.24N-5.26E,1984,9.33
+Amsterdam,Netherlands,52.24N-5.26E,1985,8.39
+Amsterdam,Netherlands,52.24N-5.26E,1986,8.78
+Amsterdam,Netherlands,52.24N-5.26E,1987,8.64
+Amsterdam,Netherlands,52.24N-5.26E,1988,10.2
+Amsterdam,Netherlands,52.24N-5.26E,1989,10.57
+Amsterdam,Netherlands,52.24N-5.26E,1990,10.61
+Amsterdam,Netherlands,52.24N-5.26E,1991,9.31
+Amsterdam,Netherlands,52.24N-5.26E,1992,10.39
+Amsterdam,Netherlands,52.24N-5.26E,1993,9.47
+Amsterdam,Netherlands,52.24N-5.26E,1994,10.45
+Amsterdam,Netherlands,52.24N-5.26E,1995,10.22
+Amsterdam,Netherlands,52.24N-5.26E,1996,8.32
+Amsterdam,Netherlands,52.24N-5.26E,1997,9.99
+Amsterdam,Netherlands,52.24N-5.26E,1998,10.16
+Amsterdam,Netherlands,52.24N-5.26E,1999,10.71
+Amsterdam,Netherlands,52.24N-5.26E,2000,10.72
+Amsterdam,Netherlands,52.24N-5.26E,2001,10.22
+Amsterdam,Netherlands,52.24N-5.26E,2002,10.62
+Amsterdam,Netherlands,52.24N-5.26E,2003,10.27
+Amsterdam,Netherlands,52.24N-5.26E,2004,10.2
+Amsterdam,Netherlands,52.24N-5.26E,2005,10.43
+Amsterdam,Netherlands,52.24N-5.26E,2006,10.91
+Amsterdam,Netherlands,52.24N-5.26E,2007,10.99
+Amsterdam,Netherlands,52.24N-5.26E,2008,10.35
+Amsterdam,Netherlands,52.24N-5.26E,2009,10.25
+Amsterdam,Netherlands,52.24N-5.26E,2010,8.75
+Amsterdam,Netherlands,52.24N-5.26E,2011,10.72
+Amsterdam,Netherlands,52.24N-5.26E,2012,10.05
+Amsterdam,Netherlands,52.24N-5.26E,2013,9.52
+Amsterdam,Netherlands,52.24N-5.26E,2014,11.48
+Amsterdam,Netherlands,52.24N-5.26E,2015,10.61
+Amsterdam,Netherlands,52.24N-5.26E,2016,10.55
+Amsterdam,Netherlands,52.24N-5.26E,2017,10.72
+Amsterdam,Netherlands,52.24N-5.26E,2018,11.13
+Amsterdam,Netherlands,52.24N-5.26E,2019,11.01
+Amsterdam,Netherlands,52.24N-5.26E,2020,11.44
+Dublin,Ireland,53.84N-6.82W,1744,7.82
+Dublin,Ireland,53.84N-6.82W,1750,8.39
+Dublin,Ireland,53.84N-6.82W,1751,7.86
+Dublin,Ireland,53.84N-6.82W,1753,8.35
+Dublin,Ireland,53.84N-6.82W,1754,8.41
+Dublin,Ireland,53.84N-6.82W,1755,8.14
+Dublin,Ireland,53.84N-6.82W,1756,8.46
+Dublin,Ireland,53.84N-6.82W,1757,8.56
+Dublin,Ireland,53.84N-6.82W,1758,7.56
+Dublin,Ireland,53.84N-6.82W,1759,8.49
+Dublin,Ireland,53.84N-6.82W,1760,7.68
+Dublin,Ireland,53.84N-6.82W,1761,8.72
+Dublin,Ireland,53.84N-6.82W,1762,8.0
+Dublin,Ireland,53.84N-6.82W,1763,7.75
+Dublin,Ireland,53.84N-6.82W,1764,8.12
+Dublin,Ireland,53.84N-6.82W,1765,7.94
+Dublin,Ireland,53.84N-6.82W,1766,8.15
+Dublin,Ireland,53.84N-6.82W,1767,8.22
+Dublin,Ireland,53.84N-6.82W,1768,8.04
+Dublin,Ireland,53.84N-6.82W,1769,8.14
+Dublin,Ireland,53.84N-6.82W,1770,7.94
+Dublin,Ireland,53.84N-6.82W,1771,7.93
+Dublin,Ireland,53.84N-6.82W,1772,8.19
+Dublin,Ireland,53.84N-6.82W,1773,8.34
+Dublin,Ireland,53.84N-6.82W,1774,8.33
+Dublin,Ireland,53.84N-6.82W,1775,9.11
+Dublin,Ireland,53.84N-6.82W,1776,8.19
+Dublin,Ireland,53.84N-6.82W,1777,8.37
+Dublin,Ireland,53.84N-6.82W,1778,8.63
+Dublin,Ireland,53.84N-6.82W,1779,9.63
+Dublin,Ireland,53.84N-6.82W,1780,8.75
+Dublin,Ireland,53.84N-6.82W,1781,9.38
+Dublin,Ireland,53.84N-6.82W,1782,7.33
+Dublin,Ireland,53.84N-6.82W,1783,8.44
+Dublin,Ireland,53.84N-6.82W,1784,7.44
+Dublin,Ireland,53.84N-6.82W,1785,8.04
+Dublin,Ireland,53.84N-6.82W,1786,7.76
+Dublin,Ireland,53.84N-6.82W,1787,8.67
+Dublin,Ireland,53.84N-6.82W,1788,8.71
+Dublin,Ireland,53.84N-6.82W,1789,8.57
+Dublin,Ireland,53.84N-6.82W,1790,8.84
+Dublin,Ireland,53.84N-6.82W,1791,8.67
+Dublin,Ireland,53.84N-6.82W,1792,8.66
+Dublin,Ireland,53.84N-6.82W,1793,8.57
+Dublin,Ireland,53.84N-6.82W,1794,9.18
+Dublin,Ireland,53.84N-6.82W,1795,8.34
+Dublin,Ireland,53.84N-6.82W,1796,8.59
+Dublin,Ireland,53.84N-6.82W,1797,8.6
+Dublin,Ireland,53.84N-6.82W,1798,9.09
+Dublin,Ireland,53.84N-6.82W,1799,7.49
+Dublin,Ireland,53.84N-6.82W,1800,8.49
+Dublin,Ireland,53.84N-6.82W,1801,8.95
+Dublin,Ireland,53.84N-6.82W,1802,8.58
+Dublin,Ireland,53.84N-6.82W,1803,8.57
+Dublin,Ireland,53.84N-6.82W,1804,8.82
+Dublin,Ireland,53.84N-6.82W,1805,8.49
+Dublin,Ireland,53.84N-6.82W,1806,8.73
+Dublin,Ireland,53.84N-6.82W,1807,7.92
+Dublin,Ireland,53.84N-6.82W,1808,8.13
+Dublin,Ireland,53.84N-6.82W,1809,8.1
+Dublin,Ireland,53.84N-6.82W,1810,7.9
+Dublin,Ireland,53.84N-6.82W,1811,8.57
+Dublin,Ireland,53.84N-6.82W,1812,7.66
+Dublin,Ireland,53.84N-6.82W,1813,8.21
+Dublin,Ireland,53.84N-6.82W,1814,7.4
+Dublin,Ireland,53.84N-6.82W,1815,8.14
+Dublin,Ireland,53.84N-6.82W,1816,7.19
+Dublin,Ireland,53.84N-6.82W,1817,8.02
+Dublin,Ireland,53.84N-6.82W,1818,8.99
+Dublin,Ireland,53.84N-6.82W,1819,8.39
+Dublin,Ireland,53.84N-6.82W,1820,8.11
+Dublin,Ireland,53.84N-6.82W,1821,8.89
+Dublin,Ireland,53.84N-6.82W,1822,9.1
+Dublin,Ireland,53.84N-6.82W,1823,7.86
+Dublin,Ireland,53.84N-6.82W,1824,8.65
+Dublin,Ireland,53.84N-6.82W,1825,9.06
+Dublin,Ireland,53.84N-6.82W,1826,9.35
+Dublin,Ireland,53.84N-6.82W,1827,8.75
+Dublin,Ireland,53.84N-6.82W,1828,9.35
+Dublin,Ireland,53.84N-6.82W,1829,7.73
+Dublin,Ireland,53.84N-6.82W,1830,8.16
+Dublin,Ireland,53.84N-6.82W,1831,9.08
+Dublin,Ireland,53.84N-6.82W,1832,8.67
+Dublin,Ireland,53.84N-6.82W,1833,8.6
+Dublin,Ireland,53.84N-6.82W,1834,9.48
+Dublin,Ireland,53.84N-6.82W,1835,8.58
+Dublin,Ireland,53.84N-6.82W,1836,7.94
+Dublin,Ireland,53.84N-6.82W,1837,8.15
+Dublin,Ireland,53.84N-6.82W,1838,7.5
+Dublin,Ireland,53.84N-6.82W,1839,7.98
+Dublin,Ireland,53.84N-6.82W,1840,8.06
+Dublin,Ireland,53.84N-6.82W,1841,8.08
+Dublin,Ireland,53.84N-6.82W,1842,8.74
+Dublin,Ireland,53.84N-6.82W,1843,8.58
+Dublin,Ireland,53.84N-6.82W,1844,8.3
+Dublin,Ireland,53.84N-6.82W,1845,8.03
+Dublin,Ireland,53.84N-6.82W,1846,9.54
+Dublin,Ireland,53.84N-6.82W,1847,8.72
+Dublin,Ireland,53.84N-6.82W,1848,8.49
+Dublin,Ireland,53.84N-6.82W,1849,8.54
+Dublin,Ireland,53.84N-6.82W,1850,8.61
+Dublin,Ireland,53.84N-6.82W,1851,8.62
+Dublin,Ireland,53.84N-6.82W,1852,8.93
+Dublin,Ireland,53.84N-6.82W,1853,7.89
+Dublin,Ireland,53.84N-6.82W,1854,8.61
+Dublin,Ireland,53.84N-6.82W,1855,7.72
+Dublin,Ireland,53.84N-6.82W,1856,8.55
+Dublin,Ireland,53.84N-6.82W,1857,9.33
+Dublin,Ireland,53.84N-6.82W,1858,8.63
+Dublin,Ireland,53.84N-6.82W,1859,8.78
+Dublin,Ireland,53.84N-6.82W,1860,7.48
+Dublin,Ireland,53.84N-6.82W,1861,8.65
+Dublin,Ireland,53.84N-6.82W,1862,8.27
+Dublin,Ireland,53.84N-6.82W,1863,8.68
+Dublin,Ireland,53.84N-6.82W,1864,8.14
+Dublin,Ireland,53.84N-6.82W,1865,8.94
+Dublin,Ireland,53.84N-6.82W,1866,8.58
+Dublin,Ireland,53.84N-6.82W,1867,8.43
+Dublin,Ireland,53.84N-6.82W,1868,9.22
+Dublin,Ireland,53.84N-6.82W,1869,8.76
+Dublin,Ireland,53.84N-6.82W,1870,8.45
+Dublin,Ireland,53.84N-6.82W,1871,8.63
+Dublin,Ireland,53.84N-6.82W,1872,8.79
+Dublin,Ireland,53.84N-6.82W,1873,8.41
+Dublin,Ireland,53.84N-6.82W,1874,8.74
+Dublin,Ireland,53.84N-6.82W,1875,8.83
+Dublin,Ireland,53.84N-6.82W,1876,8.69
+Dublin,Ireland,53.84N-6.82W,1877,8.41
+Dublin,Ireland,53.84N-6.82W,1878,8.7
+Dublin,Ireland,53.84N-6.82W,1879,7.18
+Dublin,Ireland,53.84N-6.82W,1880,8.55
+Dublin,Ireland,53.84N-6.82W,1881,7.88
+Dublin,Ireland,53.84N-6.82W,1882,8.72
+Dublin,Ireland,53.84N-6.82W,1883,8.28
+Dublin,Ireland,53.84N-6.82W,1884,8.9
+Dublin,Ireland,53.84N-6.82W,1885,7.97
+Dublin,Ireland,53.84N-6.82W,1886,7.99
+Dublin,Ireland,53.84N-6.82W,1887,8.18
+Dublin,Ireland,53.84N-6.82W,1888,7.98
+Dublin,Ireland,53.84N-6.82W,1889,8.63
+Dublin,Ireland,53.84N-6.82W,1890,8.57
+Dublin,Ireland,53.84N-6.82W,1891,8.25
+Dublin,Ireland,53.84N-6.82W,1892,7.7
+Dublin,Ireland,53.84N-6.82W,1893,9.3
+Dublin,Ireland,53.84N-6.82W,1894,8.59
+Dublin,Ireland,53.84N-6.82W,1895,8.02
+Dublin,Ireland,53.84N-6.82W,1896,8.75
+Dublin,Ireland,53.84N-6.82W,1897,8.7
+Dublin,Ireland,53.84N-6.82W,1898,9.28
+Dublin,Ireland,53.84N-6.82W,1899,9.1
+Dublin,Ireland,53.84N-6.82W,1900,8.72
+Dublin,Ireland,53.84N-6.82W,1901,8.55
+Dublin,Ireland,53.84N-6.82W,1902,8.28
+Dublin,Ireland,53.84N-6.82W,1903,8.48
+Dublin,Ireland,53.84N-6.82W,1904,8.43
+Dublin,Ireland,53.84N-6.82W,1905,8.7
+Dublin,Ireland,53.84N-6.82W,1906,8.71
+Dublin,Ireland,53.84N-6.82W,1907,8.36
+Dublin,Ireland,53.84N-6.82W,1908,8.97
+Dublin,Ireland,53.84N-6.82W,1909,8.17
+Dublin,Ireland,53.84N-6.82W,1910,8.7
+Dublin,Ireland,53.84N-6.82W,1911,9.22
+Dublin,Ireland,53.84N-6.82W,1912,8.66
+Dublin,Ireland,53.84N-6.82W,1913,8.93
+Dublin,Ireland,53.84N-6.82W,1914,9.16
+Dublin,Ireland,53.84N-6.82W,1915,8.39
+Dublin,Ireland,53.84N-6.82W,1916,8.67
+Dublin,Ireland,53.84N-6.82W,1917,8.16
+Dublin,Ireland,53.84N-6.82W,1918,8.93
+Dublin,Ireland,53.84N-6.82W,1919,8.09
+Dublin,Ireland,53.84N-6.82W,1920,8.96
+Dublin,Ireland,53.84N-6.82W,1921,9.82
+Dublin,Ireland,53.84N-6.82W,1922,8.27
+Dublin,Ireland,53.84N-6.82W,1923,8.51
+Dublin,Ireland,53.84N-6.82W,1924,8.72
+Dublin,Ireland,53.84N-6.82W,1925,8.47
+Dublin,Ireland,53.84N-6.82W,1926,9.11
+Dublin,Ireland,53.84N-6.82W,1927,8.62
+Dublin,Ireland,53.84N-6.82W,1928,8.79
+Dublin,Ireland,53.84N-6.82W,1929,8.61
+Dublin,Ireland,53.84N-6.82W,1930,8.61
+Dublin,Ireland,53.84N-6.82W,1931,8.63
+Dublin,Ireland,53.84N-6.82W,1932,9.02
+Dublin,Ireland,53.84N-6.82W,1933,9.36
+Dublin,Ireland,53.84N-6.82W,1934,9.32
+Dublin,Ireland,53.84N-6.82W,1935,9.0
+Dublin,Ireland,53.84N-6.82W,1936,8.9
+Dublin,Ireland,53.84N-6.82W,1937,8.88
+Dublin,Ireland,53.84N-6.82W,1938,9.36
+Dublin,Ireland,53.84N-6.82W,1939,9.19
+Dublin,Ireland,53.84N-6.82W,1940,8.8
+Dublin,Ireland,53.84N-6.82W,1941,8.6
+Dublin,Ireland,53.84N-6.82W,1942,8.75
+Dublin,Ireland,53.84N-6.82W,1943,9.43
+Dublin,Ireland,53.84N-6.82W,1944,9.09
+Dublin,Ireland,53.84N-6.82W,1945,9.78
+Dublin,Ireland,53.84N-6.82W,1946,8.89
+Dublin,Ireland,53.84N-6.82W,1947,8.83
+Dublin,Ireland,53.84N-6.82W,1948,9.39
+Dublin,Ireland,53.84N-6.82W,1949,9.93
+Dublin,Ireland,53.84N-6.82W,1950,8.78
+Dublin,Ireland,53.84N-6.82W,1951,8.56
+Dublin,Ireland,53.84N-6.82W,1952,8.58
+Dublin,Ireland,53.84N-6.82W,1953,9.4
+Dublin,Ireland,53.84N-6.82W,1954,8.73
+Dublin,Ireland,53.84N-6.82W,1955,8.92
+Dublin,Ireland,53.84N-6.82W,1956,8.72
+Dublin,Ireland,53.84N-6.82W,1957,9.42
+Dublin,Ireland,53.84N-6.82W,1958,8.97
+Dublin,Ireland,53.84N-6.82W,1959,9.76
+Dublin,Ireland,53.84N-6.82W,1960,9.05
+Dublin,Ireland,53.84N-6.82W,1961,9.13
+Dublin,Ireland,53.84N-6.82W,1962,8.35
+Dublin,Ireland,53.84N-6.82W,1963,8.15
+Dublin,Ireland,53.84N-6.82W,1964,9.11
+Dublin,Ireland,53.84N-6.82W,1965,8.4
+Dublin,Ireland,53.84N-6.82W,1966,8.97
+Dublin,Ireland,53.84N-6.82W,1967,8.93
+Dublin,Ireland,53.84N-6.82W,1968,8.91
+Dublin,Ireland,53.84N-6.82W,1969,8.69
+Dublin,Ireland,53.84N-6.82W,1970,9.04
+Dublin,Ireland,53.84N-6.82W,1971,9.48
+Dublin,Ireland,53.84N-6.82W,1972,8.62
+Dublin,Ireland,53.84N-6.82W,1973,9.18
+Dublin,Ireland,53.84N-6.82W,1974,8.9
+Dublin,Ireland,53.84N-6.82W,1975,9.5
+Dublin,Ireland,53.84N-6.82W,1976,9.26
+Dublin,Ireland,53.84N-6.82W,1977,8.95
+Dublin,Ireland,53.84N-6.82W,1978,9.03
+Dublin,Ireland,53.84N-6.82W,1979,8.2
+Dublin,Ireland,53.84N-6.82W,1980,8.98
+Dublin,Ireland,53.84N-6.82W,1981,8.95
+Dublin,Ireland,53.84N-6.82W,1982,9.23
+Dublin,Ireland,53.84N-6.82W,1983,9.5
+Dublin,Ireland,53.84N-6.82W,1984,9.18
+Dublin,Ireland,53.84N-6.82W,1985,8.48
+Dublin,Ireland,53.84N-6.82W,1986,8.17
+Dublin,Ireland,53.84N-6.82W,1987,8.81
+Dublin,Ireland,53.84N-6.82W,1988,9.29
+Dublin,Ireland,53.84N-6.82W,1989,9.68
+Dublin,Ireland,53.84N-6.82W,1990,9.72
+Dublin,Ireland,53.84N-6.82W,1991,9.2
+Dublin,Ireland,53.84N-6.82W,1992,9.18
+Dublin,Ireland,53.84N-6.82W,1993,8.96
+Dublin,Ireland,53.84N-6.82W,1994,9.25
+Dublin,Ireland,53.84N-6.82W,1995,9.89
+Dublin,Ireland,53.84N-6.82W,1996,8.98
+Dublin,Ireland,53.84N-6.82W,1997,10.09
+Dublin,Ireland,53.84N-6.82W,1998,9.85
+Dublin,Ireland,53.84N-6.82W,1999,9.88
+Dublin,Ireland,53.84N-6.82W,2000,9.56
+Dublin,Ireland,53.84N-6.82W,2001,9.42
+Dublin,Ireland,53.84N-6.82W,2002,9.87
+Dublin,Ireland,53.84N-6.82W,2003,9.91
+Dublin,Ireland,53.84N-6.82W,2004,9.91
+Dublin,Ireland,53.84N-6.82W,2005,10.04
+Dublin,Ireland,53.84N-6.82W,2006,10.12
+Dublin,Ireland,53.84N-6.82W,2007,10.27
+Dublin,Ireland,53.84N-6.82W,2008,9.58
+Dublin,Ireland,53.84N-6.82W,2009,9.63
+Dublin,Ireland,53.84N-6.82W,2010,8.64
+Dublin,Ireland,53.84N-6.82W,2011,9.93
+Dublin,Ireland,53.84N-6.82W,2012,9.48
+Dublin,Ireland,53.84N-6.82W,2013,9.51
+Dublin,Ireland,53.84N-6.82W,2014,10.23
+Dublin,Ireland,53.84N-6.82W,2015,9.49
+Dublin,Ireland,53.84N-6.82W,2016,9.85
+Dublin,Ireland,53.84N-6.82W,2017,10.07
+Dublin,Ireland,53.84N-6.82W,2018,9.82
+Dublin,Ireland,53.84N-6.82W,2019,9.94
+Dublin,Ireland,53.84N-6.82W,2020,9.93
+Belo Horizonte,Brazil,20.09S-44.36W,1832,19.99
+Belo Horizonte,Brazil,20.09S-44.36W,1833,20.98
+Belo Horizonte,Brazil,20.09S-44.36W,1834,20.29
+Belo Horizonte,Brazil,20.09S-44.36W,1835,19.76
+Belo Horizonte,Brazil,20.09S-44.36W,1836,19.93
+Belo Horizonte,Brazil,20.09S-44.36W,1837,19.35
+Belo Horizonte,Brazil,20.09S-44.36W,1838,19.85
+Belo Horizonte,Brazil,20.09S-44.36W,1839,19.64
+Belo Horizonte,Brazil,20.09S-44.36W,1840,20.29
+Belo Horizonte,Brazil,20.09S-44.36W,1841,19.94
+Belo Horizonte,Brazil,20.09S-44.36W,1842,20.38
+Belo Horizonte,Brazil,20.09S-44.36W,1843,20.51
+Belo Horizonte,Brazil,20.09S-44.36W,1851,20.16
+Belo Horizonte,Brazil,20.09S-44.36W,1852,20.33
+Belo Horizonte,Brazil,20.09S-44.36W,1853,20.36
+Belo Horizonte,Brazil,20.09S-44.36W,1854,20.43
+Belo Horizonte,Brazil,20.09S-44.36W,1855,20.53
+Belo Horizonte,Brazil,20.09S-44.36W,1856,20.16
+Belo Horizonte,Brazil,20.09S-44.36W,1857,20.61
+Belo Horizonte,Brazil,20.09S-44.36W,1858,19.8
+Belo Horizonte,Brazil,20.09S-44.36W,1859,20.45
+Belo Horizonte,Brazil,20.09S-44.36W,1860,21.1
+Belo Horizonte,Brazil,20.09S-44.36W,1861,20.32
+Belo Horizonte,Brazil,20.09S-44.36W,1862,20.27
+Belo Horizonte,Brazil,20.09S-44.36W,1863,20.3
+Belo Horizonte,Brazil,20.09S-44.36W,1864,20.32
+Belo Horizonte,Brazil,20.09S-44.36W,1865,20.24
+Belo Horizonte,Brazil,20.09S-44.36W,1866,20.45
+Belo Horizonte,Brazil,20.09S-44.36W,1867,20.54
+Belo Horizonte,Brazil,20.09S-44.36W,1868,20.81
+Belo Horizonte,Brazil,20.09S-44.36W,1869,20.76
+Belo Horizonte,Brazil,20.09S-44.36W,1870,20.37
+Belo Horizonte,Brazil,20.09S-44.36W,1871,20.29
+Belo Horizonte,Brazil,20.09S-44.36W,1872,20.55
+Belo Horizonte,Brazil,20.09S-44.36W,1873,20.82
+Belo Horizonte,Brazil,20.09S-44.36W,1874,20.41
+Belo Horizonte,Brazil,20.09S-44.36W,1875,20.16
+Belo Horizonte,Brazil,20.09S-44.36W,1876,20.43
+Belo Horizonte,Brazil,20.09S-44.36W,1877,21.13
+Belo Horizonte,Brazil,20.09S-44.36W,1878,21.59
+Belo Horizonte,Brazil,20.09S-44.36W,1879,20.18
+Belo Horizonte,Brazil,20.09S-44.36W,1880,21.22
+Belo Horizonte,Brazil,20.09S-44.36W,1881,20.65
+Belo Horizonte,Brazil,20.09S-44.36W,1882,20.08
+Belo Horizonte,Brazil,20.09S-44.36W,1883,20.35
+Belo Horizonte,Brazil,20.09S-44.36W,1884,20.23
+Belo Horizonte,Brazil,20.09S-44.36W,1885,20.95
+Belo Horizonte,Brazil,20.09S-44.36W,1886,20.12
+Belo Horizonte,Brazil,20.09S-44.36W,1887,20.53
+Belo Horizonte,Brazil,20.09S-44.36W,1888,21.03
+Belo Horizonte,Brazil,20.09S-44.36W,1889,21.16
+Belo Horizonte,Brazil,20.09S-44.36W,1890,20.37
+Belo Horizonte,Brazil,20.09S-44.36W,1891,20.59
+Belo Horizonte,Brazil,20.09S-44.36W,1892,20.37
+Belo Horizonte,Brazil,20.09S-44.36W,1893,19.79
+Belo Horizonte,Brazil,20.09S-44.36W,1894,20.66
+Belo Horizonte,Brazil,20.09S-44.36W,1895,20.46
+Belo Horizonte,Brazil,20.09S-44.36W,1896,20.48
+Belo Horizonte,Brazil,20.09S-44.36W,1897,20.41
+Belo Horizonte,Brazil,20.09S-44.36W,1898,20.66
+Belo Horizonte,Brazil,20.09S-44.36W,1899,20.95
+Belo Horizonte,Brazil,20.09S-44.36W,1900,20.71
+Belo Horizonte,Brazil,20.09S-44.36W,1901,20.53
+Belo Horizonte,Brazil,20.09S-44.36W,1902,21.0
+Belo Horizonte,Brazil,20.09S-44.36W,1903,20.75
+Belo Horizonte,Brazil,20.09S-44.36W,1904,19.84
+Belo Horizonte,Brazil,20.09S-44.36W,1905,21.03
+Belo Horizonte,Brazil,20.09S-44.36W,1906,20.71
+Belo Horizonte,Brazil,20.09S-44.36W,1907,20.4
+Belo Horizonte,Brazil,20.09S-44.36W,1908,20.74
+Belo Horizonte,Brazil,20.09S-44.36W,1909,20.36
+Belo Horizonte,Brazil,20.09S-44.36W,1910,20.58
+Belo Horizonte,Brazil,20.09S-44.36W,1911,20.5
+Belo Horizonte,Brazil,20.09S-44.36W,1912,20.56
+Belo Horizonte,Brazil,20.09S-44.36W,1913,20.88
+Belo Horizonte,Brazil,20.09S-44.36W,1914,21.28
+Belo Horizonte,Brazil,20.09S-44.36W,1915,21.28
+Belo Horizonte,Brazil,20.09S-44.36W,1916,20.65
+Belo Horizonte,Brazil,20.09S-44.36W,1917,19.9
+Belo Horizonte,Brazil,20.09S-44.36W,1918,20.37
+Belo Horizonte,Brazil,20.09S-44.36W,1919,20.7
+Belo Horizonte,Brazil,20.09S-44.36W,1920,20.54
+Belo Horizonte,Brazil,20.09S-44.36W,1921,20.38
+Belo Horizonte,Brazil,20.09S-44.36W,1922,20.75
+Belo Horizonte,Brazil,20.09S-44.36W,1923,20.45
+Belo Horizonte,Brazil,20.09S-44.36W,1924,20.32
+Belo Horizonte,Brazil,20.09S-44.36W,1925,20.42
+Belo Horizonte,Brazil,20.09S-44.36W,1926,20.66
+Belo Horizonte,Brazil,20.09S-44.36W,1927,20.7
+Belo Horizonte,Brazil,20.09S-44.36W,1928,21.05
+Belo Horizonte,Brazil,20.09S-44.36W,1929,20.74
+Belo Horizonte,Brazil,20.09S-44.36W,1930,20.89
+Belo Horizonte,Brazil,20.09S-44.36W,1931,20.6
+Belo Horizonte,Brazil,20.09S-44.36W,1932,21.12
+Belo Horizonte,Brazil,20.09S-44.36W,1933,20.08
+Belo Horizonte,Brazil,20.09S-44.36W,1934,20.64
+Belo Horizonte,Brazil,20.09S-44.36W,1935,20.7
+Belo Horizonte,Brazil,20.09S-44.36W,1936,20.79
+Belo Horizonte,Brazil,20.09S-44.36W,1937,20.49
+Belo Horizonte,Brazil,20.09S-44.36W,1938,20.87
+Belo Horizonte,Brazil,20.09S-44.36W,1939,20.91
+Belo Horizonte,Brazil,20.09S-44.36W,1940,21.09
+Belo Horizonte,Brazil,20.09S-44.36W,1941,20.96
+Belo Horizonte,Brazil,20.09S-44.36W,1942,20.58
+Belo Horizonte,Brazil,20.09S-44.36W,1943,20.32
+Belo Horizonte,Brazil,20.09S-44.36W,1944,20.71
+Belo Horizonte,Brazil,20.09S-44.36W,1945,20.42
+Belo Horizonte,Brazil,20.09S-44.36W,1946,21.2
+Belo Horizonte,Brazil,20.09S-44.36W,1947,20.53
+Belo Horizonte,Brazil,20.09S-44.36W,1948,20.7
+Belo Horizonte,Brazil,20.09S-44.36W,1949,20.4
+Belo Horizonte,Brazil,20.09S-44.36W,1950,20.85
+Belo Horizonte,Brazil,20.09S-44.36W,1951,20.57
+Belo Horizonte,Brazil,20.09S-44.36W,1952,20.74
+Belo Horizonte,Brazil,20.09S-44.36W,1953,20.71
+Belo Horizonte,Brazil,20.09S-44.36W,1954,21.19
+Belo Horizonte,Brazil,20.09S-44.36W,1955,20.5
+Belo Horizonte,Brazil,20.09S-44.36W,1956,20.19
+Belo Horizonte,Brazil,20.09S-44.36W,1957,20.55
+Belo Horizonte,Brazil,20.09S-44.36W,1958,20.98
+Belo Horizonte,Brazil,20.09S-44.36W,1959,21.44
+Belo Horizonte,Brazil,20.09S-44.36W,1960,20.62
+Belo Horizonte,Brazil,20.09S-44.36W,1961,21.2
+Belo Horizonte,Brazil,20.09S-44.36W,1962,20.4
+Belo Horizonte,Brazil,20.09S-44.36W,1963,21.54
+Belo Horizonte,Brazil,20.09S-44.36W,1964,20.36
+Belo Horizonte,Brazil,20.09S-44.36W,1965,20.82
+Belo Horizonte,Brazil,20.09S-44.36W,1966,20.91
+Belo Horizonte,Brazil,20.09S-44.36W,1967,21.15
+Belo Horizonte,Brazil,20.09S-44.36W,1968,19.96
+Belo Horizonte,Brazil,20.09S-44.36W,1969,21.28
+Belo Horizonte,Brazil,20.09S-44.36W,1970,21.04
+Belo Horizonte,Brazil,20.09S-44.36W,1971,21.08
+Belo Horizonte,Brazil,20.09S-44.36W,1972,21.05
+Belo Horizonte,Brazil,20.09S-44.36W,1973,21.78
+Belo Horizonte,Brazil,20.09S-44.36W,1974,21.11
+Belo Horizonte,Brazil,20.09S-44.36W,1975,20.87
+Belo Horizonte,Brazil,20.09S-44.36W,1976,20.97
+Belo Horizonte,Brazil,20.09S-44.36W,1977,21.46
+Belo Horizonte,Brazil,20.09S-44.36W,1978,20.79
+Belo Horizonte,Brazil,20.09S-44.36W,1979,20.75
+Belo Horizonte,Brazil,20.09S-44.36W,1980,21.28
+Belo Horizonte,Brazil,20.09S-44.36W,1981,20.78
+Belo Horizonte,Brazil,20.09S-44.36W,1982,21.13
+Belo Horizonte,Brazil,20.09S-44.36W,1983,21.27
+Belo Horizonte,Brazil,20.09S-44.36W,1984,21.83
+Belo Horizonte,Brazil,20.09S-44.36W,1985,20.97
+Belo Horizonte,Brazil,20.09S-44.36W,1986,21.35
+Belo Horizonte,Brazil,20.09S-44.36W,1987,21.76
+Belo Horizonte,Brazil,20.09S-44.36W,1988,21.24
+Belo Horizonte,Brazil,20.09S-44.36W,1989,21.03
+Belo Horizonte,Brazil,20.09S-44.36W,1990,21.53
+Belo Horizonte,Brazil,20.09S-44.36W,1991,21.12
+Belo Horizonte,Brazil,20.09S-44.36W,1992,21.07
+Belo Horizonte,Brazil,20.09S-44.36W,1993,21.5
+Belo Horizonte,Brazil,20.09S-44.36W,1994,21.57
+Belo Horizonte,Brazil,20.09S-44.36W,1995,21.71
+Belo Horizonte,Brazil,20.09S-44.36W,1996,21.27
+Belo Horizonte,Brazil,20.09S-44.36W,1997,21.59
+Belo Horizonte,Brazil,20.09S-44.36W,1998,22.11
+Belo Horizonte,Brazil,20.09S-44.36W,1999,21.25
+Belo Horizonte,Brazil,20.09S-44.36W,2000,21.33
+Belo Horizonte,Brazil,20.09S-44.36W,2001,21.72
+Belo Horizonte,Brazil,20.09S-44.36W,2002,22.14
+Belo Horizonte,Brazil,20.09S-44.36W,2003,21.73
+Belo Horizonte,Brazil,20.09S-44.36W,2004,21.23
+Belo Horizonte,Brazil,20.09S-44.36W,2005,21.66
+Belo Horizonte,Brazil,20.09S-44.36W,2006,21.45
+Belo Horizonte,Brazil,20.09S-44.36W,2007,21.86
+Belo Horizonte,Brazil,20.09S-44.36W,2008,21.57
+Belo Horizonte,Brazil,20.09S-44.36W,2009,22.07
+Belo Horizonte,Brazil,20.09S-44.36W,2010,21.77
+Belo Horizonte,Brazil,20.09S-44.36W,2011,21.49
+Belo Horizonte,Brazil,20.09S-44.36W,2012,21.83
+Belo Horizonte,Brazil,20.09S-44.36W,2013,21.61
+Belo Horizonte,Brazil,20.09S-44.36W,2014,22.16
+Belo Horizonte,Brazil,20.09S-44.36W,2015,22.69
+Belo Horizonte,Brazil,20.09S-44.36W,2016,22.33
+Belo Horizonte,Brazil,20.09S-44.36W,2017,21.89
+Belo Horizonte,Brazil,20.09S-44.36W,2018,21.96
+Belo Horizonte,Brazil,20.09S-44.36W,2019,22.55
+Belo Horizonte,Brazil,20.09S-44.36W,2020,22.0
+Campinas,Brazil,23.31S-46.31W,1832,19.14
+Campinas,Brazil,23.31S-46.31W,1833,20.12
+Campinas,Brazil,23.31S-46.31W,1834,19.44
+Campinas,Brazil,23.31S-46.31W,1835,18.91
+Campinas,Brazil,23.31S-46.31W,1836,19.08
+Campinas,Brazil,23.31S-46.31W,1837,18.5
+Campinas,Brazil,23.31S-46.31W,1838,19.0
+Campinas,Brazil,23.31S-46.31W,1839,18.79
+Campinas,Brazil,23.31S-46.31W,1840,19.44
+Campinas,Brazil,23.31S-46.31W,1841,19.09
+Campinas,Brazil,23.31S-46.31W,1842,19.53
+Campinas,Brazil,23.31S-46.31W,1843,19.66
+Campinas,Brazil,23.31S-46.31W,1851,19.32
+Campinas,Brazil,23.31S-46.31W,1852,19.48
+Campinas,Brazil,23.31S-46.31W,1853,19.51
+Campinas,Brazil,23.31S-46.31W,1854,19.58
+Campinas,Brazil,23.31S-46.31W,1855,19.65
+Campinas,Brazil,23.31S-46.31W,1856,19.34
+Campinas,Brazil,23.31S-46.31W,1857,19.9
+Campinas,Brazil,23.31S-46.31W,1858,18.94
+Campinas,Brazil,23.31S-46.31W,1859,19.58
+Campinas,Brazil,23.31S-46.31W,1860,20.21
+Campinas,Brazil,23.31S-46.31W,1861,19.5
+Campinas,Brazil,23.31S-46.31W,1862,19.51
+Campinas,Brazil,23.31S-46.31W,1863,19.41
+Campinas,Brazil,23.31S-46.31W,1864,19.5
+Campinas,Brazil,23.31S-46.31W,1865,19.49
+Campinas,Brazil,23.31S-46.31W,1866,19.64
+Campinas,Brazil,23.31S-46.31W,1867,19.66
+Campinas,Brazil,23.31S-46.31W,1868,20.03
+Campinas,Brazil,23.31S-46.31W,1869,19.88
+Campinas,Brazil,23.31S-46.31W,1870,19.55
+Campinas,Brazil,23.31S-46.31W,1871,19.4
+Campinas,Brazil,23.31S-46.31W,1872,19.71
+Campinas,Brazil,23.31S-46.31W,1873,20.03
+Campinas,Brazil,23.31S-46.31W,1874,19.46
+Campinas,Brazil,23.31S-46.31W,1875,19.3
+Campinas,Brazil,23.31S-46.31W,1876,19.56
+Campinas,Brazil,23.31S-46.31W,1877,20.33
+Campinas,Brazil,23.31S-46.31W,1878,20.57
+Campinas,Brazil,23.31S-46.31W,1879,19.27
+Campinas,Brazil,23.31S-46.31W,1880,20.33
+Campinas,Brazil,23.31S-46.31W,1881,19.82
+Campinas,Brazil,23.31S-46.31W,1882,19.19
+Campinas,Brazil,23.31S-46.31W,1883,19.58
+Campinas,Brazil,23.31S-46.31W,1884,19.5
+Campinas,Brazil,23.31S-46.31W,1885,20.24
+Campinas,Brazil,23.31S-46.31W,1886,19.28
+Campinas,Brazil,23.31S-46.31W,1887,19.71
+Campinas,Brazil,23.31S-46.31W,1888,20.5
+Campinas,Brazil,23.31S-46.31W,1889,20.33
+Campinas,Brazil,23.31S-46.31W,1890,19.45
+Campinas,Brazil,23.31S-46.31W,1891,19.85
+Campinas,Brazil,23.31S-46.31W,1892,19.45
+Campinas,Brazil,23.31S-46.31W,1893,18.79
+Campinas,Brazil,23.31S-46.31W,1894,19.76
+Campinas,Brazil,23.31S-46.31W,1895,19.74
+Campinas,Brazil,23.31S-46.31W,1896,19.76
+Campinas,Brazil,23.31S-46.31W,1897,19.79
+Campinas,Brazil,23.31S-46.31W,1898,19.82
+Campinas,Brazil,23.31S-46.31W,1899,20.38
+Campinas,Brazil,23.31S-46.31W,1900,20.0
+Campinas,Brazil,23.31S-46.31W,1901,19.44
+Campinas,Brazil,23.31S-46.31W,1902,20.15
+Campinas,Brazil,23.31S-46.31W,1903,19.71
+Campinas,Brazil,23.31S-46.31W,1904,19.32
+Campinas,Brazil,23.31S-46.31W,1905,19.87
+Campinas,Brazil,23.31S-46.31W,1906,19.78
+Campinas,Brazil,23.31S-46.31W,1907,19.45
+Campinas,Brazil,23.31S-46.31W,1908,19.64
+Campinas,Brazil,23.31S-46.31W,1909,19.38
+Campinas,Brazil,23.31S-46.31W,1910,19.46
+Campinas,Brazil,23.31S-46.31W,1911,19.36
+Campinas,Brazil,23.31S-46.31W,1912,19.71
+Campinas,Brazil,23.31S-46.31W,1913,20.07
+Campinas,Brazil,23.31S-46.31W,1914,20.65
+Campinas,Brazil,23.31S-46.31W,1915,20.29
+Campinas,Brazil,23.31S-46.31W,1916,19.8
+Campinas,Brazil,23.31S-46.31W,1917,18.78
+Campinas,Brazil,23.31S-46.31W,1918,19.55
+Campinas,Brazil,23.31S-46.31W,1919,20.18
+Campinas,Brazil,23.31S-46.31W,1920,19.79
+Campinas,Brazil,23.31S-46.31W,1921,19.56
+Campinas,Brazil,23.31S-46.31W,1922,20.03
+Campinas,Brazil,23.31S-46.31W,1923,19.8
+Campinas,Brazil,23.31S-46.31W,1924,19.28
+Campinas,Brazil,23.31S-46.31W,1925,19.68
+Campinas,Brazil,23.31S-46.31W,1926,19.91
+Campinas,Brazil,23.31S-46.31W,1927,19.7
+Campinas,Brazil,23.31S-46.31W,1928,20.25
+Campinas,Brazil,23.31S-46.31W,1929,19.86
+Campinas,Brazil,23.31S-46.31W,1930,20.26
+Campinas,Brazil,23.31S-46.31W,1931,19.49
+Campinas,Brazil,23.31S-46.31W,1932,20.3
+Campinas,Brazil,23.31S-46.31W,1933,19.07
+Campinas,Brazil,23.31S-46.31W,1934,19.84
+Campinas,Brazil,23.31S-46.31W,1935,19.75
+Campinas,Brazil,23.31S-46.31W,1936,19.97
+Campinas,Brazil,23.31S-46.31W,1937,19.44
+Campinas,Brazil,23.31S-46.31W,1938,19.89
+Campinas,Brazil,23.31S-46.31W,1939,19.96
+Campinas,Brazil,23.31S-46.31W,1940,20.43
+Campinas,Brazil,23.31S-46.31W,1941,20.01
+Campinas,Brazil,23.31S-46.31W,1942,19.46
+Campinas,Brazil,23.31S-46.31W,1943,19.55
+Campinas,Brazil,23.31S-46.31W,1944,19.92
+Campinas,Brazil,23.31S-46.31W,1945,19.6
+Campinas,Brazil,23.31S-46.31W,1946,20.19
+Campinas,Brazil,23.31S-46.31W,1947,19.46
+Campinas,Brazil,23.31S-46.31W,1948,19.81
+Campinas,Brazil,23.31S-46.31W,1949,19.62
+Campinas,Brazil,23.31S-46.31W,1950,20.24
+Campinas,Brazil,23.31S-46.31W,1951,19.43
+Campinas,Brazil,23.31S-46.31W,1952,19.89
+Campinas,Brazil,23.31S-46.31W,1953,19.92
+Campinas,Brazil,23.31S-46.31W,1954,20.19
+Campinas,Brazil,23.31S-46.31W,1955,19.64
+Campinas,Brazil,23.31S-46.31W,1956,19.31
+Campinas,Brazil,23.31S-46.31W,1957,19.76
+Campinas,Brazil,23.31S-46.31W,1958,20.44
+Campinas,Brazil,23.31S-46.31W,1959,20.61
+Campinas,Brazil,23.31S-46.31W,1960,19.81
+Campinas,Brazil,23.31S-46.31W,1961,20.82
+Campinas,Brazil,23.31S-46.31W,1962,19.31
+Campinas,Brazil,23.31S-46.31W,1963,20.56
+Campinas,Brazil,23.31S-46.31W,1964,19.45
+Campinas,Brazil,23.31S-46.31W,1965,20.19
+Campinas,Brazil,23.31S-46.31W,1966,20.25
+Campinas,Brazil,23.31S-46.31W,1967,20.34
+Campinas,Brazil,23.31S-46.31W,1968,19.32
+Campinas,Brazil,23.31S-46.31W,1969,20.39
+Campinas,Brazil,23.31S-46.31W,1970,20.21
+Campinas,Brazil,23.31S-46.31W,1971,19.89
+Campinas,Brazil,23.31S-46.31W,1972,20.3
+Campinas,Brazil,23.31S-46.31W,1973,20.62
+Campinas,Brazil,23.31S-46.31W,1974,20.14
+Campinas,Brazil,23.31S-46.31W,1975,20.24
+Campinas,Brazil,23.31S-46.31W,1976,19.92
+Campinas,Brazil,23.31S-46.31W,1977,21.04
+Campinas,Brazil,23.31S-46.31W,1978,20.1
+Campinas,Brazil,23.31S-46.31W,1979,19.82
+Campinas,Brazil,23.31S-46.31W,1980,20.48
+Campinas,Brazil,23.31S-46.31W,1981,20.11
+Campinas,Brazil,23.31S-46.31W,1982,20.17
+Campinas,Brazil,23.31S-46.31W,1983,20.23
+Campinas,Brazil,23.31S-46.31W,1984,20.83
+Campinas,Brazil,23.31S-46.31W,1985,20.32
+Campinas,Brazil,23.31S-46.31W,1986,20.65
+Campinas,Brazil,23.31S-46.31W,1987,20.56
+Campinas,Brazil,23.31S-46.31W,1988,20.19
+Campinas,Brazil,23.31S-46.31W,1989,19.97
+Campinas,Brazil,23.31S-46.31W,1990,20.58
+Campinas,Brazil,23.31S-46.31W,1991,20.46
+Campinas,Brazil,23.31S-46.31W,1992,20.47
+Campinas,Brazil,23.31S-46.31W,1993,20.66
+Campinas,Brazil,23.31S-46.31W,1994,20.92
+Campinas,Brazil,23.31S-46.31W,1995,20.69
+Campinas,Brazil,23.31S-46.31W,1996,20.35
+Campinas,Brazil,23.31S-46.31W,1997,20.86
+Campinas,Brazil,23.31S-46.31W,1998,20.9
+Campinas,Brazil,23.31S-46.31W,1999,20.24
+Campinas,Brazil,23.31S-46.31W,2000,20.51
+Campinas,Brazil,23.31S-46.31W,2001,21.05
+Campinas,Brazil,23.31S-46.31W,2002,21.46
+Campinas,Brazil,23.31S-46.31W,2003,20.91
+Campinas,Brazil,23.31S-46.31W,2004,20.19
+Campinas,Brazil,23.31S-46.31W,2005,20.87
+Campinas,Brazil,23.31S-46.31W,2006,20.75
+Campinas,Brazil,23.31S-46.31W,2007,21.08
+Campinas,Brazil,23.31S-46.31W,2008,20.48
+Campinas,Brazil,23.31S-46.31W,2009,20.97
+Campinas,Brazil,23.31S-46.31W,2010,20.92
+Campinas,Brazil,23.31S-46.31W,2011,20.58
+Campinas,Brazil,23.31S-46.31W,2012,21.17
+Campinas,Brazil,23.31S-46.31W,2013,20.59
+Campinas,Brazil,23.31S-46.31W,2014,21.58
+Campinas,Brazil,23.31S-46.31W,2015,21.71
+Campinas,Brazil,23.31S-46.31W,2016,21.08
+Campinas,Brazil,23.31S-46.31W,2017,21.16
+Campinas,Brazil,23.31S-46.31W,2018,21.13
+Campinas,Brazil,23.31S-46.31W,2019,21.59
+Campinas,Brazil,23.31S-46.31W,2020,21.3
+Colombo,Brazil,24.92S-49.66W,1832,17.02
+Colombo,Brazil,24.92S-49.66W,1833,17.9
+Colombo,Brazil,24.92S-49.66W,1834,17.4
+Colombo,Brazil,24.92S-49.66W,1835,16.83
+Colombo,Brazil,24.92S-49.66W,1836,17.02
+Colombo,Brazil,24.92S-49.66W,1837,16.52
+Colombo,Brazil,24.92S-49.66W,1838,16.93
+Colombo,Brazil,24.92S-49.66W,1839,16.82
+Colombo,Brazil,24.92S-49.66W,1840,17.32
+Colombo,Brazil,24.92S-49.66W,1841,17.01
+Colombo,Brazil,24.92S-49.66W,1842,17.44
+Colombo,Brazil,24.92S-49.66W,1843,17.56
+Colombo,Brazil,24.92S-49.66W,1851,17.29
+Colombo,Brazil,24.92S-49.66W,1852,17.39
+Colombo,Brazil,24.92S-49.66W,1853,17.42
+Colombo,Brazil,24.92S-49.66W,1854,17.51
+Colombo,Brazil,24.92S-49.66W,1855,17.49
+Colombo,Brazil,24.92S-49.66W,1856,17.3
+Colombo,Brazil,24.92S-49.66W,1857,17.82
+Colombo,Brazil,24.92S-49.66W,1858,16.98
+Colombo,Brazil,24.92S-49.66W,1859,17.57
+Colombo,Brazil,24.92S-49.66W,1860,17.92
+Colombo,Brazil,24.92S-49.66W,1861,17.41
+Colombo,Brazil,24.92S-49.66W,1862,17.44
+Colombo,Brazil,24.92S-49.66W,1863,17.31
+Colombo,Brazil,24.92S-49.66W,1864,17.45
+Colombo,Brazil,24.92S-49.66W,1865,17.58
+Colombo,Brazil,24.92S-49.66W,1866,17.63
+Colombo,Brazil,24.92S-49.66W,1867,17.6
+Colombo,Brazil,24.92S-49.66W,1868,17.95
+Colombo,Brazil,24.92S-49.66W,1869,17.74
+Colombo,Brazil,24.92S-49.66W,1870,17.5
+Colombo,Brazil,24.92S-49.66W,1871,17.29
+Colombo,Brazil,24.92S-49.66W,1872,17.63
+Colombo,Brazil,24.92S-49.66W,1873,18.04
+Colombo,Brazil,24.92S-49.66W,1874,17.32
+Colombo,Brazil,24.92S-49.66W,1875,17.2
+Colombo,Brazil,24.92S-49.66W,1876,17.5
+Colombo,Brazil,24.92S-49.66W,1877,18.31
+Colombo,Brazil,24.92S-49.66W,1878,18.15
+Colombo,Brazil,24.92S-49.66W,1879,17.17
+Colombo,Brazil,24.92S-49.66W,1880,18.0
+Colombo,Brazil,24.92S-49.66W,1881,17.77
+Colombo,Brazil,24.92S-49.66W,1882,17.17
+Colombo,Brazil,24.92S-49.66W,1883,17.57
+Colombo,Brazil,24.92S-49.66W,1884,17.57
+Colombo,Brazil,24.92S-49.66W,1885,18.21
+Colombo,Brazil,24.92S-49.66W,1886,17.25
+Colombo,Brazil,24.92S-49.66W,1887,17.62
+Colombo,Brazil,24.92S-49.66W,1888,18.31
+Colombo,Brazil,24.92S-49.66W,1889,18.11
+Colombo,Brazil,24.92S-49.66W,1890,17.2
+Colombo,Brazil,24.92S-49.66W,1891,17.76
+Colombo,Brazil,24.92S-49.66W,1892,17.33
+Colombo,Brazil,24.92S-49.66W,1893,16.66
+Colombo,Brazil,24.92S-49.66W,1894,17.5
+Colombo,Brazil,24.92S-49.66W,1895,17.84
+Colombo,Brazil,24.92S-49.66W,1896,17.9
+Colombo,Brazil,24.92S-49.66W,1897,17.89
+Colombo,Brazil,24.92S-49.66W,1898,17.48
+Colombo,Brazil,24.92S-49.66W,1899,18.12
+Colombo,Brazil,24.92S-49.66W,1900,18.14
+Colombo,Brazil,24.92S-49.66W,1901,17.46
+Colombo,Brazil,24.92S-49.66W,1902,18.27
+Colombo,Brazil,24.92S-49.66W,1903,17.75
+Colombo,Brazil,24.92S-49.66W,1904,17.28
+Colombo,Brazil,24.92S-49.66W,1905,17.64
+Colombo,Brazil,24.92S-49.66W,1906,17.79
+Colombo,Brazil,24.92S-49.66W,1907,17.38
+Colombo,Brazil,24.92S-49.66W,1908,17.42
+Colombo,Brazil,24.92S-49.66W,1909,17.2
+Colombo,Brazil,24.92S-49.66W,1910,17.42
+Colombo,Brazil,24.92S-49.66W,1911,17.07
+Colombo,Brazil,24.92S-49.66W,1912,17.68
+Colombo,Brazil,24.92S-49.66W,1913,17.97
+Colombo,Brazil,24.92S-49.66W,1914,18.65
+Colombo,Brazil,24.92S-49.66W,1915,18.2
+Colombo,Brazil,24.92S-49.66W,1916,17.59
+Colombo,Brazil,24.92S-49.66W,1917,16.64
+Colombo,Brazil,24.92S-49.66W,1918,17.59
+Colombo,Brazil,24.92S-49.66W,1919,18.28
+Colombo,Brazil,24.92S-49.66W,1920,17.82
+Colombo,Brazil,24.92S-49.66W,1921,17.48
+Colombo,Brazil,24.92S-49.66W,1922,17.79
+Colombo,Brazil,24.92S-49.66W,1923,17.7
+Colombo,Brazil,24.92S-49.66W,1924,16.92
+Colombo,Brazil,24.92S-49.66W,1925,17.55
+Colombo,Brazil,24.92S-49.66W,1926,17.96
+Colombo,Brazil,24.92S-49.66W,1927,17.68
+Colombo,Brazil,24.92S-49.66W,1928,18.05
+Colombo,Brazil,24.92S-49.66W,1929,17.64
+Colombo,Brazil,24.92S-49.66W,1930,18.1
+Colombo,Brazil,24.92S-49.66W,1931,17.4
+Colombo,Brazil,24.92S-49.66W,1932,18.21
+Colombo,Brazil,24.92S-49.66W,1933,17.36
+Colombo,Brazil,24.92S-49.66W,1934,17.91
+Colombo,Brazil,24.92S-49.66W,1935,17.78
+Colombo,Brazil,24.92S-49.66W,1936,18.13
+Colombo,Brazil,24.92S-49.66W,1937,17.5
+Colombo,Brazil,24.92S-49.66W,1938,17.76
+Colombo,Brazil,24.92S-49.66W,1939,17.87
+Colombo,Brazil,24.92S-49.66W,1940,18.41
+Colombo,Brazil,24.92S-49.66W,1941,17.74
+Colombo,Brazil,24.92S-49.66W,1942,17.17
+Colombo,Brazil,24.92S-49.66W,1943,17.48
+Colombo,Brazil,24.92S-49.66W,1944,17.96
+Colombo,Brazil,24.92S-49.66W,1945,17.71
+Colombo,Brazil,24.92S-49.66W,1946,17.81
+Colombo,Brazil,24.92S-49.66W,1947,17.36
+Colombo,Brazil,24.92S-49.66W,1948,17.86
+Colombo,Brazil,24.92S-49.66W,1949,17.77
+Colombo,Brazil,24.92S-49.66W,1950,18.02
+Colombo,Brazil,24.92S-49.66W,1951,17.32
+Colombo,Brazil,24.92S-49.66W,1952,17.85
+Colombo,Brazil,24.92S-49.66W,1953,17.96
+Colombo,Brazil,24.92S-49.66W,1954,18.09
+Colombo,Brazil,24.92S-49.66W,1955,17.62
+Colombo,Brazil,24.92S-49.66W,1956,17.28
+Colombo,Brazil,24.92S-49.66W,1957,17.77
+Colombo,Brazil,24.92S-49.66W,1958,18.48
+Colombo,Brazil,24.92S-49.66W,1959,18.51
+Colombo,Brazil,24.92S-49.66W,1960,17.6
+Colombo,Brazil,24.92S-49.66W,1961,18.93
+Colombo,Brazil,24.92S-49.66W,1962,17.31
+Colombo,Brazil,24.92S-49.66W,1963,18.66
+Colombo,Brazil,24.92S-49.66W,1964,17.65
+Colombo,Brazil,24.92S-49.66W,1965,18.21
+Colombo,Brazil,24.92S-49.66W,1966,18.28
+Colombo,Brazil,24.92S-49.66W,1967,18.53
+Colombo,Brazil,24.92S-49.66W,1968,17.6
+Colombo,Brazil,24.92S-49.66W,1969,18.18
+Colombo,Brazil,24.92S-49.66W,1970,18.05
+Colombo,Brazil,24.92S-49.66W,1971,17.65
+Colombo,Brazil,24.92S-49.66W,1972,17.94
+Colombo,Brazil,24.92S-49.66W,1973,18.33
+Colombo,Brazil,24.92S-49.66W,1974,17.91
+Colombo,Brazil,24.92S-49.66W,1975,18.08
+Colombo,Brazil,24.92S-49.66W,1976,17.56
+Colombo,Brazil,24.92S-49.66W,1977,18.96
+Colombo,Brazil,24.92S-49.66W,1978,18.29
+Colombo,Brazil,24.92S-49.66W,1979,17.5
+Colombo,Brazil,24.92S-49.66W,1980,18.21
+Colombo,Brazil,24.92S-49.66W,1981,18.23
+Colombo,Brazil,24.92S-49.66W,1982,18.33
+Colombo,Brazil,24.92S-49.66W,1983,18.23
+Colombo,Brazil,24.92S-49.66W,1984,18.53
+Colombo,Brazil,24.92S-49.66W,1985,18.4
+Colombo,Brazil,24.92S-49.66W,1986,18.73
+Colombo,Brazil,24.92S-49.66W,1987,18.31
+Colombo,Brazil,24.92S-49.66W,1988,18.25
+Colombo,Brazil,24.92S-49.66W,1989,17.77
+Colombo,Brazil,24.92S-49.66W,1990,18.27
+Colombo,Brazil,24.92S-49.66W,1991,18.45
+Colombo,Brazil,24.92S-49.66W,1992,18.2
+Colombo,Brazil,24.92S-49.66W,1993,18.36
+Colombo,Brazil,24.92S-49.66W,1994,18.87
+Colombo,Brazil,24.92S-49.66W,1995,18.69
+Colombo,Brazil,24.92S-49.66W,1996,18.24
+Colombo,Brazil,24.92S-49.66W,1997,18.8
+Colombo,Brazil,24.92S-49.66W,1998,18.58
+Colombo,Brazil,24.92S-49.66W,1999,18.17
+Colombo,Brazil,24.92S-49.66W,2000,18.47
+Colombo,Brazil,24.92S-49.66W,2001,18.89
+Colombo,Brazil,24.92S-49.66W,2002,19.52
+Colombo,Brazil,24.92S-49.66W,2003,18.65
+Colombo,Brazil,24.92S-49.66W,2004,18.27
+Colombo,Brazil,24.92S-49.66W,2005,18.9
+Colombo,Brazil,24.92S-49.66W,2006,18.81
+Colombo,Brazil,24.92S-49.66W,2007,19.14
+Colombo,Brazil,24.92S-49.66W,2008,18.27
+Colombo,Brazil,24.92S-49.66W,2009,18.88
+Colombo,Brazil,24.92S-49.66W,2010,18.6
+Colombo,Brazil,24.92S-49.66W,2011,18.45
+Colombo,Brazil,24.92S-49.66W,2012,19.28
+Colombo,Brazil,24.92S-49.66W,2013,18.53
+Colombo,Brazil,24.92S-49.66W,2014,19.37
+Colombo,Brazil,24.92S-49.66W,2015,19.44
+Colombo,Brazil,24.92S-49.66W,2016,18.66
+Colombo,Brazil,24.92S-49.66W,2017,19.15
+Colombo,Brazil,24.92S-49.66W,2018,19.07
+Colombo,Brazil,24.92S-49.66W,2019,19.58
+Colombo,Brazil,24.92S-49.66W,2020,19.22
+Curitiba,Brazil,24.92S-49.66W,1832,17.02
+Curitiba,Brazil,24.92S-49.66W,1833,17.9
+Curitiba,Brazil,24.92S-49.66W,1834,17.4
+Curitiba,Brazil,24.92S-49.66W,1835,16.83
+Curitiba,Brazil,24.92S-49.66W,1836,17.02
+Curitiba,Brazil,24.92S-49.66W,1837,16.52
+Curitiba,Brazil,24.92S-49.66W,1838,16.93
+Curitiba,Brazil,24.92S-49.66W,1839,16.82
+Curitiba,Brazil,24.92S-49.66W,1840,17.32
+Curitiba,Brazil,24.92S-49.66W,1841,17.01
+Curitiba,Brazil,24.92S-49.66W,1842,17.44
+Curitiba,Brazil,24.92S-49.66W,1843,17.56
+Curitiba,Brazil,24.92S-49.66W,1851,17.29
+Curitiba,Brazil,24.92S-49.66W,1852,17.39
+Curitiba,Brazil,24.92S-49.66W,1853,17.42
+Curitiba,Brazil,24.92S-49.66W,1854,17.51
+Curitiba,Brazil,24.92S-49.66W,1855,17.49
+Curitiba,Brazil,24.92S-49.66W,1856,17.3
+Curitiba,Brazil,24.92S-49.66W,1857,17.82
+Curitiba,Brazil,24.92S-49.66W,1858,16.98
+Curitiba,Brazil,24.92S-49.66W,1859,17.57
+Curitiba,Brazil,24.92S-49.66W,1860,17.92
+Curitiba,Brazil,24.92S-49.66W,1861,17.41
+Curitiba,Brazil,24.92S-49.66W,1862,17.44
+Curitiba,Brazil,24.92S-49.66W,1863,17.31
+Curitiba,Brazil,24.92S-49.66W,1864,17.45
+Curitiba,Brazil,24.92S-49.66W,1865,17.58
+Curitiba,Brazil,24.92S-49.66W,1866,17.63
+Curitiba,Brazil,24.92S-49.66W,1867,17.6
+Curitiba,Brazil,24.92S-49.66W,1868,17.95
+Curitiba,Brazil,24.92S-49.66W,1869,17.74
+Curitiba,Brazil,24.92S-49.66W,1870,17.5
+Curitiba,Brazil,24.92S-49.66W,1871,17.29
+Curitiba,Brazil,24.92S-49.66W,1872,17.63
+Curitiba,Brazil,24.92S-49.66W,1873,18.04
+Curitiba,Brazil,24.92S-49.66W,1874,17.32
+Curitiba,Brazil,24.92S-49.66W,1875,17.2
+Curitiba,Brazil,24.92S-49.66W,1876,17.5
+Curitiba,Brazil,24.92S-49.66W,1877,18.31
+Curitiba,Brazil,24.92S-49.66W,1878,18.15
+Curitiba,Brazil,24.92S-49.66W,1879,17.17
+Curitiba,Brazil,24.92S-49.66W,1880,18.0
+Curitiba,Brazil,24.92S-49.66W,1881,17.77
+Curitiba,Brazil,24.92S-49.66W,1882,17.17
+Curitiba,Brazil,24.92S-49.66W,1883,17.57
+Curitiba,Brazil,24.92S-49.66W,1884,17.57
+Curitiba,Brazil,24.92S-49.66W,1885,18.21
+Curitiba,Brazil,24.92S-49.66W,1886,17.25
+Curitiba,Brazil,24.92S-49.66W,1887,17.62
+Curitiba,Brazil,24.92S-49.66W,1888,18.31
+Curitiba,Brazil,24.92S-49.66W,1889,18.11
+Curitiba,Brazil,24.92S-49.66W,1890,17.2
+Curitiba,Brazil,24.92S-49.66W,1891,17.76
+Curitiba,Brazil,24.92S-49.66W,1892,17.33
+Curitiba,Brazil,24.92S-49.66W,1893,16.66
+Curitiba,Brazil,24.92S-49.66W,1894,17.5
+Curitiba,Brazil,24.92S-49.66W,1895,17.84
+Curitiba,Brazil,24.92S-49.66W,1896,17.9
+Curitiba,Brazil,24.92S-49.66W,1897,17.89
+Curitiba,Brazil,24.92S-49.66W,1898,17.48
+Curitiba,Brazil,24.92S-49.66W,1899,18.12
+Curitiba,Brazil,24.92S-49.66W,1900,18.14
+Curitiba,Brazil,24.92S-49.66W,1901,17.46
+Curitiba,Brazil,24.92S-49.66W,1902,18.27
+Curitiba,Brazil,24.92S-49.66W,1903,17.75
+Curitiba,Brazil,24.92S-49.66W,1904,17.28
+Curitiba,Brazil,24.92S-49.66W,1905,17.64
+Curitiba,Brazil,24.92S-49.66W,1906,17.79
+Curitiba,Brazil,24.92S-49.66W,1907,17.38
+Curitiba,Brazil,24.92S-49.66W,1908,17.42
+Curitiba,Brazil,24.92S-49.66W,1909,17.2
+Curitiba,Brazil,24.92S-49.66W,1910,17.42
+Curitiba,Brazil,24.92S-49.66W,1911,17.07
+Curitiba,Brazil,24.92S-49.66W,1912,17.68
+Curitiba,Brazil,24.92S-49.66W,1913,17.97
+Curitiba,Brazil,24.92S-49.66W,1914,18.65
+Curitiba,Brazil,24.92S-49.66W,1915,18.2
+Curitiba,Brazil,24.92S-49.66W,1916,17.59
+Curitiba,Brazil,24.92S-49.66W,1917,16.64
+Curitiba,Brazil,24.92S-49.66W,1918,17.59
+Curitiba,Brazil,24.92S-49.66W,1919,18.28
+Curitiba,Brazil,24.92S-49.66W,1920,17.82
+Curitiba,Brazil,24.92S-49.66W,1921,17.48
+Curitiba,Brazil,24.92S-49.66W,1922,17.79
+Curitiba,Brazil,24.92S-49.66W,1923,17.7
+Curitiba,Brazil,24.92S-49.66W,1924,16.92
+Curitiba,Brazil,24.92S-49.66W,1925,17.55
+Curitiba,Brazil,24.92S-49.66W,1926,17.96
+Curitiba,Brazil,24.92S-49.66W,1927,17.68
+Curitiba,Brazil,24.92S-49.66W,1928,18.05
+Curitiba,Brazil,24.92S-49.66W,1929,17.64
+Curitiba,Brazil,24.92S-49.66W,1930,18.1
+Curitiba,Brazil,24.92S-49.66W,1931,17.4
+Curitiba,Brazil,24.92S-49.66W,1932,18.21
+Curitiba,Brazil,24.92S-49.66W,1933,17.36
+Curitiba,Brazil,24.92S-49.66W,1934,17.91
+Curitiba,Brazil,24.92S-49.66W,1935,17.78
+Curitiba,Brazil,24.92S-49.66W,1936,18.13
+Curitiba,Brazil,24.92S-49.66W,1937,17.5
+Curitiba,Brazil,24.92S-49.66W,1938,17.76
+Curitiba,Brazil,24.92S-49.66W,1939,17.87
+Curitiba,Brazil,24.92S-49.66W,1940,18.41
+Curitiba,Brazil,24.92S-49.66W,1941,17.74
+Curitiba,Brazil,24.92S-49.66W,1942,17.17
+Curitiba,Brazil,24.92S-49.66W,1943,17.48
+Curitiba,Brazil,24.92S-49.66W,1944,17.96
+Curitiba,Brazil,24.92S-49.66W,1945,17.71
+Curitiba,Brazil,24.92S-49.66W,1946,17.81
+Curitiba,Brazil,24.92S-49.66W,1947,17.36
+Curitiba,Brazil,24.92S-49.66W,1948,17.86
+Curitiba,Brazil,24.92S-49.66W,1949,17.77
+Curitiba,Brazil,24.92S-49.66W,1950,18.02
+Curitiba,Brazil,24.92S-49.66W,1951,17.32
+Curitiba,Brazil,24.92S-49.66W,1952,17.85
+Curitiba,Brazil,24.92S-49.66W,1953,17.96
+Curitiba,Brazil,24.92S-49.66W,1954,18.09
+Curitiba,Brazil,24.92S-49.66W,1955,17.62
+Curitiba,Brazil,24.92S-49.66W,1956,17.28
+Curitiba,Brazil,24.92S-49.66W,1957,17.77
+Curitiba,Brazil,24.92S-49.66W,1958,18.48
+Curitiba,Brazil,24.92S-49.66W,1959,18.51
+Curitiba,Brazil,24.92S-49.66W,1960,17.6
+Curitiba,Brazil,24.92S-49.66W,1961,18.93
+Curitiba,Brazil,24.92S-49.66W,1962,17.31
+Curitiba,Brazil,24.92S-49.66W,1963,18.66
+Curitiba,Brazil,24.92S-49.66W,1964,17.65
+Curitiba,Brazil,24.92S-49.66W,1965,18.21
+Curitiba,Brazil,24.92S-49.66W,1966,18.28
+Curitiba,Brazil,24.92S-49.66W,1967,18.53
+Curitiba,Brazil,24.92S-49.66W,1968,17.6
+Curitiba,Brazil,24.92S-49.66W,1969,18.18
+Curitiba,Brazil,24.92S-49.66W,1970,18.05
+Curitiba,Brazil,24.92S-49.66W,1971,17.65
+Curitiba,Brazil,24.92S-49.66W,1972,17.94
+Curitiba,Brazil,24.92S-49.66W,1973,18.33
+Curitiba,Brazil,24.92S-49.66W,1974,17.91
+Curitiba,Brazil,24.92S-49.66W,1975,18.08
+Curitiba,Brazil,24.92S-49.66W,1976,17.56
+Curitiba,Brazil,24.92S-49.66W,1977,18.96
+Curitiba,Brazil,24.92S-49.66W,1978,18.29
+Curitiba,Brazil,24.92S-49.66W,1979,17.5
+Curitiba,Brazil,24.92S-49.66W,1980,18.21
+Curitiba,Brazil,24.92S-49.66W,1981,18.23
+Curitiba,Brazil,24.92S-49.66W,1982,18.33
+Curitiba,Brazil,24.92S-49.66W,1983,18.23
+Curitiba,Brazil,24.92S-49.66W,1984,18.53
+Curitiba,Brazil,24.92S-49.66W,1985,18.4
+Curitiba,Brazil,24.92S-49.66W,1986,18.73
+Curitiba,Brazil,24.92S-49.66W,1987,18.31
+Curitiba,Brazil,24.92S-49.66W,1988,18.25
+Curitiba,Brazil,24.92S-49.66W,1989,17.77
+Curitiba,Brazil,24.92S-49.66W,1990,18.27
+Curitiba,Brazil,24.92S-49.66W,1991,18.45
+Curitiba,Brazil,24.92S-49.66W,1992,18.2
+Curitiba,Brazil,24.92S-49.66W,1993,18.36
+Curitiba,Brazil,24.92S-49.66W,1994,18.87
+Curitiba,Brazil,24.92S-49.66W,1995,18.69
+Curitiba,Brazil,24.92S-49.66W,1996,18.24
+Curitiba,Brazil,24.92S-49.66W,1997,18.8
+Curitiba,Brazil,24.92S-49.66W,1998,18.58
+Curitiba,Brazil,24.92S-49.66W,1999,18.17
+Curitiba,Brazil,24.92S-49.66W,2000,18.47
+Curitiba,Brazil,24.92S-49.66W,2001,18.89
+Curitiba,Brazil,24.92S-49.66W,2002,19.52
+Curitiba,Brazil,24.92S-49.66W,2003,18.65
+Curitiba,Brazil,24.92S-49.66W,2004,18.27
+Curitiba,Brazil,24.92S-49.66W,2005,18.9
+Curitiba,Brazil,24.92S-49.66W,2006,18.81
+Curitiba,Brazil,24.92S-49.66W,2007,19.14
+Curitiba,Brazil,24.92S-49.66W,2008,18.27
+Curitiba,Brazil,24.92S-49.66W,2009,18.88
+Curitiba,Brazil,24.92S-49.66W,2010,18.6
+Curitiba,Brazil,24.92S-49.66W,2011,18.45
+Curitiba,Brazil,24.92S-49.66W,2012,19.28
+Curitiba,Brazil,24.92S-49.66W,2013,18.53
+Curitiba,Brazil,24.92S-49.66W,2014,19.37
+Curitiba,Brazil,24.92S-49.66W,2015,19.44
+Curitiba,Brazil,24.92S-49.66W,2016,18.66
+Curitiba,Brazil,24.92S-49.66W,2017,19.15
+Curitiba,Brazil,24.92S-49.66W,2018,19.07
+Curitiba,Brazil,24.92S-49.66W,2019,19.58
+Curitiba,Brazil,24.92S-49.66W,2020,19.22
+Fortaleza,Brazil,4.02S-37.77W,1851,26.23
+Fortaleza,Brazil,4.02S-37.77W,1852,26.2
+Fortaleza,Brazil,4.02S-37.77W,1858,26.25
+Fortaleza,Brazil,4.02S-37.77W,1859,26.56
+Fortaleza,Brazil,4.02S-37.77W,1860,26.45
+Fortaleza,Brazil,4.02S-37.77W,1887,26.2
+Fortaleza,Brazil,4.02S-37.77W,1890,26.29
+Fortaleza,Brazil,4.02S-37.77W,1894,26.48
+Fortaleza,Brazil,4.02S-37.77W,1895,26.43
+Fortaleza,Brazil,4.02S-37.77W,1896,26.46
+Fortaleza,Brazil,4.02S-37.77W,1897,26.17
+Fortaleza,Brazil,4.02S-37.77W,1898,26.64
+Fortaleza,Brazil,4.02S-37.77W,1899,25.85
+Fortaleza,Brazil,4.02S-37.77W,1900,27.18
+Fortaleza,Brazil,4.02S-37.77W,1901,26.64
+Fortaleza,Brazil,4.02S-37.77W,1902,26.68
+Fortaleza,Brazil,4.02S-37.77W,1903,26.65
+Fortaleza,Brazil,4.02S-37.77W,1904,26.13
+Fortaleza,Brazil,4.02S-37.77W,1905,26.35
+Fortaleza,Brazil,4.02S-37.77W,1906,26.3
+Fortaleza,Brazil,4.02S-37.77W,1907,26.68
+Fortaleza,Brazil,4.02S-37.77W,1908,27.02
+Fortaleza,Brazil,4.02S-37.77W,1909,26.88
+Fortaleza,Brazil,4.02S-37.77W,1910,26.47
+Fortaleza,Brazil,4.02S-37.77W,1911,26.4
+Fortaleza,Brazil,4.02S-37.77W,1912,26.17
+Fortaleza,Brazil,4.02S-37.77W,1913,26.32
+Fortaleza,Brazil,4.02S-37.77W,1914,26.34
+Fortaleza,Brazil,4.02S-37.77W,1915,27.52
+Fortaleza,Brazil,4.02S-37.77W,1916,26.36
+Fortaleza,Brazil,4.02S-37.77W,1917,26.05
+Fortaleza,Brazil,4.02S-37.77W,1918,26.36
+Fortaleza,Brazil,4.02S-37.77W,1919,27.15
+Fortaleza,Brazil,4.02S-37.77W,1920,26.66
+Fortaleza,Brazil,4.02S-37.77W,1921,26.19
+Fortaleza,Brazil,4.02S-37.77W,1922,26.39
+Fortaleza,Brazil,4.02S-37.77W,1923,26.46
+Fortaleza,Brazil,4.02S-37.77W,1924,26.04
+Fortaleza,Brazil,4.02S-37.77W,1925,26.25
+Fortaleza,Brazil,4.02S-37.77W,1926,26.67
+Fortaleza,Brazil,4.02S-37.77W,1927,26.73
+Fortaleza,Brazil,4.02S-37.77W,1928,26.85
+Fortaleza,Brazil,4.02S-37.77W,1929,26.5
+Fortaleza,Brazil,4.02S-37.77W,1930,26.87
+Fortaleza,Brazil,4.02S-37.77W,1931,26.83
+Fortaleza,Brazil,4.02S-37.77W,1932,26.98
+Fortaleza,Brazil,4.02S-37.77W,1933,26.71
+Fortaleza,Brazil,4.02S-37.77W,1934,26.35
+Fortaleza,Brazil,4.02S-37.77W,1935,26.31
+Fortaleza,Brazil,4.02S-37.77W,1936,26.63
+Fortaleza,Brazil,4.02S-37.77W,1937,26.95
+Fortaleza,Brazil,4.02S-37.77W,1938,26.83
+Fortaleza,Brazil,4.02S-37.77W,1939,26.55
+Fortaleza,Brazil,4.02S-37.77W,1940,26.58
+Fortaleza,Brazil,4.02S-37.77W,1941,26.95
+Fortaleza,Brazil,4.02S-37.77W,1942,27.15
+Fortaleza,Brazil,4.02S-37.77W,1943,26.61
+Fortaleza,Brazil,4.02S-37.77W,1944,26.8
+Fortaleza,Brazil,4.02S-37.77W,1945,26.62
+Fortaleza,Brazil,4.02S-37.77W,1946,26.79
+Fortaleza,Brazil,4.02S-37.77W,1947,26.72
+Fortaleza,Brazil,4.02S-37.77W,1948,26.73
+Fortaleza,Brazil,4.02S-37.77W,1949,26.85
+Fortaleza,Brazil,4.02S-37.77W,1950,26.52
+Fortaleza,Brazil,4.02S-37.77W,1951,26.88
+Fortaleza,Brazil,4.02S-37.77W,1952,26.94
+Fortaleza,Brazil,4.02S-37.77W,1953,27.07
+Fortaleza,Brazil,4.02S-37.77W,1954,26.78
+Fortaleza,Brazil,4.02S-37.77W,1955,26.61
+Fortaleza,Brazil,4.02S-37.77W,1956,26.68
+Fortaleza,Brazil,4.02S-37.77W,1957,26.76
+Fortaleza,Brazil,4.02S-37.77W,1958,27.31
+Fortaleza,Brazil,4.02S-37.77W,1959,26.87
+Fortaleza,Brazil,4.02S-37.77W,1960,26.95
+Fortaleza,Brazil,4.02S-37.77W,1961,26.67
+Fortaleza,Brazil,4.02S-37.77W,1962,26.9
+Fortaleza,Brazil,4.02S-37.77W,1963,26.93
+Fortaleza,Brazil,4.02S-37.77W,1964,26.38
+Fortaleza,Brazil,4.02S-37.77W,1965,26.59
+Fortaleza,Brazil,4.02S-37.77W,1966,27.2
+Fortaleza,Brazil,4.02S-37.77W,1967,26.43
+Fortaleza,Brazil,4.02S-37.77W,1968,26.61
+Fortaleza,Brazil,4.02S-37.77W,1969,27.09
+Fortaleza,Brazil,4.02S-37.77W,1970,27.28
+Fortaleza,Brazil,4.02S-37.77W,1971,26.7
+Fortaleza,Brazil,4.02S-37.77W,1972,27.01
+Fortaleza,Brazil,4.02S-37.77W,1973,27.24
+Fortaleza,Brazil,4.02S-37.77W,1974,26.39
+Fortaleza,Brazil,4.02S-37.77W,1975,26.69
+Fortaleza,Brazil,4.02S-37.77W,1976,26.82
+Fortaleza,Brazil,4.02S-37.77W,1977,26.73
+Fortaleza,Brazil,4.02S-37.77W,1978,26.86
+Fortaleza,Brazil,4.02S-37.77W,1979,27.34
+Fortaleza,Brazil,4.02S-37.77W,1980,27.38
+Fortaleza,Brazil,4.02S-37.77W,1981,27.34
+Fortaleza,Brazil,4.02S-37.77W,1982,27.09
+Fortaleza,Brazil,4.02S-37.77W,1983,27.8
+Fortaleza,Brazil,4.02S-37.77W,1984,27.06
+Fortaleza,Brazil,4.02S-37.77W,1985,26.57
+Fortaleza,Brazil,4.02S-37.77W,1986,26.67
+Fortaleza,Brazil,4.02S-37.77W,1987,27.56
+Fortaleza,Brazil,4.02S-37.77W,1988,27.26
+Fortaleza,Brazil,4.02S-37.77W,1989,27.05
+Fortaleza,Brazil,4.02S-37.77W,1990,27.58
+Fortaleza,Brazil,4.02S-37.77W,1991,27.18
+Fortaleza,Brazil,4.02S-37.77W,1992,27.23
+Fortaleza,Brazil,4.02S-37.77W,1993,27.98
+Fortaleza,Brazil,4.02S-37.77W,1994,27.26
+Fortaleza,Brazil,4.02S-37.77W,1995,27.35
+Fortaleza,Brazil,4.02S-37.77W,1996,27.62
+Fortaleza,Brazil,4.02S-37.77W,1997,27.68
+Fortaleza,Brazil,4.02S-37.77W,1998,28.49
+Fortaleza,Brazil,4.02S-37.77W,1999,27.67
+Fortaleza,Brazil,4.02S-37.77W,2000,27.3
+Fortaleza,Brazil,4.02S-37.77W,2001,27.63
+Fortaleza,Brazil,4.02S-37.77W,2002,27.45
+Fortaleza,Brazil,4.02S-37.77W,2003,27.72
+Fortaleza,Brazil,4.02S-37.77W,2004,27.55
+Fortaleza,Brazil,4.02S-37.77W,2005,27.97
+Fortaleza,Brazil,4.02S-37.77W,2006,27.76
+Fortaleza,Brazil,4.02S-37.77W,2007,27.66
+Fortaleza,Brazil,4.02S-37.77W,2008,27.55
+Fortaleza,Brazil,4.02S-37.77W,2009,27.26
+Fortaleza,Brazil,4.02S-37.77W,2010,28.28
+Fortaleza,Brazil,4.02S-37.77W,2011,27.29
+Fortaleza,Brazil,4.02S-37.77W,2012,27.79
+Fortaleza,Brazil,4.02S-37.77W,2013,28.07
+Fortaleza,Brazil,4.02S-37.77W,2014,27.76
+Fortaleza,Brazil,4.02S-37.77W,2015,27.98
+Fortaleza,Brazil,4.02S-37.77W,2016,28.24
+Fortaleza,Brazil,4.02S-37.77W,2017,28.03
+Fortaleza,Brazil,4.02S-37.77W,2018,27.97
+Fortaleza,Brazil,4.02S-37.77W,2019,28.04
+Fortaleza,Brazil,4.02S-37.77W,2020,28.08
+Guarulhos,Brazil,23.31S-46.31W,1832,19.14
+Guarulhos,Brazil,23.31S-46.31W,1833,20.12
+Guarulhos,Brazil,23.31S-46.31W,1834,19.44
+Guarulhos,Brazil,23.31S-46.31W,1835,18.91
+Guarulhos,Brazil,23.31S-46.31W,1836,19.08
+Guarulhos,Brazil,23.31S-46.31W,1837,18.5
+Guarulhos,Brazil,23.31S-46.31W,1838,19.0
+Guarulhos,Brazil,23.31S-46.31W,1839,18.79
+Guarulhos,Brazil,23.31S-46.31W,1840,19.44
+Guarulhos,Brazil,23.31S-46.31W,1841,19.09
+Guarulhos,Brazil,23.31S-46.31W,1842,19.53
+Guarulhos,Brazil,23.31S-46.31W,1843,19.66
+Guarulhos,Brazil,23.31S-46.31W,1851,19.32
+Guarulhos,Brazil,23.31S-46.31W,1852,19.48
+Guarulhos,Brazil,23.31S-46.31W,1853,19.51
+Guarulhos,Brazil,23.31S-46.31W,1854,19.58
+Guarulhos,Brazil,23.31S-46.31W,1855,19.65
+Guarulhos,Brazil,23.31S-46.31W,1856,19.34
+Guarulhos,Brazil,23.31S-46.31W,1857,19.9
+Guarulhos,Brazil,23.31S-46.31W,1858,18.94
+Guarulhos,Brazil,23.31S-46.31W,1859,19.58
+Guarulhos,Brazil,23.31S-46.31W,1860,20.21
+Guarulhos,Brazil,23.31S-46.31W,1861,19.5
+Guarulhos,Brazil,23.31S-46.31W,1862,19.51
+Guarulhos,Brazil,23.31S-46.31W,1863,19.41
+Guarulhos,Brazil,23.31S-46.31W,1864,19.5
+Guarulhos,Brazil,23.31S-46.31W,1865,19.49
+Guarulhos,Brazil,23.31S-46.31W,1866,19.64
+Guarulhos,Brazil,23.31S-46.31W,1867,19.66
+Guarulhos,Brazil,23.31S-46.31W,1868,20.03
+Guarulhos,Brazil,23.31S-46.31W,1869,19.88
+Guarulhos,Brazil,23.31S-46.31W,1870,19.55
+Guarulhos,Brazil,23.31S-46.31W,1871,19.4
+Guarulhos,Brazil,23.31S-46.31W,1872,19.71
+Guarulhos,Brazil,23.31S-46.31W,1873,20.03
+Guarulhos,Brazil,23.31S-46.31W,1874,19.46
+Guarulhos,Brazil,23.31S-46.31W,1875,19.3
+Guarulhos,Brazil,23.31S-46.31W,1876,19.56
+Guarulhos,Brazil,23.31S-46.31W,1877,20.33
+Guarulhos,Brazil,23.31S-46.31W,1878,20.57
+Guarulhos,Brazil,23.31S-46.31W,1879,19.27
+Guarulhos,Brazil,23.31S-46.31W,1880,20.33
+Guarulhos,Brazil,23.31S-46.31W,1881,19.82
+Guarulhos,Brazil,23.31S-46.31W,1882,19.19
+Guarulhos,Brazil,23.31S-46.31W,1883,19.58
+Guarulhos,Brazil,23.31S-46.31W,1884,19.5
+Guarulhos,Brazil,23.31S-46.31W,1885,20.24
+Guarulhos,Brazil,23.31S-46.31W,1886,19.28
+Guarulhos,Brazil,23.31S-46.31W,1887,19.71
+Guarulhos,Brazil,23.31S-46.31W,1888,20.5
+Guarulhos,Brazil,23.31S-46.31W,1889,20.33
+Guarulhos,Brazil,23.31S-46.31W,1890,19.45
+Guarulhos,Brazil,23.31S-46.31W,1891,19.85
+Guarulhos,Brazil,23.31S-46.31W,1892,19.45
+Guarulhos,Brazil,23.31S-46.31W,1893,18.79
+Guarulhos,Brazil,23.31S-46.31W,1894,19.76
+Guarulhos,Brazil,23.31S-46.31W,1895,19.74
+Guarulhos,Brazil,23.31S-46.31W,1896,19.76
+Guarulhos,Brazil,23.31S-46.31W,1897,19.79
+Guarulhos,Brazil,23.31S-46.31W,1898,19.82
+Guarulhos,Brazil,23.31S-46.31W,1899,20.38
+Guarulhos,Brazil,23.31S-46.31W,1900,20.0
+Guarulhos,Brazil,23.31S-46.31W,1901,19.44
+Guarulhos,Brazil,23.31S-46.31W,1902,20.15
+Guarulhos,Brazil,23.31S-46.31W,1903,19.71
+Guarulhos,Brazil,23.31S-46.31W,1904,19.32
+Guarulhos,Brazil,23.31S-46.31W,1905,19.87
+Guarulhos,Brazil,23.31S-46.31W,1906,19.78
+Guarulhos,Brazil,23.31S-46.31W,1907,19.45
+Guarulhos,Brazil,23.31S-46.31W,1908,19.64
+Guarulhos,Brazil,23.31S-46.31W,1909,19.38
+Guarulhos,Brazil,23.31S-46.31W,1910,19.46
+Guarulhos,Brazil,23.31S-46.31W,1911,19.36
+Guarulhos,Brazil,23.31S-46.31W,1912,19.71
+Guarulhos,Brazil,23.31S-46.31W,1913,20.07
+Guarulhos,Brazil,23.31S-46.31W,1914,20.65
+Guarulhos,Brazil,23.31S-46.31W,1915,20.29
+Guarulhos,Brazil,23.31S-46.31W,1916,19.8
+Guarulhos,Brazil,23.31S-46.31W,1917,18.78
+Guarulhos,Brazil,23.31S-46.31W,1918,19.55
+Guarulhos,Brazil,23.31S-46.31W,1919,20.18
+Guarulhos,Brazil,23.31S-46.31W,1920,19.79
+Guarulhos,Brazil,23.31S-46.31W,1921,19.56
+Guarulhos,Brazil,23.31S-46.31W,1922,20.03
+Guarulhos,Brazil,23.31S-46.31W,1923,19.8
+Guarulhos,Brazil,23.31S-46.31W,1924,19.28
+Guarulhos,Brazil,23.31S-46.31W,1925,19.68
+Guarulhos,Brazil,23.31S-46.31W,1926,19.91
+Guarulhos,Brazil,23.31S-46.31W,1927,19.7
+Guarulhos,Brazil,23.31S-46.31W,1928,20.25
+Guarulhos,Brazil,23.31S-46.31W,1929,19.86
+Guarulhos,Brazil,23.31S-46.31W,1930,20.26
+Guarulhos,Brazil,23.31S-46.31W,1931,19.49
+Guarulhos,Brazil,23.31S-46.31W,1932,20.3
+Guarulhos,Brazil,23.31S-46.31W,1933,19.07
+Guarulhos,Brazil,23.31S-46.31W,1934,19.84
+Guarulhos,Brazil,23.31S-46.31W,1935,19.75
+Guarulhos,Brazil,23.31S-46.31W,1936,19.97
+Guarulhos,Brazil,23.31S-46.31W,1937,19.44
+Guarulhos,Brazil,23.31S-46.31W,1938,19.89
+Guarulhos,Brazil,23.31S-46.31W,1939,19.96
+Guarulhos,Brazil,23.31S-46.31W,1940,20.43
+Guarulhos,Brazil,23.31S-46.31W,1941,20.01
+Guarulhos,Brazil,23.31S-46.31W,1942,19.46
+Guarulhos,Brazil,23.31S-46.31W,1943,19.55
+Guarulhos,Brazil,23.31S-46.31W,1944,19.92
+Guarulhos,Brazil,23.31S-46.31W,1945,19.6
+Guarulhos,Brazil,23.31S-46.31W,1946,20.19
+Guarulhos,Brazil,23.31S-46.31W,1947,19.46
+Guarulhos,Brazil,23.31S-46.31W,1948,19.81
+Guarulhos,Brazil,23.31S-46.31W,1949,19.62
+Guarulhos,Brazil,23.31S-46.31W,1950,20.24
+Guarulhos,Brazil,23.31S-46.31W,1951,19.43
+Guarulhos,Brazil,23.31S-46.31W,1952,19.89
+Guarulhos,Brazil,23.31S-46.31W,1953,19.92
+Guarulhos,Brazil,23.31S-46.31W,1954,20.19
+Guarulhos,Brazil,23.31S-46.31W,1955,19.64
+Guarulhos,Brazil,23.31S-46.31W,1956,19.31
+Guarulhos,Brazil,23.31S-46.31W,1957,19.76
+Guarulhos,Brazil,23.31S-46.31W,1958,20.44
+Guarulhos,Brazil,23.31S-46.31W,1959,20.61
+Guarulhos,Brazil,23.31S-46.31W,1960,19.81
+Guarulhos,Brazil,23.31S-46.31W,1961,20.82
+Guarulhos,Brazil,23.31S-46.31W,1962,19.31
+Guarulhos,Brazil,23.31S-46.31W,1963,20.56
+Guarulhos,Brazil,23.31S-46.31W,1964,19.45
+Guarulhos,Brazil,23.31S-46.31W,1965,20.19
+Guarulhos,Brazil,23.31S-46.31W,1966,20.25
+Guarulhos,Brazil,23.31S-46.31W,1967,20.34
+Guarulhos,Brazil,23.31S-46.31W,1968,19.32
+Guarulhos,Brazil,23.31S-46.31W,1969,20.39
+Guarulhos,Brazil,23.31S-46.31W,1970,20.21
+Guarulhos,Brazil,23.31S-46.31W,1971,19.89
+Guarulhos,Brazil,23.31S-46.31W,1972,20.3
+Guarulhos,Brazil,23.31S-46.31W,1973,20.62
+Guarulhos,Brazil,23.31S-46.31W,1974,20.14
+Guarulhos,Brazil,23.31S-46.31W,1975,20.24
+Guarulhos,Brazil,23.31S-46.31W,1976,19.92
+Guarulhos,Brazil,23.31S-46.31W,1977,21.04
+Guarulhos,Brazil,23.31S-46.31W,1978,20.1
+Guarulhos,Brazil,23.31S-46.31W,1979,19.82
+Guarulhos,Brazil,23.31S-46.31W,1980,20.48
+Guarulhos,Brazil,23.31S-46.31W,1981,20.11
+Guarulhos,Brazil,23.31S-46.31W,1982,20.17
+Guarulhos,Brazil,23.31S-46.31W,1983,20.23
+Guarulhos,Brazil,23.31S-46.31W,1984,20.83
+Guarulhos,Brazil,23.31S-46.31W,1985,20.32
+Guarulhos,Brazil,23.31S-46.31W,1986,20.65
+Guarulhos,Brazil,23.31S-46.31W,1987,20.56
+Guarulhos,Brazil,23.31S-46.31W,1988,20.19
+Guarulhos,Brazil,23.31S-46.31W,1989,19.97
+Guarulhos,Brazil,23.31S-46.31W,1990,20.58
+Guarulhos,Brazil,23.31S-46.31W,1991,20.46
+Guarulhos,Brazil,23.31S-46.31W,1992,20.47
+Guarulhos,Brazil,23.31S-46.31W,1993,20.66
+Guarulhos,Brazil,23.31S-46.31W,1994,20.92
+Guarulhos,Brazil,23.31S-46.31W,1995,20.69
+Guarulhos,Brazil,23.31S-46.31W,1996,20.35
+Guarulhos,Brazil,23.31S-46.31W,1997,20.86
+Guarulhos,Brazil,23.31S-46.31W,1998,20.9
+Guarulhos,Brazil,23.31S-46.31W,1999,20.24
+Guarulhos,Brazil,23.31S-46.31W,2000,20.51
+Guarulhos,Brazil,23.31S-46.31W,2001,21.05
+Guarulhos,Brazil,23.31S-46.31W,2002,21.46
+Guarulhos,Brazil,23.31S-46.31W,2003,20.91
+Guarulhos,Brazil,23.31S-46.31W,2004,20.19
+Guarulhos,Brazil,23.31S-46.31W,2005,20.87
+Guarulhos,Brazil,23.31S-46.31W,2006,20.75
+Guarulhos,Brazil,23.31S-46.31W,2007,21.08
+Guarulhos,Brazil,23.31S-46.31W,2008,20.48
+Guarulhos,Brazil,23.31S-46.31W,2009,20.97
+Guarulhos,Brazil,23.31S-46.31W,2010,20.92
+Guarulhos,Brazil,23.31S-46.31W,2011,20.58
+Guarulhos,Brazil,23.31S-46.31W,2012,21.17
+Guarulhos,Brazil,23.31S-46.31W,2013,20.59
+Guarulhos,Brazil,23.31S-46.31W,2014,21.58
+Guarulhos,Brazil,23.31S-46.31W,2015,21.71
+Guarulhos,Brazil,23.31S-46.31W,2016,21.08
+Guarulhos,Brazil,23.31S-46.31W,2017,21.16
+Guarulhos,Brazil,23.31S-46.31W,2018,21.13
+Guarulhos,Brazil,23.31S-46.31W,2019,21.59
+Guarulhos,Brazil,23.31S-46.31W,2020,21.3
+Manaus,Brazil,2.41S-60.27W,1824,26.45
+Manaus,Brazil,2.41S-60.27W,1825,26.39
+Manaus,Brazil,2.41S-60.27W,1826,26.45
+Manaus,Brazil,2.41S-60.27W,1846,26.68
+Manaus,Brazil,2.41S-60.27W,1847,26.14
+Manaus,Brazil,2.41S-60.27W,1848,26.18
+Manaus,Brazil,2.41S-60.27W,1849,26.11
+Manaus,Brazil,2.41S-60.27W,1850,26.19
+Manaus,Brazil,2.41S-60.27W,1851,26.17
+Manaus,Brazil,2.41S-60.27W,1852,26.19
+Manaus,Brazil,2.41S-60.27W,1853,26.25
+Manaus,Brazil,2.41S-60.27W,1854,26.22
+Manaus,Brazil,2.41S-60.27W,1855,26.31
+Manaus,Brazil,2.41S-60.27W,1856,26.06
+Manaus,Brazil,2.41S-60.27W,1857,25.92
+Manaus,Brazil,2.41S-60.27W,1858,26.25
+Manaus,Brazil,2.41S-60.27W,1859,26.47
+Manaus,Brazil,2.41S-60.27W,1860,26.28
+Manaus,Brazil,2.41S-60.27W,1861,26.11
+Manaus,Brazil,2.41S-60.27W,1862,25.82
+Manaus,Brazil,2.41S-60.27W,1863,26.17
+Manaus,Brazil,2.41S-60.27W,1864,26.18
+Manaus,Brazil,2.41S-60.27W,1865,26.32
+Manaus,Brazil,2.41S-60.27W,1866,26.47
+Manaus,Brazil,2.41S-60.27W,1867,26.62
+Manaus,Brazil,2.41S-60.27W,1868,26.3
+Manaus,Brazil,2.41S-60.27W,1869,26.63
+Manaus,Brazil,2.41S-60.27W,1870,26.27
+Manaus,Brazil,2.41S-60.27W,1871,26.32
+Manaus,Brazil,2.41S-60.27W,1872,26.3
+Manaus,Brazil,2.41S-60.27W,1873,26.63
+Manaus,Brazil,2.41S-60.27W,1874,26.5
+Manaus,Brazil,2.41S-60.27W,1875,26.01
+Manaus,Brazil,2.41S-60.27W,1876,26.31
+Manaus,Brazil,2.41S-60.27W,1877,26.82
+Manaus,Brazil,2.41S-60.27W,1878,27.11
+Manaus,Brazil,2.41S-60.27W,1879,26.28
+Manaus,Brazil,2.41S-60.27W,1880,26.12
+Manaus,Brazil,2.41S-60.27W,1881,26.62
+Manaus,Brazil,2.41S-60.27W,1882,26.3
+Manaus,Brazil,2.41S-60.27W,1883,26.2
+Manaus,Brazil,2.41S-60.27W,1884,26.07
+Manaus,Brazil,2.41S-60.27W,1885,26.18
+Manaus,Brazil,2.41S-60.27W,1886,25.96
+Manaus,Brazil,2.41S-60.27W,1887,26.12
+Manaus,Brazil,2.41S-60.27W,1888,26.5
+Manaus,Brazil,2.41S-60.27W,1889,26.58
+Manaus,Brazil,2.41S-60.27W,1890,25.94
+Manaus,Brazil,2.41S-60.27W,1891,26.18
+Manaus,Brazil,2.41S-60.27W,1892,26.07
+Manaus,Brazil,2.41S-60.27W,1893,25.99
+Manaus,Brazil,2.41S-60.27W,1894,26.18
+Manaus,Brazil,2.41S-60.27W,1895,26.55
+Manaus,Brazil,2.41S-60.27W,1896,26.6
+Manaus,Brazil,2.41S-60.27W,1897,26.56
+Manaus,Brazil,2.41S-60.27W,1898,26.26
+Manaus,Brazil,2.41S-60.27W,1899,26.56
+Manaus,Brazil,2.41S-60.27W,1900,26.91
+Manaus,Brazil,2.41S-60.27W,1901,27.06
+Manaus,Brazil,2.41S-60.27W,1902,26.67
+Manaus,Brazil,2.41S-60.27W,1903,26.55
+Manaus,Brazil,2.41S-60.27W,1904,26.12
+Manaus,Brazil,2.41S-60.27W,1905,26.68
+Manaus,Brazil,2.41S-60.27W,1906,26.48
+Manaus,Brazil,2.41S-60.27W,1907,26.17
+Manaus,Brazil,2.41S-60.27W,1908,26.3
+Manaus,Brazil,2.41S-60.27W,1909,26.4
+Manaus,Brazil,2.41S-60.27W,1910,26.19
+Manaus,Brazil,2.41S-60.27W,1911,26.38
+Manaus,Brazil,2.41S-60.27W,1912,26.76
+Manaus,Brazil,2.41S-60.27W,1913,26.43
+Manaus,Brazil,2.41S-60.27W,1914,26.82
+Manaus,Brazil,2.41S-60.27W,1915,26.86
+Manaus,Brazil,2.41S-60.27W,1916,26.45
+Manaus,Brazil,2.41S-60.27W,1917,25.86
+Manaus,Brazil,2.41S-60.27W,1918,26.28
+Manaus,Brazil,2.41S-60.27W,1919,26.58
+Manaus,Brazil,2.41S-60.27W,1920,26.36
+Manaus,Brazil,2.41S-60.27W,1921,26.18
+Manaus,Brazil,2.41S-60.27W,1922,26.02
+Manaus,Brazil,2.41S-60.27W,1923,26.08
+Manaus,Brazil,2.41S-60.27W,1924,26.37
+Manaus,Brazil,2.41S-60.27W,1925,26.54
+Manaus,Brazil,2.41S-60.27W,1926,26.83
+Manaus,Brazil,2.41S-60.27W,1927,26.37
+Manaus,Brazil,2.41S-60.27W,1928,26.61
+Manaus,Brazil,2.41S-60.27W,1929,26.4
+Manaus,Brazil,2.41S-60.27W,1930,26.58
+Manaus,Brazil,2.41S-60.27W,1931,26.74
+Manaus,Brazil,2.41S-60.27W,1932,26.6
+Manaus,Brazil,2.41S-60.27W,1933,26.34
+Manaus,Brazil,2.41S-60.27W,1934,26.26
+Manaus,Brazil,2.41S-60.27W,1935,26.65
+Manaus,Brazil,2.41S-60.27W,1936,26.8
+Manaus,Brazil,2.41S-60.27W,1937,26.82
+Manaus,Brazil,2.41S-60.27W,1938,26.55
+Manaus,Brazil,2.41S-60.27W,1939,26.56
+Manaus,Brazil,2.41S-60.27W,1940,27.07
+Manaus,Brazil,2.41S-60.27W,1941,27.13
+Manaus,Brazil,2.41S-60.27W,1942,26.86
+Manaus,Brazil,2.41S-60.27W,1943,26.62
+Manaus,Brazil,2.41S-60.27W,1944,26.62
+Manaus,Brazil,2.41S-60.27W,1945,26.51
+Manaus,Brazil,2.41S-60.27W,1946,26.51
+Manaus,Brazil,2.41S-60.27W,1947,26.77
+Manaus,Brazil,2.41S-60.27W,1948,26.71
+Manaus,Brazil,2.41S-60.27W,1949,26.62
+Manaus,Brazil,2.41S-60.27W,1950,26.58
+Manaus,Brazil,2.41S-60.27W,1951,26.63
+Manaus,Brazil,2.41S-60.27W,1952,26.66
+Manaus,Brazil,2.41S-60.27W,1953,26.99
+Manaus,Brazil,2.41S-60.27W,1954,26.69
+Manaus,Brazil,2.41S-60.27W,1955,26.58
+Manaus,Brazil,2.41S-60.27W,1956,26.49
+Manaus,Brazil,2.41S-60.27W,1957,27.09
+Manaus,Brazil,2.41S-60.27W,1958,27.47
+Manaus,Brazil,2.41S-60.27W,1959,26.92
+Manaus,Brazil,2.41S-60.27W,1960,26.69
+Manaus,Brazil,2.41S-60.27W,1961,26.81
+Manaus,Brazil,2.41S-60.27W,1962,26.79
+Manaus,Brazil,2.41S-60.27W,1963,26.89
+Manaus,Brazil,2.41S-60.27W,1964,26.82
+Manaus,Brazil,2.41S-60.27W,1965,26.95
+Manaus,Brazil,2.41S-60.27W,1966,26.96
+Manaus,Brazil,2.41S-60.27W,1967,26.85
+Manaus,Brazil,2.41S-60.27W,1968,26.53
+Manaus,Brazil,2.41S-60.27W,1969,27.41
+Manaus,Brazil,2.41S-60.27W,1970,26.91
+Manaus,Brazil,2.41S-60.27W,1971,26.42
+Manaus,Brazil,2.41S-60.27W,1972,26.85
+Manaus,Brazil,2.41S-60.27W,1973,27.06
+Manaus,Brazil,2.41S-60.27W,1974,26.59
+Manaus,Brazil,2.41S-60.27W,1975,26.64
+Manaus,Brazil,2.41S-60.27W,1976,26.85
+Manaus,Brazil,2.41S-60.27W,1977,26.87
+Manaus,Brazil,2.41S-60.27W,1978,26.98
+Manaus,Brazil,2.41S-60.27W,1979,27.12
+Manaus,Brazil,2.41S-60.27W,1980,27.28
+Manaus,Brazil,2.41S-60.27W,1981,26.98
+Manaus,Brazil,2.41S-60.27W,1982,27.14
+Manaus,Brazil,2.41S-60.27W,1983,27.59
+Manaus,Brazil,2.41S-60.27W,1984,26.69
+Manaus,Brazil,2.41S-60.27W,1985,26.82
+Manaus,Brazil,2.41S-60.27W,1986,26.84
+Manaus,Brazil,2.41S-60.27W,1987,27.53
+Manaus,Brazil,2.41S-60.27W,1988,27.1
+Manaus,Brazil,2.41S-60.27W,1989,26.72
+Manaus,Brazil,2.41S-60.27W,1990,27.23
+Manaus,Brazil,2.41S-60.27W,1991,27.24
+Manaus,Brazil,2.41S-60.27W,1992,27.49
+Manaus,Brazil,2.41S-60.27W,1993,26.93
+Manaus,Brazil,2.41S-60.27W,1994,27.09
+Manaus,Brazil,2.41S-60.27W,1995,27.59
+Manaus,Brazil,2.41S-60.27W,1996,27.25
+Manaus,Brazil,2.41S-60.27W,1997,27.82
+Manaus,Brazil,2.41S-60.27W,1998,28.02
+Manaus,Brazil,2.41S-60.27W,1999,27.17
+Manaus,Brazil,2.41S-60.27W,2000,27.09
+Manaus,Brazil,2.41S-60.27W,2001,27.37
+Manaus,Brazil,2.41S-60.27W,2002,27.61
+Manaus,Brazil,2.41S-60.27W,2003,27.71
+Manaus,Brazil,2.41S-60.27W,2004,27.48
+Manaus,Brazil,2.41S-60.27W,2005,27.85
+Manaus,Brazil,2.41S-60.27W,2006,27.66
+Manaus,Brazil,2.41S-60.27W,2007,27.59
+Manaus,Brazil,2.41S-60.27W,2008,27.21
+Manaus,Brazil,2.41S-60.27W,2009,27.68
+Manaus,Brazil,2.41S-60.27W,2010,27.9
+Manaus,Brazil,2.41S-60.27W,2011,27.58
+Manaus,Brazil,2.41S-60.27W,2012,27.61
+Manaus,Brazil,2.41S-60.27W,2013,27.68
+Manaus,Brazil,2.41S-60.27W,2014,27.74
+Manaus,Brazil,2.41S-60.27W,2015,28.44
+Manaus,Brazil,2.41S-60.27W,2016,28.27
+Manaus,Brazil,2.41S-60.27W,2017,27.94
+Manaus,Brazil,2.41S-60.27W,2018,27.8
+Manaus,Brazil,2.41S-60.27W,2019,27.81
+Manaus,Brazil,2.41S-60.27W,2020,28.05
+Porto Alegre,Brazil,29.74S-51.69W,1832,17.82
+Porto Alegre,Brazil,29.74S-51.69W,1833,18.6
+Porto Alegre,Brazil,29.74S-51.69W,1834,18.29
+Porto Alegre,Brazil,29.74S-51.69W,1835,17.67
+Porto Alegre,Brazil,29.74S-51.69W,1836,17.89
+Porto Alegre,Brazil,29.74S-51.69W,1837,17.47
+Porto Alegre,Brazil,29.74S-51.69W,1838,17.79
+Porto Alegre,Brazil,29.74S-51.69W,1839,17.77
+Porto Alegre,Brazil,29.74S-51.69W,1840,18.13
+Porto Alegre,Brazil,29.74S-51.69W,1841,17.85
+Porto Alegre,Brazil,29.74S-51.69W,1842,18.27
+Porto Alegre,Brazil,29.74S-51.69W,1843,18.39
+Porto Alegre,Brazil,29.74S-51.69W,1851,18.19
+Porto Alegre,Brazil,29.74S-51.69W,1852,18.23
+Porto Alegre,Brazil,29.74S-51.69W,1853,18.25
+Porto Alegre,Brazil,29.74S-51.69W,1854,18.37
+Porto Alegre,Brazil,29.74S-51.69W,1855,18.27
+Porto Alegre,Brazil,29.74S-51.69W,1856,18.32
+Porto Alegre,Brazil,29.74S-51.69W,1857,18.88
+Porto Alegre,Brazil,29.74S-51.69W,1858,18.04
+Porto Alegre,Brazil,29.74S-51.69W,1859,18.39
+Porto Alegre,Brazil,29.74S-51.69W,1860,18.42
+Porto Alegre,Brazil,29.74S-51.69W,1861,18.27
+Porto Alegre,Brazil,29.74S-51.69W,1862,18.29
+Porto Alegre,Brazil,29.74S-51.69W,1863,18.05
+Porto Alegre,Brazil,29.74S-51.69W,1864,18.37
+Porto Alegre,Brazil,29.74S-51.69W,1865,18.7
+Porto Alegre,Brazil,29.74S-51.69W,1866,18.58
+Porto Alegre,Brazil,29.74S-51.69W,1867,18.47
+Porto Alegre,Brazil,29.74S-51.69W,1868,18.84
+Porto Alegre,Brazil,29.74S-51.69W,1869,18.51
+Porto Alegre,Brazil,29.74S-51.69W,1870,18.41
+Porto Alegre,Brazil,29.74S-51.69W,1871,18.05
+Porto Alegre,Brazil,29.74S-51.69W,1872,18.45
+Porto Alegre,Brazil,29.74S-51.69W,1873,18.81
+Porto Alegre,Brazil,29.74S-51.69W,1874,18.04
+Porto Alegre,Brazil,29.74S-51.69W,1875,18.09
+Porto Alegre,Brazil,29.74S-51.69W,1876,18.28
+Porto Alegre,Brazil,29.74S-51.69W,1877,19.14
+Porto Alegre,Brazil,29.74S-51.69W,1878,18.56
+Porto Alegre,Brazil,29.74S-51.69W,1879,18.07
+Porto Alegre,Brazil,29.74S-51.69W,1880,18.57
+Porto Alegre,Brazil,29.74S-51.69W,1881,18.63
+Porto Alegre,Brazil,29.74S-51.69W,1882,18.05
+Porto Alegre,Brazil,29.74S-51.69W,1883,18.53
+Porto Alegre,Brazil,29.74S-51.69W,1884,18.58
+Porto Alegre,Brazil,29.74S-51.69W,1885,18.59
+Porto Alegre,Brazil,29.74S-51.69W,1886,18.0
+Porto Alegre,Brazil,29.74S-51.69W,1887,18.27
+Porto Alegre,Brazil,29.74S-51.69W,1888,18.99
+Porto Alegre,Brazil,29.74S-51.69W,1889,18.73
+Porto Alegre,Brazil,29.74S-51.69W,1890,18.01
+Porto Alegre,Brazil,29.74S-51.69W,1891,18.44
+Porto Alegre,Brazil,29.74S-51.69W,1892,18.16
+Porto Alegre,Brazil,29.74S-51.69W,1893,17.63
+Porto Alegre,Brazil,29.74S-51.69W,1894,18.13
+Porto Alegre,Brazil,29.74S-51.69W,1895,18.69
+Porto Alegre,Brazil,29.74S-51.69W,1896,18.91
+Porto Alegre,Brazil,29.74S-51.69W,1897,18.69
+Porto Alegre,Brazil,29.74S-51.69W,1898,17.98
+Porto Alegre,Brazil,29.74S-51.69W,1899,18.79
+Porto Alegre,Brazil,29.74S-51.69W,1900,19.1
+Porto Alegre,Brazil,29.74S-51.69W,1901,18.33
+Porto Alegre,Brazil,29.74S-51.69W,1902,19.04
+Porto Alegre,Brazil,29.74S-51.69W,1903,18.58
+Porto Alegre,Brazil,29.74S-51.69W,1904,18.26
+Porto Alegre,Brazil,29.74S-51.69W,1905,18.34
+Porto Alegre,Brazil,29.74S-51.69W,1906,18.93
+Porto Alegre,Brazil,29.74S-51.69W,1907,18.32
+Porto Alegre,Brazil,29.74S-51.69W,1908,18.08
+Porto Alegre,Brazil,29.74S-51.69W,1909,18.09
+Porto Alegre,Brazil,29.74S-51.69W,1910,17.98
+Porto Alegre,Brazil,29.74S-51.69W,1911,17.62
+Porto Alegre,Brazil,29.74S-51.69W,1912,18.58
+Porto Alegre,Brazil,29.74S-51.69W,1913,18.94
+Porto Alegre,Brazil,29.74S-51.69W,1914,19.46
+Porto Alegre,Brazil,29.74S-51.69W,1915,18.84
+Porto Alegre,Brazil,29.74S-51.69W,1916,18.21
+Porto Alegre,Brazil,29.74S-51.69W,1917,17.95
+Porto Alegre,Brazil,29.74S-51.69W,1918,18.44
+Porto Alegre,Brazil,29.74S-51.69W,1919,19.09
+Porto Alegre,Brazil,29.74S-51.69W,1920,18.6
+Porto Alegre,Brazil,29.74S-51.69W,1921,18.34
+Porto Alegre,Brazil,29.74S-51.69W,1922,18.54
+Porto Alegre,Brazil,29.74S-51.69W,1923,18.51
+Porto Alegre,Brazil,29.74S-51.69W,1924,17.77
+Porto Alegre,Brazil,29.74S-51.69W,1925,18.63
+Porto Alegre,Brazil,29.74S-51.69W,1926,19.03
+Porto Alegre,Brazil,29.74S-51.69W,1927,18.75
+Porto Alegre,Brazil,29.74S-51.69W,1928,18.68
+Porto Alegre,Brazil,29.74S-51.69W,1929,18.61
+Porto Alegre,Brazil,29.74S-51.69W,1930,18.92
+Porto Alegre,Brazil,29.74S-51.69W,1931,18.14
+Porto Alegre,Brazil,29.74S-51.69W,1932,19.1
+Porto Alegre,Brazil,29.74S-51.69W,1933,18.51
+Porto Alegre,Brazil,29.74S-51.69W,1934,18.65
+Porto Alegre,Brazil,29.74S-51.69W,1935,18.55
+Porto Alegre,Brazil,29.74S-51.69W,1936,18.82
+Porto Alegre,Brazil,29.74S-51.69W,1937,18.19
+Porto Alegre,Brazil,29.74S-51.69W,1938,18.48
+Porto Alegre,Brazil,29.74S-51.69W,1939,18.75
+Porto Alegre,Brazil,29.74S-51.69W,1940,19.04
+Porto Alegre,Brazil,29.74S-51.69W,1941,18.47
+Porto Alegre,Brazil,29.74S-51.69W,1942,18.37
+Porto Alegre,Brazil,29.74S-51.69W,1943,18.95
+Porto Alegre,Brazil,29.74S-51.69W,1944,19.16
+Porto Alegre,Brazil,29.74S-51.69W,1945,18.94
+Porto Alegre,Brazil,29.74S-51.69W,1946,18.78
+Porto Alegre,Brazil,29.74S-51.69W,1947,18.5
+Porto Alegre,Brazil,29.74S-51.69W,1948,18.77
+Porto Alegre,Brazil,29.74S-51.69W,1949,18.81
+Porto Alegre,Brazil,29.74S-51.69W,1950,18.94
+Porto Alegre,Brazil,29.74S-51.69W,1951,18.54
+Porto Alegre,Brazil,29.74S-51.69W,1952,18.93
+Porto Alegre,Brazil,29.74S-51.69W,1953,18.98
+Porto Alegre,Brazil,29.74S-51.69W,1954,18.7
+Porto Alegre,Brazil,29.74S-51.69W,1955,18.29
+Porto Alegre,Brazil,29.74S-51.69W,1956,18.1
+Porto Alegre,Brazil,29.74S-51.69W,1957,18.86
+Porto Alegre,Brazil,29.74S-51.69W,1958,19.35
+Porto Alegre,Brazil,29.74S-51.69W,1959,19.05
+Porto Alegre,Brazil,29.74S-51.69W,1960,18.78
+Porto Alegre,Brazil,29.74S-51.69W,1961,19.72
+Porto Alegre,Brazil,29.74S-51.69W,1962,18.27
+Porto Alegre,Brazil,29.74S-51.69W,1963,19.37
+Porto Alegre,Brazil,29.74S-51.69W,1964,18.36
+Porto Alegre,Brazil,29.74S-51.69W,1965,18.96
+Porto Alegre,Brazil,29.74S-51.69W,1966,18.8
+Porto Alegre,Brazil,29.74S-51.69W,1967,19.39
+Porto Alegre,Brazil,29.74S-51.69W,1968,18.94
+Porto Alegre,Brazil,29.74S-51.69W,1969,18.86
+Porto Alegre,Brazil,29.74S-51.69W,1970,19.21
+Porto Alegre,Brazil,29.74S-51.69W,1971,18.85
+Porto Alegre,Brazil,29.74S-51.69W,1972,19.01
+Porto Alegre,Brazil,29.74S-51.69W,1973,18.9
+Porto Alegre,Brazil,29.74S-51.69W,1974,18.82
+Porto Alegre,Brazil,29.74S-51.69W,1975,18.86
+Porto Alegre,Brazil,29.74S-51.69W,1976,18.36
+Porto Alegre,Brazil,29.74S-51.69W,1977,19.86
+Porto Alegre,Brazil,29.74S-51.69W,1978,19.19
+Porto Alegre,Brazil,29.74S-51.69W,1979,18.42
+Porto Alegre,Brazil,29.74S-51.69W,1980,19.25
+Porto Alegre,Brazil,29.74S-51.69W,1981,19.33
+Porto Alegre,Brazil,29.74S-51.69W,1982,19.52
+Porto Alegre,Brazil,29.74S-51.69W,1983,18.81
+Porto Alegre,Brazil,29.74S-51.69W,1984,19.18
+Porto Alegre,Brazil,29.74S-51.69W,1985,19.77
+Porto Alegre,Brazil,29.74S-51.69W,1986,19.83
+Porto Alegre,Brazil,29.74S-51.69W,1987,19.04
+Porto Alegre,Brazil,29.74S-51.69W,1988,18.78
+Porto Alegre,Brazil,29.74S-51.69W,1989,19.12
+Porto Alegre,Brazil,29.74S-51.69W,1990,19.05
+Porto Alegre,Brazil,29.74S-51.69W,1991,19.63
+Porto Alegre,Brazil,29.74S-51.69W,1992,19.09
+Porto Alegre,Brazil,29.74S-51.69W,1993,19.22
+Porto Alegre,Brazil,29.74S-51.69W,1994,19.6
+Porto Alegre,Brazil,29.74S-51.69W,1995,19.52
+Porto Alegre,Brazil,29.74S-51.69W,1996,19.15
+Porto Alegre,Brazil,29.74S-51.69W,1997,19.63
+Porto Alegre,Brazil,29.74S-51.69W,1998,19.06
+Porto Alegre,Brazil,29.74S-51.69W,1999,18.86
+Porto Alegre,Brazil,29.74S-51.69W,2000,19.11
+Porto Alegre,Brazil,29.74S-51.69W,2001,20.05
+Porto Alegre,Brazil,29.74S-51.69W,2002,19.9
+Porto Alegre,Brazil,29.74S-51.69W,2003,19.54
+Porto Alegre,Brazil,29.74S-51.69W,2004,19.46
+Porto Alegre,Brazil,29.74S-51.69W,2005,19.83
+Porto Alegre,Brazil,29.74S-51.69W,2006,19.81
+Porto Alegre,Brazil,29.74S-51.69W,2007,19.51
+Porto Alegre,Brazil,29.74S-51.69W,2008,19.2
+Porto Alegre,Brazil,29.74S-51.69W,2009,19.38
+Porto Alegre,Brazil,29.74S-51.69W,2010,19.34
+Porto Alegre,Brazil,29.74S-51.69W,2011,19.18
+Porto Alegre,Brazil,29.74S-51.69W,2012,20.27
+Porto Alegre,Brazil,29.74S-51.69W,2013,19.1
+Porto Alegre,Brazil,29.74S-51.69W,2014,20.01
+Porto Alegre,Brazil,29.74S-51.69W,2015,20.03
+Porto Alegre,Brazil,29.74S-51.69W,2016,19.09
+Porto Alegre,Brazil,29.74S-51.69W,2017,20.32
+Porto Alegre,Brazil,29.74S-51.69W,2018,19.59
+Porto Alegre,Brazil,29.74S-51.69W,2019,20.24
+Porto Alegre,Brazil,29.74S-51.69W,2020,19.95
+Recife,Brazil,8.84S-34.86W,1832,24.37
+Recife,Brazil,8.84S-34.86W,1833,25.04
+Recife,Brazil,8.84S-34.86W,1834,24.92
+Recife,Brazil,8.84S-34.86W,1835,24.26
+Recife,Brazil,8.84S-34.86W,1836,24.51
+Recife,Brazil,8.84S-34.86W,1837,24.16
+Recife,Brazil,8.84S-34.86W,1838,24.4
+Recife,Brazil,8.84S-34.86W,1839,24.47
+Recife,Brazil,8.84S-34.86W,1840,24.69
+Recife,Brazil,8.84S-34.86W,1841,24.44
+Recife,Brazil,8.84S-34.86W,1842,24.85
+Recife,Brazil,8.84S-34.86W,1843,24.96
+Recife,Brazil,8.84S-34.86W,1851,24.82
+Recife,Brazil,8.84S-34.86W,1852,24.8
+Recife,Brazil,8.84S-34.86W,1853,24.83
+Recife,Brazil,8.84S-34.86W,1854,24.94
+Recife,Brazil,8.84S-34.86W,1855,24.97
+Recife,Brazil,8.84S-34.86W,1857,24.66
+Recife,Brazil,8.84S-34.86W,1858,24.73
+Recife,Brazil,8.84S-34.86W,1859,25.11
+Recife,Brazil,8.84S-34.86W,1860,25.2
+Recife,Brazil,8.84S-34.86W,1861,24.71
+Recife,Brazil,8.84S-34.86W,1862,24.46
+Recife,Brazil,8.84S-34.86W,1863,24.89
+Recife,Brazil,8.84S-34.86W,1864,24.79
+Recife,Brazil,8.84S-34.86W,1865,24.91
+Recife,Brazil,8.84S-34.86W,1866,25.06
+Recife,Brazil,8.84S-34.86W,1867,25.23
+Recife,Brazil,8.84S-34.86W,1868,25.05
+Recife,Brazil,8.84S-34.86W,1869,25.25
+Recife,Brazil,8.84S-34.86W,1870,24.92
+Recife,Brazil,8.84S-34.86W,1871,24.83
+Recife,Brazil,8.84S-34.86W,1872,24.93
+Recife,Brazil,8.84S-34.86W,1873,25.11
+Recife,Brazil,8.84S-34.86W,1874,25.17
+Recife,Brazil,8.84S-34.86W,1875,24.71
+Recife,Brazil,8.84S-34.86W,1876,24.92
+Recife,Brazil,8.84S-34.86W,1877,25.39
+Recife,Brazil,8.84S-34.86W,1878,25.9
+Recife,Brazil,8.84S-34.86W,1879,24.94
+Recife,Brazil,8.84S-34.86W,1880,25.16
+Recife,Brazil,8.84S-34.86W,1881,25.1
+Recife,Brazil,8.84S-34.86W,1882,24.85
+Recife,Brazil,8.84S-34.86W,1884,24.61
+Recife,Brazil,8.84S-34.86W,1885,24.9
+Recife,Brazil,8.84S-34.86W,1886,24.74
+Recife,Brazil,8.84S-34.86W,1887,24.81
+Recife,Brazil,8.84S-34.86W,1889,25.27
+Recife,Brazil,8.84S-34.86W,1890,24.88
+Recife,Brazil,8.84S-34.86W,1892,24.91
+Recife,Brazil,8.84S-34.86W,1893,24.78
+Recife,Brazil,8.84S-34.86W,1894,25.11
+Recife,Brazil,8.84S-34.86W,1895,24.94
+Recife,Brazil,8.84S-34.86W,1896,24.97
+Recife,Brazil,8.84S-34.86W,1897,24.79
+Recife,Brazil,8.84S-34.86W,1898,25.22
+Recife,Brazil,8.84S-34.86W,1899,24.68
+Recife,Brazil,8.84S-34.86W,1900,25.53
+Recife,Brazil,8.84S-34.86W,1901,25.16
+Recife,Brazil,8.84S-34.86W,1902,25.27
+Recife,Brazil,8.84S-34.86W,1903,25.24
+Recife,Brazil,8.84S-34.86W,1904,24.71
+Recife,Brazil,8.84S-34.86W,1905,25.07
+Recife,Brazil,8.84S-34.86W,1906,24.97
+Recife,Brazil,8.84S-34.86W,1907,25.16
+Recife,Brazil,8.84S-34.86W,1908,25.56
+Recife,Brazil,8.84S-34.86W,1909,25.32
+Recife,Brazil,8.84S-34.86W,1910,25.06
+Recife,Brazil,8.84S-34.86W,1911,24.93
+Recife,Brazil,8.84S-34.86W,1912,24.82
+Recife,Brazil,8.84S-34.86W,1913,25.26
+Recife,Brazil,8.84S-34.86W,1914,24.86
+Recife,Brazil,8.84S-34.86W,1915,25.46
+Recife,Brazil,8.84S-34.86W,1916,25.07
+Recife,Brazil,8.84S-34.86W,1917,24.79
+Recife,Brazil,8.84S-34.86W,1918,24.87
+Recife,Brazil,8.84S-34.86W,1919,25.38
+Recife,Brazil,8.84S-34.86W,1920,25.2
+Recife,Brazil,8.84S-34.86W,1921,25.02
+Recife,Brazil,8.84S-34.86W,1922,25.24
+Recife,Brazil,8.84S-34.86W,1923,25.2
+Recife,Brazil,8.84S-34.86W,1924,25.06
+Recife,Brazil,8.84S-34.86W,1925,24.83
+Recife,Brazil,8.84S-34.86W,1926,25.25
+Recife,Brazil,8.84S-34.86W,1927,25.26
+Recife,Brazil,8.84S-34.86W,1928,25.24
+Recife,Brazil,8.84S-34.86W,1929,25.16
+Recife,Brazil,8.84S-34.86W,1930,25.23
+Recife,Brazil,8.84S-34.86W,1931,25.34
+Recife,Brazil,8.84S-34.86W,1932,25.16
+Recife,Brazil,8.84S-34.86W,1933,25.23
+Recife,Brazil,8.84S-34.86W,1934,25.06
+Recife,Brazil,8.84S-34.86W,1935,25.33
+Recife,Brazil,8.84S-34.86W,1936,25.26
+Recife,Brazil,8.84S-34.86W,1937,25.61
+Recife,Brazil,8.84S-34.86W,1938,25.45
+Recife,Brazil,8.84S-34.86W,1939,25.27
+Recife,Brazil,8.84S-34.86W,1940,25.33
+Recife,Brazil,8.84S-34.86W,1941,25.47
+Recife,Brazil,8.84S-34.86W,1942,25.29
+Recife,Brazil,8.84S-34.86W,1943,24.99
+Recife,Brazil,8.84S-34.86W,1944,25.2
+Recife,Brazil,8.84S-34.86W,1945,25.35
+Recife,Brazil,8.84S-34.86W,1946,25.36
+Recife,Brazil,8.84S-34.86W,1947,25.32
+Recife,Brazil,8.84S-34.86W,1948,25.35
+Recife,Brazil,8.84S-34.86W,1949,25.4
+Recife,Brazil,8.84S-34.86W,1950,25.11
+Recife,Brazil,8.84S-34.86W,1951,25.29
+Recife,Brazil,8.84S-34.86W,1952,25.61
+Recife,Brazil,8.84S-34.86W,1953,25.42
+Recife,Brazil,8.84S-34.86W,1954,25.29
+Recife,Brazil,8.84S-34.86W,1955,25.03
+Recife,Brazil,8.84S-34.86W,1956,25.26
+Recife,Brazil,8.84S-34.86W,1957,25.31
+Recife,Brazil,8.84S-34.86W,1958,25.46
+Recife,Brazil,8.84S-34.86W,1959,25.56
+Recife,Brazil,8.84S-34.86W,1960,25.48
+Recife,Brazil,8.84S-34.86W,1961,25.28
+Recife,Brazil,8.84S-34.86W,1962,25.57
+Recife,Brazil,8.84S-34.86W,1963,25.46
+Recife,Brazil,8.84S-34.86W,1964,25.29
+Recife,Brazil,8.84S-34.86W,1965,25.38
+Recife,Brazil,8.84S-34.86W,1966,25.49
+Recife,Brazil,8.84S-34.86W,1967,25.32
+Recife,Brazil,8.84S-34.86W,1968,25.16
+Recife,Brazil,8.84S-34.86W,1969,25.73
+Recife,Brazil,8.84S-34.86W,1970,25.6
+Recife,Brazil,8.84S-34.86W,1971,25.69
+Recife,Brazil,8.84S-34.86W,1972,25.78
+Recife,Brazil,8.84S-34.86W,1973,26.13
+Recife,Brazil,8.84S-34.86W,1974,25.37
+Recife,Brazil,8.84S-34.86W,1975,25.42
+Recife,Brazil,8.84S-34.86W,1976,25.15
+Recife,Brazil,8.84S-34.86W,1977,25.56
+Recife,Brazil,8.84S-34.86W,1978,25.39
+Recife,Brazil,8.84S-34.86W,1979,25.7
+Recife,Brazil,8.84S-34.86W,1980,25.61
+Recife,Brazil,8.84S-34.86W,1981,25.46
+Recife,Brazil,8.84S-34.86W,1982,25.64
+Recife,Brazil,8.84S-34.86W,1983,26.07
+Recife,Brazil,8.84S-34.86W,1984,25.87
+Recife,Brazil,8.84S-34.86W,1985,25.62
+Recife,Brazil,8.84S-34.86W,1986,25.4
+Recife,Brazil,8.84S-34.86W,1987,26.12
+Recife,Brazil,8.84S-34.86W,1988,25.9
+Recife,Brazil,8.84S-34.86W,1989,25.77
+Recife,Brazil,8.84S-34.86W,1990,25.92
+Recife,Brazil,8.84S-34.86W,1991,25.75
+Recife,Brazil,8.84S-34.86W,1992,25.82
+Recife,Brazil,8.84S-34.86W,1993,26.2
+Recife,Brazil,8.84S-34.86W,1994,26.15
+Recife,Brazil,8.84S-34.86W,1995,26.2
+Recife,Brazil,8.84S-34.86W,1996,26.13
+Recife,Brazil,8.84S-34.86W,1997,26.14
+Recife,Brazil,8.84S-34.86W,1998,26.88
+Recife,Brazil,8.84S-34.86W,1999,26.18
+Recife,Brazil,8.84S-34.86W,2000,25.89
+Recife,Brazil,8.84S-34.86W,2001,26.12
+Recife,Brazil,8.84S-34.86W,2002,26.01
+Recife,Brazil,8.84S-34.86W,2003,26.43
+Recife,Brazil,8.84S-34.86W,2004,26.17
+Recife,Brazil,8.84S-34.86W,2005,26.46
+Recife,Brazil,8.84S-34.86W,2006,26.39
+Recife,Brazil,8.84S-34.86W,2007,26.06
+Recife,Brazil,8.84S-34.86W,2008,26.13
+Recife,Brazil,8.84S-34.86W,2009,26.47
+Recife,Brazil,8.84S-34.86W,2010,26.49
+Recife,Brazil,8.84S-34.86W,2011,26.06
+Recife,Brazil,8.84S-34.86W,2012,26.15
+Recife,Brazil,8.84S-34.86W,2013,26.36
+Recife,Brazil,8.84S-34.86W,2014,26.14
+Recife,Brazil,8.84S-34.86W,2015,26.49
+Recife,Brazil,8.84S-34.86W,2016,26.71
+Recife,Brazil,8.84S-34.86W,2017,26.46
+Recife,Brazil,8.84S-34.86W,2018,26.46
+Recife,Brazil,8.84S-34.86W,2019,26.65
+Recife,Brazil,8.84S-34.86W,2020,26.92
+Rio de Janeiro,Brazil,23.31S-42.82W,1832,22.73
+Rio de Janeiro,Brazil,23.31S-42.82W,1833,23.8
+Rio de Janeiro,Brazil,23.31S-42.82W,1834,22.98
+Rio de Janeiro,Brazil,23.31S-42.82W,1835,22.48
+Rio de Janeiro,Brazil,23.31S-42.82W,1836,22.62
+Rio de Janeiro,Brazil,23.31S-42.82W,1837,21.99
+Rio de Janeiro,Brazil,23.31S-42.82W,1838,22.55
+Rio de Janeiro,Brazil,23.31S-42.82W,1839,22.28
+Rio de Janeiro,Brazil,23.31S-42.82W,1840,23.03
+Rio de Janeiro,Brazil,23.31S-42.82W,1841,22.65
+Rio de Janeiro,Brazil,23.31S-42.82W,1842,23.1
+Rio de Janeiro,Brazil,23.31S-42.82W,1843,23.24
+Rio de Janeiro,Brazil,23.31S-42.82W,1851,22.84
+Rio de Janeiro,Brazil,23.31S-42.82W,1852,23.05
+Rio de Janeiro,Brazil,23.31S-42.82W,1853,23.08
+Rio de Janeiro,Brazil,23.31S-42.82W,1854,23.14
+Rio de Janeiro,Brazil,23.31S-42.82W,1855,23.27
+Rio de Janeiro,Brazil,23.31S-42.82W,1856,22.89
+Rio de Janeiro,Brazil,23.31S-42.82W,1857,23.49
+Rio de Janeiro,Brazil,23.31S-42.82W,1858,22.43
+Rio de Janeiro,Brazil,23.31S-42.82W,1859,23.09
+Rio de Janeiro,Brazil,23.31S-42.82W,1860,23.92
+Rio de Janeiro,Brazil,23.31S-42.82W,1861,23.06
+Rio de Janeiro,Brazil,23.31S-42.82W,1862,23.05
+Rio de Janeiro,Brazil,23.31S-42.82W,1863,22.97
+Rio de Janeiro,Brazil,23.31S-42.82W,1864,23.05
+Rio de Janeiro,Brazil,23.31S-42.82W,1865,22.94
+Rio de Janeiro,Brazil,23.31S-42.82W,1866,23.15
+Rio de Janeiro,Brazil,23.31S-42.82W,1867,23.21
+Rio de Janeiro,Brazil,23.31S-42.82W,1868,23.59
+Rio de Janeiro,Brazil,23.31S-42.82W,1869,23.48
+Rio de Janeiro,Brazil,23.31S-42.82W,1870,23.09
+Rio de Janeiro,Brazil,23.31S-42.82W,1871,22.97
+Rio de Janeiro,Brazil,23.31S-42.82W,1872,23.28
+Rio de Janeiro,Brazil,23.31S-42.82W,1873,23.49
+Rio de Janeiro,Brazil,23.31S-42.82W,1874,23.05
+Rio de Janeiro,Brazil,23.31S-42.82W,1875,22.89
+Rio de Janeiro,Brazil,23.31S-42.82W,1876,23.11
+Rio de Janeiro,Brazil,23.31S-42.82W,1877,23.84
+Rio de Janeiro,Brazil,23.31S-42.82W,1878,24.36
+Rio de Janeiro,Brazil,23.31S-42.82W,1879,22.87
+Rio de Janeiro,Brazil,23.31S-42.82W,1880,24.07
+Rio de Janeiro,Brazil,23.31S-42.82W,1881,23.35
+Rio de Janeiro,Brazil,23.31S-42.82W,1882,22.71
+Rio de Janeiro,Brazil,23.31S-42.82W,1883,23.08
+Rio de Janeiro,Brazil,23.31S-42.82W,1884,22.94
+Rio de Janeiro,Brazil,23.31S-42.82W,1885,23.68
+Rio de Janeiro,Brazil,23.31S-42.82W,1886,22.78
+Rio de Janeiro,Brazil,23.31S-42.82W,1887,23.27
+Rio de Janeiro,Brazil,23.31S-42.82W,1888,23.7
+Rio de Janeiro,Brazil,23.31S-42.82W,1889,23.92
+Rio de Janeiro,Brazil,23.31S-42.82W,1890,23.11
+Rio de Janeiro,Brazil,23.31S-42.82W,1891,23.3
+Rio de Janeiro,Brazil,23.31S-42.82W,1892,23.13
+Rio de Janeiro,Brazil,23.31S-42.82W,1893,22.44
+Rio de Janeiro,Brazil,23.31S-42.82W,1894,23.36
+Rio de Janeiro,Brazil,23.31S-42.82W,1895,23.12
+Rio de Janeiro,Brazil,23.31S-42.82W,1896,23.1
+Rio de Janeiro,Brazil,23.31S-42.82W,1897,23.06
+Rio de Janeiro,Brazil,23.31S-42.82W,1898,23.29
+Rio de Janeiro,Brazil,23.31S-42.82W,1899,23.71
+Rio de Janeiro,Brazil,23.31S-42.82W,1900,23.24
+Rio de Janeiro,Brazil,23.31S-42.82W,1901,22.83
+Rio de Janeiro,Brazil,23.31S-42.82W,1902,23.74
+Rio de Janeiro,Brazil,23.31S-42.82W,1903,23.46
+Rio de Janeiro,Brazil,23.31S-42.82W,1904,22.93
+Rio de Janeiro,Brazil,23.31S-42.82W,1905,23.55
+Rio de Janeiro,Brazil,23.31S-42.82W,1906,23.48
+Rio de Janeiro,Brazil,23.31S-42.82W,1907,23.09
+Rio de Janeiro,Brazil,23.31S-42.82W,1908,23.36
+Rio de Janeiro,Brazil,23.31S-42.82W,1909,23.12
+Rio de Janeiro,Brazil,23.31S-42.82W,1910,23.04
+Rio de Janeiro,Brazil,23.31S-42.82W,1911,23.07
+Rio de Janeiro,Brazil,23.31S-42.82W,1912,23.25
+Rio de Janeiro,Brazil,23.31S-42.82W,1913,23.49
+Rio de Janeiro,Brazil,23.31S-42.82W,1914,24.01
+Rio de Janeiro,Brazil,23.31S-42.82W,1915,23.78
+Rio de Janeiro,Brazil,23.31S-42.82W,1916,23.34
+Rio de Janeiro,Brazil,23.31S-42.82W,1917,22.47
+Rio de Janeiro,Brazil,23.31S-42.82W,1918,23.1
+Rio de Janeiro,Brazil,23.31S-42.82W,1919,23.57
+Rio de Janeiro,Brazil,23.31S-42.82W,1920,23.42
+Rio de Janeiro,Brazil,23.31S-42.82W,1921,23.01
+Rio de Janeiro,Brazil,23.31S-42.82W,1922,23.52
+Rio de Janeiro,Brazil,23.31S-42.82W,1923,23.45
+Rio de Janeiro,Brazil,23.31S-42.82W,1924,22.87
+Rio de Janeiro,Brazil,23.31S-42.82W,1925,23.16
+Rio de Janeiro,Brazil,23.31S-42.82W,1926,23.46
+Rio de Janeiro,Brazil,23.31S-42.82W,1927,23.3
+Rio de Janeiro,Brazil,23.31S-42.82W,1928,23.72
+Rio de Janeiro,Brazil,23.31S-42.82W,1929,23.44
+Rio de Janeiro,Brazil,23.31S-42.82W,1930,23.67
+Rio de Janeiro,Brazil,23.31S-42.82W,1931,23.24
+Rio de Janeiro,Brazil,23.31S-42.82W,1932,23.81
+Rio de Janeiro,Brazil,23.31S-42.82W,1933,22.65
+Rio de Janeiro,Brazil,23.31S-42.82W,1934,23.36
+Rio de Janeiro,Brazil,23.31S-42.82W,1935,23.45
+Rio de Janeiro,Brazil,23.31S-42.82W,1936,23.61
+Rio de Janeiro,Brazil,23.31S-42.82W,1937,23.14
+Rio de Janeiro,Brazil,23.31S-42.82W,1938,23.48
+Rio de Janeiro,Brazil,23.31S-42.82W,1939,23.56
+Rio de Janeiro,Brazil,23.31S-42.82W,1940,23.85
+Rio de Janeiro,Brazil,23.31S-42.82W,1941,23.7
+Rio de Janeiro,Brazil,23.31S-42.82W,1942,23.23
+Rio de Janeiro,Brazil,23.31S-42.82W,1943,23.14
+Rio de Janeiro,Brazil,23.31S-42.82W,1944,23.51
+Rio de Janeiro,Brazil,23.31S-42.82W,1945,23.25
+Rio de Janeiro,Brazil,23.31S-42.82W,1946,23.95
+Rio de Janeiro,Brazil,23.31S-42.82W,1947,23.13
+Rio de Janeiro,Brazil,23.31S-42.82W,1948,23.49
+Rio de Janeiro,Brazil,23.31S-42.82W,1949,23.25
+Rio de Janeiro,Brazil,23.31S-42.82W,1950,23.87
+Rio de Janeiro,Brazil,23.31S-42.82W,1951,22.93
+Rio de Janeiro,Brazil,23.31S-42.82W,1952,23.59
+Rio de Janeiro,Brazil,23.31S-42.82W,1953,23.52
+Rio de Janeiro,Brazil,23.31S-42.82W,1954,23.75
+Rio de Janeiro,Brazil,23.31S-42.82W,1955,23.15
+Rio de Janeiro,Brazil,23.31S-42.82W,1956,22.84
+Rio de Janeiro,Brazil,23.31S-42.82W,1957,23.56
+Rio de Janeiro,Brazil,23.31S-42.82W,1958,24.09
+Rio de Janeiro,Brazil,23.31S-42.82W,1959,24.18
+Rio de Janeiro,Brazil,23.31S-42.82W,1960,23.44
+Rio de Janeiro,Brazil,23.31S-42.82W,1961,24.27
+Rio de Janeiro,Brazil,23.31S-42.82W,1962,23.01
+Rio de Janeiro,Brazil,23.31S-42.82W,1963,23.9
+Rio de Janeiro,Brazil,23.31S-42.82W,1964,22.83
+Rio de Janeiro,Brazil,23.31S-42.82W,1965,23.86
+Rio de Janeiro,Brazil,23.31S-42.82W,1966,23.84
+Rio de Janeiro,Brazil,23.31S-42.82W,1967,23.88
+Rio de Janeiro,Brazil,23.31S-42.82W,1968,22.78
+Rio de Janeiro,Brazil,23.31S-42.82W,1969,23.78
+Rio de Janeiro,Brazil,23.31S-42.82W,1970,23.69
+Rio de Janeiro,Brazil,23.31S-42.82W,1971,23.65
+Rio de Janeiro,Brazil,23.31S-42.82W,1972,24.01
+Rio de Janeiro,Brazil,23.31S-42.82W,1973,24.1
+Rio de Janeiro,Brazil,23.31S-42.82W,1974,23.75
+Rio de Janeiro,Brazil,23.31S-42.82W,1975,23.46
+Rio de Janeiro,Brazil,23.31S-42.82W,1976,23.56
+Rio de Janeiro,Brazil,23.31S-42.82W,1977,24.39
+Rio de Janeiro,Brazil,23.31S-42.82W,1978,23.72
+Rio de Janeiro,Brazil,23.31S-42.82W,1979,23.32
+Rio de Janeiro,Brazil,23.31S-42.82W,1980,24.04
+Rio de Janeiro,Brazil,23.31S-42.82W,1981,23.69
+Rio de Janeiro,Brazil,23.31S-42.82W,1982,23.72
+Rio de Janeiro,Brazil,23.31S-42.82W,1983,24.0
+Rio de Janeiro,Brazil,23.31S-42.82W,1984,24.38
+Rio de Janeiro,Brazil,23.31S-42.82W,1985,23.71
+Rio de Janeiro,Brazil,23.31S-42.82W,1986,24.31
+Rio de Janeiro,Brazil,23.31S-42.82W,1987,24.12
+Rio de Janeiro,Brazil,23.31S-42.82W,1988,23.67
+Rio de Janeiro,Brazil,23.31S-42.82W,1989,23.67
+Rio de Janeiro,Brazil,23.31S-42.82W,1990,24.37
+Rio de Janeiro,Brazil,23.31S-42.82W,1991,23.94
+Rio de Janeiro,Brazil,23.31S-42.82W,1992,24.02
+Rio de Janeiro,Brazil,23.31S-42.82W,1993,24.33
+Rio de Janeiro,Brazil,23.31S-42.82W,1994,24.31
+Rio de Janeiro,Brazil,23.31S-42.82W,1995,24.43
+Rio de Janeiro,Brazil,23.31S-42.82W,1996,23.92
+Rio de Janeiro,Brazil,23.31S-42.82W,1997,24.4
+Rio de Janeiro,Brazil,23.31S-42.82W,1998,24.49
+Rio de Janeiro,Brazil,23.31S-42.82W,1999,23.71
+Rio de Janeiro,Brazil,23.31S-42.82W,2000,23.98
+Rio de Janeiro,Brazil,23.31S-42.82W,2001,24.66
+Rio de Janeiro,Brazil,23.31S-42.82W,2002,24.94
+Rio de Janeiro,Brazil,23.31S-42.82W,2003,24.44
+Rio de Janeiro,Brazil,23.31S-42.82W,2004,23.78
+Rio de Janeiro,Brazil,23.31S-42.82W,2005,24.4
+Rio de Janeiro,Brazil,23.31S-42.82W,2006,24.27
+Rio de Janeiro,Brazil,23.31S-42.82W,2007,24.66
+Rio de Janeiro,Brazil,23.31S-42.82W,2008,23.92
+Rio de Janeiro,Brazil,23.31S-42.82W,2009,24.69
+Rio de Janeiro,Brazil,23.31S-42.82W,2010,24.54
+Rio de Janeiro,Brazil,23.31S-42.82W,2011,24.07
+Rio de Janeiro,Brazil,23.31S-42.82W,2012,24.68
+Rio de Janeiro,Brazil,23.31S-42.82W,2013,24.35
+Rio de Janeiro,Brazil,23.31S-42.82W,2014,24.93
+Rio de Janeiro,Brazil,23.31S-42.82W,2015,25.39
+Rio de Janeiro,Brazil,23.31S-42.82W,2016,24.76
+Rio de Janeiro,Brazil,23.31S-42.82W,2017,24.75
+Rio de Janeiro,Brazil,23.31S-42.82W,2018,24.84
+Rio de Janeiro,Brazil,23.31S-42.82W,2019,25.2
+Rio de Janeiro,Brazil,23.31S-42.82W,2020,24.63
+Salvador,Brazil,13.66S-38.81W,1832,23.5
+Salvador,Brazil,13.66S-38.81W,1833,24.29
+Salvador,Brazil,13.66S-38.81W,1834,23.96
+Salvador,Brazil,13.66S-38.81W,1835,23.34
+Salvador,Brazil,13.66S-38.81W,1836,23.56
+Salvador,Brazil,13.66S-38.81W,1837,23.13
+Salvador,Brazil,13.66S-38.81W,1838,23.46
+Salvador,Brazil,13.66S-38.81W,1839,23.43
+Salvador,Brazil,13.66S-38.81W,1840,23.81
+Salvador,Brazil,13.66S-38.81W,1841,23.53
+Salvador,Brazil,13.66S-38.81W,1842,23.94
+Salvador,Brazil,13.66S-38.81W,1843,24.07
+Salvador,Brazil,13.66S-38.81W,1851,23.84
+Salvador,Brazil,13.66S-38.81W,1852,23.89
+Salvador,Brazil,13.66S-38.81W,1853,23.93
+Salvador,Brazil,13.66S-38.81W,1854,24.03
+Salvador,Brazil,13.66S-38.81W,1855,24.1
+Salvador,Brazil,13.66S-38.81W,1856,23.8
+Salvador,Brazil,13.66S-38.81W,1857,23.87
+Salvador,Brazil,13.66S-38.81W,1858,23.69
+Salvador,Brazil,13.66S-38.81W,1859,24.14
+Salvador,Brazil,13.66S-38.81W,1860,24.42
+Salvador,Brazil,13.66S-38.81W,1861,23.83
+Salvador,Brazil,13.66S-38.81W,1862,23.6
+Salvador,Brazil,13.66S-38.81W,1863,23.93
+Salvador,Brazil,13.66S-38.81W,1864,23.87
+Salvador,Brazil,13.66S-38.81W,1865,23.89
+Salvador,Brazil,13.66S-38.81W,1866,24.09
+Salvador,Brazil,13.66S-38.81W,1867,24.25
+Salvador,Brazil,13.66S-38.81W,1868,24.2
+Salvador,Brazil,13.66S-38.81W,1869,24.35
+Salvador,Brazil,13.66S-38.81W,1870,23.97
+Salvador,Brazil,13.66S-38.81W,1871,23.9
+Salvador,Brazil,13.66S-38.81W,1872,24.03
+Salvador,Brazil,13.66S-38.81W,1873,24.21
+Salvador,Brazil,13.66S-38.81W,1874,24.19
+Salvador,Brazil,13.66S-38.81W,1875,23.8
+Salvador,Brazil,13.66S-38.81W,1876,24.02
+Salvador,Brazil,13.66S-38.81W,1877,24.55
+Salvador,Brazil,13.66S-38.81W,1878,25.14
+Salvador,Brazil,13.66S-38.81W,1879,23.98
+Salvador,Brazil,13.66S-38.81W,1880,24.5
+Salvador,Brazil,13.66S-38.81W,1881,24.18
+Salvador,Brazil,13.66S-38.81W,1882,23.85
+Salvador,Brazil,13.66S-38.81W,1883,23.89
+Salvador,Brazil,13.66S-38.81W,1884,23.68
+Salvador,Brazil,13.66S-38.81W,1885,24.2
+Salvador,Brazil,13.66S-38.81W,1886,23.8
+Salvador,Brazil,13.66S-38.81W,1887,23.98
+Salvador,Brazil,13.66S-38.81W,1888,24.29
+Salvador,Brazil,13.66S-38.81W,1889,24.51
+Salvador,Brazil,13.66S-38.81W,1890,23.98
+Salvador,Brazil,13.66S-38.81W,1891,24.07
+Salvador,Brazil,13.66S-38.81W,1892,24.01
+Salvador,Brazil,13.66S-38.81W,1893,23.72
+Salvador,Brazil,13.66S-38.81W,1894,24.26
+Salvador,Brazil,13.66S-38.81W,1895,24.0
+Salvador,Brazil,13.66S-38.81W,1896,24.03
+Salvador,Brazil,13.66S-38.81W,1897,23.9
+Salvador,Brazil,13.66S-38.81W,1898,24.35
+Salvador,Brazil,13.66S-38.81W,1899,24.0
+Salvador,Brazil,13.66S-38.81W,1900,24.42
+Salvador,Brazil,13.66S-38.81W,1901,24.19
+Salvador,Brazil,13.66S-38.81W,1902,24.44
+Salvador,Brazil,13.66S-38.81W,1903,24.4
+Salvador,Brazil,13.66S-38.81W,1904,23.64
+Salvador,Brazil,13.66S-38.81W,1905,24.43
+Salvador,Brazil,13.66S-38.81W,1906,24.09
+Salvador,Brazil,13.66S-38.81W,1907,24.17
+Salvador,Brazil,13.66S-38.81W,1908,24.65
+Salvador,Brazil,13.66S-38.81W,1909,24.32
+Salvador,Brazil,13.66S-38.81W,1910,24.25
+Salvador,Brazil,13.66S-38.81W,1911,24.24
+Salvador,Brazil,13.66S-38.81W,1912,24.23
+Salvador,Brazil,13.66S-38.81W,1913,24.52
+Salvador,Brazil,13.66S-38.81W,1914,24.15
+Salvador,Brazil,13.66S-38.81W,1915,24.41
+Salvador,Brazil,13.66S-38.81W,1916,24.0
+Salvador,Brazil,13.66S-38.81W,1917,23.76
+Salvador,Brazil,13.66S-38.81W,1918,23.95
+Salvador,Brazil,13.66S-38.81W,1919,24.15
+Salvador,Brazil,13.66S-38.81W,1920,24.11
+Salvador,Brazil,13.66S-38.81W,1921,24.08
+Salvador,Brazil,13.66S-38.81W,1922,24.31
+Salvador,Brazil,13.66S-38.81W,1923,24.26
+Salvador,Brazil,13.66S-38.81W,1924,24.12
+Salvador,Brazil,13.66S-38.81W,1925,24.21
+Salvador,Brazil,13.66S-38.81W,1926,24.31
+Salvador,Brazil,13.66S-38.81W,1927,24.46
+Salvador,Brazil,13.66S-38.81W,1928,24.4
+Salvador,Brazil,13.66S-38.81W,1929,24.33
+Salvador,Brazil,13.66S-38.81W,1930,24.2
+Salvador,Brazil,13.66S-38.81W,1931,24.29
+Salvador,Brazil,13.66S-38.81W,1932,24.55
+Salvador,Brazil,13.66S-38.81W,1933,24.11
+Salvador,Brazil,13.66S-38.81W,1934,24.17
+Salvador,Brazil,13.66S-38.81W,1935,24.37
+Salvador,Brazil,13.66S-38.81W,1936,24.2
+Salvador,Brazil,13.66S-38.81W,1937,24.43
+Salvador,Brazil,13.66S-38.81W,1938,24.58
+Salvador,Brazil,13.66S-38.81W,1939,24.58
+Salvador,Brazil,13.66S-38.81W,1940,24.48
+Salvador,Brazil,13.66S-38.81W,1941,24.57
+Salvador,Brazil,13.66S-38.81W,1942,24.4
+Salvador,Brazil,13.66S-38.81W,1943,23.92
+Salvador,Brazil,13.66S-38.81W,1944,24.06
+Salvador,Brazil,13.66S-38.81W,1945,24.2
+Salvador,Brazil,13.66S-38.81W,1946,24.63
+Salvador,Brazil,13.66S-38.81W,1947,24.35
+Salvador,Brazil,13.66S-38.81W,1948,24.27
+Salvador,Brazil,13.66S-38.81W,1949,24.34
+Salvador,Brazil,13.66S-38.81W,1950,24.29
+Salvador,Brazil,13.66S-38.81W,1951,24.26
+Salvador,Brazil,13.66S-38.81W,1952,24.81
+Salvador,Brazil,13.66S-38.81W,1953,24.58
+Salvador,Brazil,13.66S-38.81W,1954,24.36
+Salvador,Brazil,13.66S-38.81W,1955,24.2
+Salvador,Brazil,13.66S-38.81W,1956,24.28
+Salvador,Brazil,13.66S-38.81W,1957,24.26
+Salvador,Brazil,13.66S-38.81W,1958,24.67
+Salvador,Brazil,13.66S-38.81W,1959,24.89
+Salvador,Brazil,13.66S-38.81W,1960,24.44
+Salvador,Brazil,13.66S-38.81W,1961,24.69
+Salvador,Brazil,13.66S-38.81W,1962,24.65
+Salvador,Brazil,13.66S-38.81W,1963,24.46
+Salvador,Brazil,13.66S-38.81W,1964,24.1
+Salvador,Brazil,13.66S-38.81W,1965,24.75
+Salvador,Brazil,13.66S-38.81W,1966,24.42
+Salvador,Brazil,13.66S-38.81W,1967,24.51
+Salvador,Brazil,13.66S-38.81W,1968,23.72
+Salvador,Brazil,13.66S-38.81W,1969,24.72
+Salvador,Brazil,13.66S-38.81W,1970,24.54
+Salvador,Brazil,13.66S-38.81W,1971,24.68
+Salvador,Brazil,13.66S-38.81W,1972,24.94
+Salvador,Brazil,13.66S-38.81W,1973,25.38
+Salvador,Brazil,13.66S-38.81W,1974,24.55
+Salvador,Brazil,13.66S-38.81W,1975,24.45
+Salvador,Brazil,13.66S-38.81W,1976,24.59
+Salvador,Brazil,13.66S-38.81W,1977,24.72
+Salvador,Brazil,13.66S-38.81W,1978,24.4
+Salvador,Brazil,13.66S-38.81W,1979,24.55
+Salvador,Brazil,13.66S-38.81W,1980,24.6
+Salvador,Brazil,13.66S-38.81W,1981,24.39
+Salvador,Brazil,13.66S-38.81W,1982,24.73
+Salvador,Brazil,13.66S-38.81W,1983,24.96
+Salvador,Brazil,13.66S-38.81W,1984,25.02
+Salvador,Brazil,13.66S-38.81W,1985,24.49
+Salvador,Brazil,13.66S-38.81W,1986,24.67
+Salvador,Brazil,13.66S-38.81W,1987,25.39
+Salvador,Brazil,13.66S-38.81W,1988,24.89
+Salvador,Brazil,13.66S-38.81W,1989,24.85
+Salvador,Brazil,13.66S-38.81W,1990,24.95
+Salvador,Brazil,13.66S-38.81W,1991,24.78
+Salvador,Brazil,13.66S-38.81W,1992,24.57
+Salvador,Brazil,13.66S-38.81W,1993,25.2
+Salvador,Brazil,13.66S-38.81W,1994,25.17
+Salvador,Brazil,13.66S-38.81W,1995,25.46
+Salvador,Brazil,13.66S-38.81W,1996,25.25
+Salvador,Brazil,13.66S-38.81W,1997,25.07
+Salvador,Brazil,13.66S-38.81W,1998,25.92
+Salvador,Brazil,13.66S-38.81W,1999,24.96
+Salvador,Brazil,13.66S-38.81W,2000,24.98
+Salvador,Brazil,13.66S-38.81W,2001,25.18
+Salvador,Brazil,13.66S-38.81W,2002,25.28
+Salvador,Brazil,13.66S-38.81W,2003,25.4
+Salvador,Brazil,13.66S-38.81W,2004,25.13
+Salvador,Brazil,13.66S-38.81W,2005,25.41
+Salvador,Brazil,13.66S-38.81W,2006,25.17
+Salvador,Brazil,13.66S-38.81W,2007,25.02
+Salvador,Brazil,13.66S-38.81W,2008,25.21
+Salvador,Brazil,13.66S-38.81W,2009,25.81
+Salvador,Brazil,13.66S-38.81W,2010,25.65
+Salvador,Brazil,13.66S-38.81W,2011,25.06
+Salvador,Brazil,13.66S-38.81W,2012,25.4
+Salvador,Brazil,13.66S-38.81W,2013,25.42
+Salvador,Brazil,13.66S-38.81W,2014,25.15
+Salvador,Brazil,13.66S-38.81W,2015,25.93
+Salvador,Brazil,13.66S-38.81W,2016,26.02
+Salvador,Brazil,13.66S-38.81W,2017,25.38
+Salvador,Brazil,13.66S-38.81W,2018,25.8
+Salvador,Brazil,13.66S-38.81W,2019,26.27
+Salvador,Brazil,13.66S-38.81W,2020,25.66

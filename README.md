@@ -2,7 +2,7 @@
 
 How much warmer is it where I live, compared with the world? A comparison of local and global temperatures from 1854 to 2024, made for the Udacity Data Analyst Nanodegree and updated with current data.
 
-**Interactive report:** https://lucasnvieira.github.io/weather-trends/
+**See the project:** https://lucasnvieira.github.io/weather-trends/ (interactive report)
 **Step-by-step analysis:** [notebooks/weather_trends.ipynb](notebooks/weather_trends.ipynb)
 
 ## Findings
@@ -32,18 +32,6 @@ notebooks/                 the full analysis, with explanations
 app/                       the interactive report (plain HTML, CSS and JavaScript)
 ```
 
-## Run it
-
-```bash
-pip install -r requirements.txt
-python scripts/download_berkeley_earth.py   # only needed to refresh data/raw/berkeley_earth/
-python scripts/build_dataset.py             # raw -> data/processed/ and app/data.js
-jupyter notebook notebooks/weather_trends.ipynb
-python -m http.server 8765 --directory app  # report at http://localhost:8765
-```
-
-The SQL files run on `data/processed/weather.db` with any SQLite client, for example `sqlite3 data/processed/weather.db < sql/02_brazil.sql`.
-
 ## Data
 
 - **Berkeley Earth**, the source behind the Udacity database. Global land average up to December 2024; city files up to December 2020 (the January 2021 release, the latest available for cities). https://berkeleyearth.org/data/
@@ -54,6 +42,20 @@ The SQL files run on `data/processed/weather.db` with any SQLite client, for exa
 ## Versions
 
 See [CHANGELOG.md](CHANGELOG.md).
+
+## Reproduce it on your computer
+
+Only needed if you want to redo the analysis yourself. To just see the project, open the [interactive report](https://lucasnvieira.github.io/weather-trends/).
+
+```bash
+pip install -r requirements.txt
+python scripts/download_berkeley_earth.py   # only needed to refresh data/raw/berkeley_earth/
+python scripts/build_dataset.py             # raw -> data/processed/ and app/data.js
+jupyter notebook notebooks/weather_trends.ipynb
+python -m http.server 8765 --directory app  # then open http://localhost:8765 in your browser
+```
+
+The SQL files run on `data/processed/weather.db` with any SQLite client, for example `sqlite3 data/processed/weather.db < sql/02_brazil.sql`.
 
 ## License
 
